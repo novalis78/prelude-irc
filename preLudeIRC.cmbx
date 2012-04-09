@@ -1,0 +1,16 @@
+<Combine fileversion="1.0" name="preLudeIRC" description="">
+  <StartMode startupentry="preLudeIRC" single="True">
+    <Execute entry="preLudeIRC" type="None" />
+  </StartMode>
+  <Entries>
+    <Entry filename=".\preLudeIRC.prjx" />
+  </Entries>
+  <Configurations active="Debug">
+    <Configuration name="Release">
+      <Entry name="preLudeIRC" configurationname="Debug" build="False" />
+    </Configuration>
+    <Configuration name="Debug">
+      <Entry name="preLudeIRC" configurationname="Debug" build="False" />
+    </Configuration>
+  </Configurations>
+</Combine>
