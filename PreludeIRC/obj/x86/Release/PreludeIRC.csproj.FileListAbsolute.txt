@@ -1,0 +1,14 @@
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\bin\Release\PreludeIRC.exe.config
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\bin\Release\PreludeIRC.exe
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\bin\Release\PreludeIRC.pdb
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\bin\Release\Meebey.SmartIrc4net.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\bin\Release\PreludeEngine.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\bin\Release\NLog.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\bin\Release\AForge.Math.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\bin\Release\Interop.SpeechLib.dll
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\bin\Release\PreludeEngine.pdb
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\bin\Release\AForge.Math.xml
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\obj\x86\Release\PreludeIRC.exe
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\obj\x86\Release\PreludeIRC.pdb
+C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\bin\Release\NLog.config
