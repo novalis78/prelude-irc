@@ -8,6 +8,7 @@
  */
 using System;
 using System.Collections;
+using System.Collections.Generic;
 using System.Threading;
 using Meebey.SmartIrc4net;
 using System.Timers;
@@ -33,6 +34,7 @@ namespace PreludeIRC
         private static int idleTime = 0;
         private static string autoSpeakInput = "";
         private static IrcEventArgs latest = null;
+        private static List<string> AllChannels = new List<string>();
         private static Logger logger = LogManager.GetCurrentClassLogger();
 
         public static void Main(string[] args)
@@ -86,20 +88,30 @@ namespace PreludeIRC
             catch (ConnectionException e)
             {
                 // something went wrong, the reason will be shown
-                System.Console.WriteLine("couldn't connect! Reason: " + e.Message);
+                logger.Trace("couldn't connect! Reason: " + e.Message);
                 Exit();
             }
 
             try
             {
                 // here we logon and register our nickname and so on 
+                irc.OnRawMessage += new IrcEventHandler(irc_OnRawMessage);	
                 irc.Login(nick, real);
+                
+                //load all channels
+                
+                irc.RfcList("");
+
+                Dictionary<string, int> chann = new  Dictionary<string, int>();
+                
+                
+                
                 // join the channel
                 irc.RfcJoin(channel);
 
                 // here we send just 3 different types of messages, 3 times for
                 // testing the delay and flood protection (messagebuffer work)
-                irc.SendMessage(SendType.Message, channel, "hi @ all");
+           //irc.SendMessage(SendType.Message, channel, "hi @ all");
                 //irc.SendMessage(SendType.Action, channel, "thinks this is cool "+i.ToString());
                 //irc.SendMessage(SendType.Notice, channel, "SmartIrc4net rocks "+i.ToString());
 
@@ -107,6 +119,8 @@ namespace PreludeIRC
                 pi = new PreLudeInterface();
                 //define path to mind file
                 pi.loadedMind = "mind.mdu";
+                pi.avoidLearnByRepeating = true;
+                pi.initializedAssociater = Mind.MatchingAlgorithm.Dice;
                 //start your engine ...
                 pi.initializeEngine();
 
@@ -130,16 +144,40 @@ namespace PreludeIRC
             {
                 // this exception is handled becaused Disconnect() can throw a not
                 // connected exception
+                logger.Trace("Connection exception");
                 Exit();
             }
             catch (Exception e)
             {
                 // this should not happen by just in case we handle it nicely
-                System.Console.WriteLine("Error occurred! Message: " + e.Message);
-                System.Console.WriteLine("Exception: " + e.StackTrace);
+                logger.Trace("Error occurred! Message: " + e.Message);
+                logger.Trace("Exception: " + e.StackTrace);
                 Exit();
             }
         }
+
+        static void irc_OnRawMessage(object sender, IrcEventArgs e)
+        {
+            
+            if (e.Data.ReplyCode == Meebey.SmartIrc4net.ReplyCode.List)
+            {
+                if(!AllChannels.Contains(e.Data.RawMessage))
+                    AllChannels.Add(e.Data.RawMessage);
+            }
+            if (e.Data.ReplyCode == Meebey.SmartIrc4net.ReplyCode.ListEnd)
+            {
+                Random r = new Random();
+                int index = r.Next(AllChannels.Count);
+                string randomString = AllChannels[index];
+                int a = randomString.IndexOf("#");
+                int en = randomString.IndexOf(" ", a);
+                string channel = randomString.Substring(a, en - a);
+                irc.RfcJoin(channel);
+            }
+
+           
+        } 
+
 
         public static IrcClient irc = new IrcClient();
 
@@ -225,13 +263,22 @@ namespace PreludeIRC
                             if (timer != null)
                                 timer.Stop();
                         }
-                        a = pi.chatWithPrelude(ind);
-                        logger.Trace("User (plublic): " + ind);
-                        logger.Trace("Prelude: " + a);
+                        //got something:
+                        logger.Info("User (private|"+e.Data.Nick+"): " + ind);
+                        
+                        //now wait a bit
                         Random rand = new Random();
                         int rnum = rand.Next(2, 15);
-                        System.Threading.Thread.Sleep(1000 * rnum);
+                        //System.Threading.Thread.Sleep(1000 * rnum);
+                        
+                        //now answer
+                        a = pi.chatWithPrelude(ind);
                         irc.SendMessage(SendType.Message, e.Data.Nick, a);
+                        logger.Info("User said (private|" + e.Data.Nick + "): " + ind);
+                        logger.Info("To which Prelude responded: " + a);
+
+                        //now make sure we save it..
+                        pi.forcedSaveMindFile();
                         if (relayChat)
                         {
                             irc.SendMessage(SendType.Message, Spy, ind);
@@ -526,12 +573,40 @@ namespace PreludeIRC
 
         private static void autoAnswering(object sender, System.Timers.ElapsedEventArgs e)
         {
-            //trigger auto answer to frontend
-            if (timer.Enabled != false)
+            try
             {
-                string answer = pi.chatWithPrelude(autoSpeakInput);
-                logger.Trace("Prelude (auto): " + autoSpeakInput);
-                irc.SendMessage(SendType.Message, latest.Data.Nick, answer);
+                //trigger auto answer to frontend
+                if (timer.Enabled != false)
+                {
+                    string[] incs = irc.GetChannels();
+                    if (incs.Length <= 0)
+                    {
+                        logger.Trace("not in any channel anymore");
+                        Random r = new Random();
+                        int index = r.Next(AllChannels.Count);
+                        string randomString = AllChannels[index];
+                        int a = randomString.IndexOf("#");
+                        int en = randomString.IndexOf(" ", a);
+                        string channel = randomString.Substring(a, en - a);
+                        logger.Trace("Joining " + channel);
+                        irc.RfcJoin(channel);
+                        
+                    }
+                    else
+                    {
+                        foreach (string a in incs)
+                        {
+                            logger.Trace("I am still active in these channels: " + a);
+                        }
+                    }
+                    //string answer = pi.chatWithPrelude(autoSpeakInput);
+                    //logger.Trace("Prelude (auto): " + autoSpeakInput);
+                    //irc.SendMessage(SendType.Message, latest.Data.Nick, answer);
+                }
+            }
+            catch (System.Exception ex)
+            {
+                logger.Trace("error: " + ex.Message);
             }
 
         }

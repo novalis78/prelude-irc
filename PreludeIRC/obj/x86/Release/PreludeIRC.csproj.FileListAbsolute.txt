@@ -12,3 +12,6 @@ C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\Prel
 C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\obj\x86\Release\PreludeIRC.exe
 C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\obj\x86\Release\PreludeIRC.pdb
 C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\bin\Release\NLog.config
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Release\PreludeIRC.exe.config
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\obj\x86\Release\PreludeIRC.exe
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\obj\x86\Release\PreludeIRC.pdb

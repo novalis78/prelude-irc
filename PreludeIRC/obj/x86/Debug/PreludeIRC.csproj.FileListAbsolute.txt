@@ -12,3 +12,17 @@ C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\Prel
 C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\obj\x86\Debug\PreludeIRC.exe
 C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\obj\x86\Debug\PreludeIRC.pdb
 C:\Users\novalis78\Documents\Visual Studio 2010\Projects\Prelude\preLudeIRC\PreludeIRC\PreludeIRC\bin\Debug\NLog.config
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\obj\x86\Debug\PreludeIRC.exe
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Debug\NLog.config
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Debug\PreludeIRC.exe.config
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Debug\PreludeIRC.exe
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Debug\PreludeIRC.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Debug\Meebey.SmartIrc4net.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Debug\NLog.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Debug\AForge.Math.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Debug\Interop.SpeechLib.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Debug\PreludeEngine.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Debug\AForge.Math.xml
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\obj\x86\Debug\PreludeIRC.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Debug\IPlugin.dll
