@@ -62,8 +62,8 @@ namespace PreludeIRC
             string[] serverlist;
             serverlist = new string[] { "irc.dal.net" };
             int port = 6667;
-            string channel = "#cybersex";
-            string nick = "sexGirlFlower";
+            string channel = "#cccc";
+            string nick = "cccc";
             string real = "PLEIRC";
             if (args.Length > 2)
             {
