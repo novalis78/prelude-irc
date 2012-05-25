@@ -63,8 +63,8 @@ namespace PreludeIRC
             string[] serverlist;
             serverlist = new string[] { "irc.dal.net" };
             int port = 6667;
-            string channel = "#";
-            string nick = "";
+            string channel = "#sexo";
+            string nick = "sexGirlFlower";
             string real = "PLEIRC";
             if (args.Length > 2)
             {
@@ -228,6 +228,15 @@ namespace PreludeIRC
         public static void OnRawMessage(object sender, IrcEventArgs e)
         {
             System.Console.WriteLine("Received: " + e.Data.Message);
+            string m = e.Data.Message;
+            if (!String.IsNullOrEmpty(m))
+            {
+                if (e.Data.Message.ToLower().Contains("with another nickname"))
+                {
+                    Random r = new Random();
+                    irc.RfcNick(irc.Nickname + r.Next(2, 500));
+                }
+            }
         }
 
         public static void ReadCommands()

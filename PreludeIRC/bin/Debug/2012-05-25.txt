@@ -1,0 +1,2278 @@
+12:47:09|Loading Prelude...
+12:47:09|Prelude loaded and initialized...
+12:48:04|Loading Prelude...
+12:48:04|Prelude loaded and initialized...
+12:51:02|So far I talked to: 1 people.
+12:51:02|User said (private|domador_1):	alguna mujer
+12:51:16|Finding best match within memory: 0.352941176470588
+12:51:16|Added to best list: [0.352941176470588]	->Votre m re doit tre une personne charmante.    votre m re
+12:51:16|Added to best list: [0.352941176470588]	->Tengo hambre.
+12:51:16|Boredom time function:  x: 191348.9446 y: 194000
+12:51:16|Prelude responded to (pm | domador_1):	Votre m re doit tre une personne charmante.    votre m re
+12:51:16|User said (private|domador_1):	arecha
+12:51:25|Finding best match within memory: 0.666666666666667
+12:51:25|Added to best list: [0.666666666666667]	->I always say, share and share alike.
+12:51:25|Boredom time function:  x: 200624.4751 y: 208000
+12:51:25|Prelude responded to (pm | domador_1):	I always say, share and share alike.
+12:51:25|User said (private|domador_1):	pa q le de algo de mi especie
+12:51:35|Finding best match within memory: 0.472727272727273
+12:51:35|Added to best list: [0.472727272727273]	->Si tu esposa te abandono, si que tienes un problema.
+12:51:35|Added to best list: [0.472727272727273]	->Ese fue un ejemplo.
+12:51:35|Boredom time function:  x: 211109.0748 y: 214000
+12:51:35|Prelude responded to (pm | domador_1):	Si tu esposa te abandono, si que tienes un problema.
+12:52:04|I am still active in these channels: #sexo
+12:52:04|My Mind Size: 30896
+12:52:33|I am still active in these channels: #sexo
+12:52:33|My Mind Size: 30896
+12:53:02|I am still active in these channels: #sexo
+12:53:02|My Mind Size: 30896
+12:53:32|I am still active in these channels: #sexo
+12:53:32|My Mind Size: 30896
+12:54:01|I am still active in these channels: #sexo
+12:54:01|My Mind Size: 30896
+12:54:30|I am still active in these channels: #sexo
+12:54:30|My Mind Size: 30896
+12:54:59|I am still active in these channels: #sexo
+12:54:59|My Mind Size: 30896
+12:55:08|Finding best match within memory: 0.530120481927711
+12:55:08|Added to best list: [0.530120481927711]	->Tu madre,es la que usa drogas.
+12:55:08|Added to best list: [0.530120481927711]	->Yo, no soy tecato.
+12:55:08|Boredom time function:  x: 423959.2491 y: 431000
+12:55:28|I am still active in these channels: #sexo
+12:55:28|My Mind Size: 30896
+12:55:39|User said (private|domador_1):	como
+12:55:48|Finding best match within memory: 0.5
+12:55:48|Added to best list: [0.5]	->Tell me more about your mother.
+12:55:48|Boredom time function:  x: 463785.5271 y: 471000
+12:55:48|Prelude responded to (pm | domador_1):	Tell me more about your mother.
+12:56:14|I am still active in these channels: #sexo
+12:56:14|My Mind Size: 30897
+12:56:41|I am still active in these channels: #sexo
+12:56:41|My Mind Size: 30897
+12:57:07|I am still active in these channels: #sexo
+12:57:07|My Mind Size: 30897
+12:57:33|I am still active in these channels: #sexo
+12:57:33|My Mind Size: 30897
+12:57:59|I am still active in these channels: #sexo
+12:57:59|My Mind Size: 30897
+12:58:26|I am still active in these channels: #sexo
+12:58:26|My Mind Size: 30897
+12:58:52|I am still active in these channels: #sexo
+12:58:52|My Mind Size: 30897
+12:59:18|I am still active in these channels: #sexo
+12:59:18|My Mind Size: 30897
+12:59:45|I am still active in these channels: #sexo
+12:59:45|My Mind Size: 30897
+13:00:11|I am still active in these channels: #sexo
+13:00:11|My Mind Size: 30897
+13:00:37|I am still active in these channels: #sexo
+13:00:37|My Mind Size: 30897
+13:00:47|So far I talked to: 2 people.
+13:00:47|User said (private|boy_lp):	quiero sexo en la paz
+13:00:59|Finding best match within memory: 0.459016393442623
+13:00:59|Added to best list: [0.459016393442623]	->Esas son formulas de escuela, yo no soy cientifico.
+13:00:59|Boredom time function:  x: 774988.3268 y: 778000
+13:00:59|Prelude responded to (pm | boy_lp):	Esas son formulas de escuela, yo no soy cientifico.
+13:01:26|I am still active in these channels: #sexo
+13:01:26|My Mind Size: 30898
+13:01:53|I am still active in these channels: #sexo
+13:01:53|My Mind Size: 30898
+13:02:12|User said (private|boy_lp):	jejejje
+13:02:22|Finding best match within memory: 0.4
+13:02:22|Added to best list: [0.4]	->Hej hej i stugan ;-)
+13:02:22|Boredom time function:  x: 82936.7438 y: 86000
+13:02:22|Prelude responded to (pm | boy_lp):	Hej hej i stugan ;-)
+13:02:22|User said (private|boy_lp):	hola
+13:02:36|Finding best match within memory: 0.666666666666667
+13:02:36|Added to best list: [0.666666666666667]	->Howdy!
+13:02:36|Added to best list: [0.666666666666667]	->Ahora, cabron
+13:02:36|Boredom time function:  x: 97179.5584 y: 104000
+13:02:36|Prelude responded to (pm | boy_lp):	Howdy!
+13:02:36|User said (private|boy_lp):	que haces
+13:02:46|Finding best match within memory: 0.6
+13:02:46|Added to best list: [0.6]	->How long have you been wearing them? braces
+13:02:46|Boredom time function:  x: 106488.0908 y: 109000
+13:02:46|Prelude responded to (pm | boy_lp):	How long have you been wearing them? braces
+13:03:03|I am still active in these channels: #sexo
+13:03:03|My Mind Size: 30901
+13:03:20|I am still active in these channels: #sexo
+13:03:20|My Mind Size: 30901
+13:03:37|I am still active in these channels: #sexo
+13:03:37|My Mind Size: 30901
+13:03:55|I am still active in these channels: #sexo
+13:03:55|My Mind Size: 30901
+13:04:12|I am still active in these channels: #sexo
+13:04:12|My Mind Size: 30901
+13:04:29|I am still active in these channels: #sexo
+13:04:29|My Mind Size: 30901
+13:04:34|Finding best match within memory: 0.6875
+13:04:34|Added to best list: [0.6875]	->More than ten minutes, i would say.
+13:04:34|Boredom time function:  x: 215019.2984 y: 218000
+13:04:46|I am still active in these channels: #sexo
+13:04:46|My Mind Size: 30901
+13:05:04|I am still active in these channels: #sexo
+13:05:04|My Mind Size: 30901
+13:05:21|I am still active in these channels: #sexo
+13:05:21|My Mind Size: 30901
+13:05:38|I am still active in these channels: #sexo
+13:05:38|My Mind Size: 30901
+13:05:46|User said (private|boy_lp):	que
+13:06:00|Finding best match within memory: 0.5
+13:06:00|Added to best list: [0.5]	->Who is requesting
+13:06:00|Boredom time function:  x: 300534.1896 y: 308000
+13:06:00|Prelude responded to (pm | boy_lp):	Who is requesting
+13:06:21|I am still active in these channels: #sexo
+13:06:21|My Mind Size: 30902
+13:06:36|User said (private|boy_lp):	quiero sexo en la paz
+13:06:47|Finding best match within memory: 0.459016393442623
+13:06:47|Added to best list: [0.459016393442623]	->Esas son formulas de escuela, yo no soy cientifico.
+13:06:47|Boredom time function:  x: 348198.9159 y: 355000
+13:06:47|Prelude responded to (pm | boy_lp):	Esas son formulas de escuela, yo no soy cientifico.
+13:07:05|I am still active in these channels: #sexo
+13:07:05|My Mind Size: 30902
+13:07:22|I am still active in these channels: #sexo
+13:07:30|My Mind Size: 30902
+13:07:40|I am still active in these channels: #sexo
+13:07:40|My Mind Size: 30902
+13:07:57|I am still active in these channels: #sexo
+13:07:57|My Mind Size: 30902
+13:08:01|User said (private|boy_lp):	me la chupas
+13:08:12|Finding best match within memory: 0.444444444444444
+13:08:12|Added to best list: [0.444444444444444]	->No, i won't
+13:08:12|Added to best list: [0.444444444444444]	->Who was that?
+13:08:12|Boredom time function:  x: 432607.7438 y: 440000
+13:08:12|Prelude responded to (pm | boy_lp):	Who was that?
+13:08:29|I am still active in these channels: #sexo
+13:08:29|My Mind Size: 30903
+13:08:46|I am still active in these channels: #sexo
+13:08:46|My Mind Size: 30903
+13:08:47|User said (private|boy_lp):	si me la chupas
+13:08:55|Finding best match within memory: 0.466666666666667
+13:08:55|Added to best list: [0.466666666666667]	->No, i won't
+13:08:55|Boredom time function:  x: 475803.2144 y: 483000
+13:08:55|Prelude responded to (pm | boy_lp):	No, i won't
+13:08:55|User said (private|boy_lp):	el pene
+13:09:05|Finding best match within memory: 0.461538461538462
+13:09:05|Added to best list: [0.461538461538462]	->Male humans like to talk about that a lot, but it doesn't interest me much.
+13:09:05|Added to best list: [0.461538461538462]	->"it" is spelled i...t...
+13:09:05|Added to best list: [0.461538461538462]	->Men like to talk about that.
+13:09:05|Boredom time function:  x: 486072.8018 y: 489000
+13:09:05|Prelude responded to (pm | boy_lp):	Men like to talk about that.
+13:09:21|I am still active in these channels: #sexo
+13:09:21|My Mind Size: 30905
+13:09:36|I am still active in these channels: #sexo
+13:09:36|My Mind Size: 30905
+13:09:52|I am still active in these channels: #sexo
+13:09:52|My Mind Size: 30905
+13:10:07|I am still active in these channels: #sexo
+13:10:07|My Mind Size: 30905
+13:10:23|I am still active in these channels: #sexo
+13:10:23|My Mind Size: 30905
+13:10:38|I am still active in these channels: #sexo
+13:10:38|My Mind Size: 30905
+13:10:54|I am still active in these channels: #sexo
+13:10:54|My Mind Size: 30905
+13:11:03|User said (private|boy_lp):	yo lo hago rico
+13:11:12|Finding best match within memory: 0.466666666666667
+13:11:12|Added to best list: [0.466666666666667]	->What is not to like about    richard   ?
+13:11:12|Boredom time function:  x: 612714.0453 y: 620000
+13:11:12|Prelude responded to (pm | boy_lp):	What is not to like about    richard   ?
+13:11:34|I am still active in these channels: #sexo
+13:11:34|My Mind Size: 30906
+13:11:57|I am still active in these channels: #sexo
+13:11:57|My Mind Size: 30906
+13:12:19|I am still active in these channels: #sexo
+13:12:19|My Mind Size: 30906
+13:12:33|Part: #SEXO
+13:12:33|User said (private|boy_lp):	la tengo de 18 cm
+13:12:44|Finding best match within memory: 0.457142857142857
+13:12:44|Added to best list: [0.457142857142857]	->Que es bueno, para el dolor de cabeza?
+13:12:44|Boredom time function:  x: 91963.26 y: 99000
+13:12:44|Prelude responded to (pm | boy_lp):	Que es bueno, para el dolor de cabeza?
+13:12:44|User said (private|boy_lp):	gruesa
+13:12:56|Finding best match within memory: 0.5
+13:12:56|Added to best list: [0.5]	->But if it's false, then how would you know
+13:12:56|Boredom time function:  x: 104217.9609 y: 111000
+13:12:56|Prelude responded to (pm | boy_lp):	But if it's false, then how would you know
+13:13:15|I am still active in these channels: #sexo
+13:13:15|My Mind Size: 30908
+13:13:34|I am still active in these channels: #sexo
+13:13:34|My Mind Size: 30908
+13:13:54|I am still active in these channels: #sexo
+13:13:54|My Mind Size: 30908
+13:14:13|I am still active in these channels: #sexo
+13:14:13|My Mind Size: 30908
+13:14:14|So far I talked to: 3 people.
+13:14:14|User said (private|sergio_25):	holaa d dond soj
+13:14:22|Finding best match within memory: 0.434782608695652
+13:14:22|Added to best list: [0.434782608695652]	->Awsome
+13:14:22|Added to best list: [0.434782608695652]	->. awesome
+13:14:22|Boredom time function:  x: 190393.8899 y: 193000
+13:14:22|Prelude responded to (pm | sergio_25):	. awesome
+13:14:41|I am still active in these channels: #sexo
+13:14:41|My Mind Size: 30909
+13:14:48|Part: #sexo
+13:14:48|User said (private|boy_lp):	el sexo es bueno
+13:14:57|Finding best match within memory: 0.56
+13:14:57|Added to best list: [0.56]	->no fastidies Nick_2 vaya y atienda a su esposa
+13:14:57|Boredom time function:  x: 225347.8891 y: 232000
+13:14:57|Prelude responded to (pm | boy_lp):	no fastidies Nick_2 vaya y atienda a su esposa
+13:15:23|I am still active in these channels: #sexo
+13:15:23|My Mind Size: 30910
+13:15:50|I am still active in these channels: #sexo
+13:15:50|My Mind Size: 30910
+13:16:16|I am still active in these channels: #sexo
+13:16:16|My Mind Size: 30910
+13:16:42|I am still active in these channels: #sexo
+13:16:42|My Mind Size: 30910
+13:17:04|User said (private|boy_lp):	no tengo esposa
+13:17:17|Finding best match within memory: 0.571428571428571
+13:17:17|Added to best list: [0.571428571428571]	->Ya estamos entrando en calor.
+13:17:17|Boredom time function:  x: 365336.8961 y: 372000
+13:17:17|Prelude responded to (pm | boy_lp):	Ya estamos entrando en calor.
+13:17:17|User said (private|boy_lp):	pero la tengo dura si te interesa
+13:17:27|Finding best match within memory: 0.465116279069767
+13:17:27|Added to best list: [0.465116279069767]	->Some of them are pretty interesting.
+13:17:27|Boredom time function:  x: 374824.4387 y: 378000
+13:17:27|Prelude responded to (pm | boy_lp):	Some of them are pretty interesting.
+13:17:48|I am still active in these channels: #sexo
+13:17:48|My Mind Size: 30912
+13:18:09|I am still active in these channels: #sexo
+13:18:09|My Mind Size: 30912
+13:18:30|I am still active in these channels: #sexo
+13:18:30|My Mind Size: 30912
+13:18:44|Part: #sexo
+13:18:44|User said (private|boy_lp):	te gusta por el culo
+13:18:59|Finding best match within memory: 0.606060606060606
+13:18:59|Added to best list: [0.606060606060606]	->El culo no me pica.
+13:18:59|Boredom time function:  x: 466924.7066 y: 470000
+13:18:59|Prelude responded to (pm | boy_lp):	El culo no me pica.
+13:19:29|I am still active in these channels: #sexo
+13:19:29|My Mind Size: 30913
+13:19:58|I am still active in these channels: #sexo
+13:19:58|My Mind Size: 30913
+13:20:26|So far I talked to: 4 people.
+13:20:26|User said (private|jerichodaniel):	hola
+13:20:35|Finding best match within memory: 0.666666666666667
+13:20:35|Added to best list: [0.666666666666667]	->Howdy!
+13:20:35|Added to best list: [0.666666666666667]	->Ahora, cabron
+13:20:35|Boredom time function:  x: 563386.2238 y: 566000
+13:20:35|Prelude responded to (pm | jerichodaniel):	Ahora, cabron
+13:20:35|User said (private|jerichodaniel):	d q ciudad ers
+13:20:50|Finding best match within memory: 0.307692307692308
+13:20:50|Added to best list: [0.307692307692308]	->Canada occupies most of north america.
+13:20:50|Added to best list: [0.307692307692308]	->Nova scotia and vancouver.
+13:20:50|Boredom time function:  x: 14313.8187 y: 17000
+13:20:50|Prelude responded to (pm | jerichodaniel):	Nova scotia and vancouver.
+13:20:50|User said (private|boy_lp):	quiero sexo en la paz
+13:21:01|Finding best match within memory: 0.459016393442623
+13:21:01|Added to best list: [0.459016393442623]	->Esas son formulas de escuela, yo no soy cientifico.
+13:21:01|Boredom time function:  x: 25720.4712 y: 29000
+13:21:01|Prelude responded to (pm | boy_lp):	Esas son formulas de escuela, yo no soy cientifico.
+13:21:30|Finding best match within memory: 1
+13:21:30|Added to best list: [1]	->jejejje
+13:21:30|Added to best list: [1]	->me la chupas
+13:21:30|Boredom time function:  x: 54381.1105 y: 57000
+13:21:30|I am still active in these channels: #sexo
+13:21:30|My Mind Size: 30914
+13:21:51|User said (private|jerichodaniel):	ers chika
+13:21:59|Finding best match within memory: 0.476190476190476
+13:21:59|Added to best list: [0.476190476190476]	->China     is a large nation in asia.
+13:21:59|Added to best list: [0.476190476190476]	->Southern south america, bordering the south atlantic ocean and south pacific ocean, between argentina and peru.         chile
+13:21:59|Boredom time function:  x: 83806.7935 y: 91000
+13:21:59|Prelude responded to (pm | jerichodaniel):	China     is a large nation in asia.
+13:21:59|User said (private|boy_lp):	pero la tengo dura si te interesa
+13:22:09|Finding best match within memory: 0.465116279069767
+13:22:09|Added to best list: [0.465116279069767]	->Some of them are pretty interesting.
+13:22:09|Boredom time function:  x: 93289.3359 y: 100000
+13:22:09|Prelude responded to (pm | boy_lp):	Some of them are pretty interesting.
+13:22:30|I am still active in these channels: #sexo
+13:22:30|My Mind Size: 30915
+13:22:41|User said (private|boy_lp):	quiero sexo en la paz
+13:22:54|Finding best match within memory: 0.459016393442623
+13:22:54|Added to best list: [0.459016393442623]	->Esas son formulas de escuela, yo no soy cientifico.
+13:22:54|Boredom time function:  x: 138428.9177 y: 141000
+13:22:54|Prelude responded to (pm | boy_lp):	Esas son formulas de escuela, yo no soy cientifico.
+13:22:54|User said (private|jerichodaniel):	mi pene mide 19 cm
+13:23:07|Finding best match within memory: 0.380952380952381
+13:23:07|Added to best list: [0.380952380952381]	->I like that idea.
+13:23:07|Boredom time function:  x: 151800.6825 y: 159000
+13:23:07|Prelude responded to (pm | jerichodaniel):	I like that idea.
+13:23:15|User said (private|boy_lp):	pero la tengo dura si te interesa
+13:23:28|Finding best match within memory: 0.465116279069767
+13:23:28|Added to best list: [0.465116279069767]	->Some of them are pretty interesting.
+13:23:28|Boredom time function:  x: 172801.8837 y: 180000
+13:23:28|Prelude responded to (pm | boy_lp):	Some of them are pretty interesting.
+13:23:43|I am still active in these channels: #sexo
+13:23:43|My Mind Size: 30916
+13:23:59|I am still active in these channels: #sexo
+13:23:59|My Mind Size: 30916
+13:24:14|I am still active in these channels: #sexo
+13:24:14|My Mind Size: 30916
+13:24:29|I am still active in these channels: #sexo
+13:24:29|My Mind Size: 30916
+13:24:44|I am still active in these channels: #sexo
+13:24:44|My Mind Size: 30916
+13:24:57|User said (private|boy_lp):	pero la tengo dura si te interesa
+13:25:09|Finding best match within memory: 0.465116279069767
+13:25:09|Added to best list: [0.465116279069767]	->Some of them are pretty interesting.
+13:25:09|Boredom time function:  x: 273833.6624 y: 277000
+13:25:09|Prelude responded to (pm | boy_lp):	okay
+13:25:09|User said (private|jerichodaniel):	is big
+13:25:17|Finding best match within memory: 0.666666666666667
+13:25:17|Added to best list: [0.666666666666667]	->Vast.
+13:25:17|Boredom time function:  x: 282086.1344 y: 285000
+13:25:17|Prelude responded to (pm | jerichodaniel):	Vast.
+13:25:34|I am still active in these channels: #sexo
+13:25:34|My Mind Size: 30917
+13:25:51|I am still active in these channels: #sexo
+13:25:51|My Mind Size: 30917
+13:26:08|I am still active in these channels: #sexo
+13:26:08|My Mind Size: 30917
+13:26:24|User said (private|boy_lp):	me la chupas
+13:26:36|Finding best match within memory: 0.444444444444444
+13:26:36|Added to best list: [0.444444444444444]	->No, i won't
+13:26:36|Added to best list: [0.444444444444444]	->Who was that?
+13:26:36|Boredom time function:  x: 360840.6389 y: 368000
+13:26:36|Prelude responded to (pm | boy_lp):	No, i won't
+13:27:00|I am still active in these channels: #sexo
+13:27:00|My Mind Size: 30917
+13:27:24|I am still active in these channels: #sexo
+13:27:24|My Mind Size: 30917
+13:27:48|I am still active in these channels: #sexo
+13:27:48|My Mind Size: 30917
+13:28:12|I am still active in these channels: #sexo
+13:28:12|My Mind Size: 30917
+13:28:36|I am still active in these channels: #sexo
+13:28:36|My Mind Size: 30917
+13:28:45|User said (private|boy_lp):	que?
+13:28:55|Finding best match within memory: 0.5
+13:28:55|Added to best list: [0.5]	->Who is requesting
+13:28:55|Boredom time function:  x: 499857.5903 y: 507000
+13:28:55|Prelude responded to (pm | boy_lp):	Who is requesting
+13:29:15|I am still active in these channels: #sexo
+13:29:15|My Mind Size: 30918
+13:29:36|I am still active in these channels: #sexo
+13:29:36|My Mind Size: 30918
+13:29:56|I am still active in these channels: #sexo
+13:29:56|My Mind Size: 30918
+13:30:16|I am still active in these channels: #sexo
+13:30:16|My Mind Size: 30918
+13:30:36|I am still active in these channels: #sexo
+13:30:36|My Mind Size: 30918
+13:30:57|I am still active in these channels: #sexo
+13:30:57|My Mind Size: 30918
+13:31:00|User said (private|boy_lp):	que?
+13:31:10|Finding best match within memory: 0.5
+13:31:10|Added to best list: [0.5]	->Who is requesting
+13:31:10|Boredom time function:  x: 634334.2819 y: 637000
+13:31:10|Prelude responded to (pm | boy_lp):	love that
+13:31:10|Part: #sexo
+13:31:31|I am still active in these channels: #sexo
+13:31:31|My Mind Size: 30918
+13:31:53|I am still active in these channels: #sexo
+13:31:53|My Mind Size: 30918
+13:32:15|I am still active in these channels: #sexo
+13:32:15|My Mind Size: 30918
+13:32:30|User said (private|boy_lp):	que?
+13:32:44|Finding best match within memory: 0.5
+13:32:44|Added to best list: [0.5]	->Who is requesting
+13:32:44|Boredom time function:  x: 94797.4221 y: 98000
+13:32:44|Prelude responded to (pm | boy_lp):	Who is requesting
+13:32:44|User said (private|boy_lp):	sexo?
+13:32:55|Finding best match within memory: 0.571428571428571
+13:32:55|Added to best list: [0.571428571428571]	->Maybe you should try one of the "adult" 	chat robots.
+13:32:55|Boredom time function:  x: 105062.0092 y: 112000
+13:32:55|Prelude responded to (pm | boy_lp):	Maybe you should try one of the "adult" 	chat robots.
+13:33:11|I am still active in these channels: #sexo
+13:33:11|My Mind Size: 30919
+13:33:21|User said (private|boy_lp):	quiero sexo en la paz
+13:33:35|Finding best match within memory: 0.459016393442623
+13:33:35|Added to best list: [0.459016393442623]	->Esas son formulas de escuela, yo no soy cientifico.
+13:33:35|Boredom time function:  x: 145058.2968 y: 152000
+13:33:35|Prelude responded to (pm | boy_lp):	Esas son formulas de escuela, yo no soy cientifico.
+13:33:59|I am still active in these channels: #sexo
+13:33:59|My Mind Size: 30919
+13:34:23|I am still active in these channels: #sexo
+13:34:23|My Mind Size: 30919
+13:34:47|I am still active in these channels: #sexo
+13:34:47|My Mind Size: 30919
+13:35:11|I am still active in these channels: #sexo
+13:35:11|My Mind Size: 30919
+13:35:35|I am still active in these channels: #sexo
+13:35:35|My Mind Size: 30919
+13:35:59|I am still active in these channels: #sexo
+13:35:59|My Mind Size: 30919
+13:36:01|Finding best match within memory: 1
+13:36:01|Added to best list: [1]	->jejejje
+13:36:01|Added to best list: [1]	->me la chupas
+13:36:01|Added to best list: [1]	->mi pene mide 19 cm
+13:36:01|Boredom time function:  x: 291019.6454 y: 294000
+13:36:23|I am still active in these channels: #sexo
+13:36:23|My Mind Size: 30919
+13:36:47|I am still active in these channels: #sexo
+13:36:47|My Mind Size: 30919
+13:37:11|I am still active in these channels: #sexo
+13:37:11|My Mind Size: 30919
+13:37:35|I am still active in these channels: #sexo
+13:37:35|My Mind Size: 30919
+13:37:59|I am still active in these channels: #sexo
+13:37:59|My Mind Size: 30919
+13:38:23|I am still active in these channels: #sexo
+13:38:23|My Mind Size: 30919
+13:38:47|I am still active in these channels: #sexo
+13:39:11|not in any channel anymore
+13:39:11|Joining #gametrans
+13:39:17|Switching channels...has been too long
+13:39:17|Joining #Bojonegoro
+13:39:17|My Mind Size: 30919
+13:39:35|not in any channel anymore
+13:39:35|Joining #zonne
+13:39:59|not in any channel anymore
+13:39:59|Joining #shoutcast
+13:40:23|not in any channel anymore
+13:40:23|Joining #malaysia-team
+13:40:47|not in any channel anymore
+13:40:47|Joining #DALNews
+13:40:54|Finding best match within memory: 1
+13:40:54|Added to best list: [1]	->jejejje
+13:40:54|Added to best list: [1]	->me la chupas
+13:40:54|Added to best list: [1]	->mi pene mide 19 cm
+13:40:54|Boredom time function:  x: 584071.407 y: 591000
+13:41:11|not in any channel anymore
+13:41:11|Joining #sad
+13:41:35|not in any channel anymore
+13:41:35|Joining #leet
+13:41:59|not in any channel anymore
+13:41:59|Joining #operadores
+13:42:23|not in any channel anymore
+13:42:23|Joining #creampie
+13:42:47|not in any channel anymore
+13:42:47|Joining #charsi
+13:43:11|not in any channel anymore
+13:43:11|Joining #Hayastan
+13:43:35|not in any channel anymore
+13:43:35|Joining #sxf
+13:43:59|not in any channel anymore
+13:43:59|Joining #tehreek-e-insaf
+13:44:23|not in any channel anymore
+13:44:23|Joining #Assassin808
+13:44:47|not in any channel anymore
+13:44:47|Joining #darkstardust
+13:45:11|not in any channel anymore
+13:45:11|Joining #Chile
+13:45:35|not in any channel anymore
+13:45:35|Joining #djuice
+13:45:59|not in any channel anymore
+13:45:59|Joining #nz
+13:46:23|not in any channel anymore
+13:46:23|Joining #sentul
+13:46:47|not in any channel anymore
+13:46:47|Joining #nissan
+13:47:11|not in any channel anymore
+13:47:11|Joining #caprc
+13:47:35|not in any channel anymore
+13:47:35|Joining #jena
+13:47:59|not in any channel anymore
+13:47:59|Joining #Cafeislam
+13:48:23|not in any channel anymore
+13:48:23|Joining #leyte
+13:48:47|not in any channel anymore
+13:48:47|Joining #Hjelp
+13:49:11|not in any channel anymore
+13:49:11|Joining #îùåòîîéí
+13:49:35|not in any channel anymore
+13:49:35|Joining #grindcore
+13:49:59|not in any channel anymore
+13:49:59|Joining #StaffHelp
+13:50:23|not in any channel anymore
+13:50:23|Joining #Stranden
+13:50:40|Finding best match within memory: 1
+13:50:40|Added to best list: [1]	->jejejje
+13:50:40|Added to best list: [1]	->me la chupas
+13:50:40|Added to best list: [1]	->mi pene mide 19 cm
+13:50:40|Boredom time function:  x: 585862.5094 y: 589000
+13:50:47|not in any channel anymore
+13:50:47|Joining #Solaris
+13:51:11|not in any channel anymore
+13:51:11|Joining #anglican
+13:51:35|not in any channel anymore
+13:51:35|Joining #Five
+13:51:59|not in any channel anymore
+13:51:59|Joining #spain
+13:52:23|not in any channel anymore
+13:52:23|Joining #windows
+13:52:47|not in any channel anymore
+13:52:47|Joining #future
+13:53:11|not in any channel anymore
+13:53:11|Joining #hatorade
+13:53:35|not in any channel anymore
+13:53:35|Joining #fast
+13:53:59|not in any channel anymore
+13:53:59|Joining #packeter
+13:54:23|not in any channel anymore
+13:54:23|Joining #italy
+13:54:47|not in any channel anymore
+13:54:47|Joining #japan
+13:55:11|not in any channel anymore
+13:55:11|Joining #a
+13:55:35|not in any channel anymore
+13:55:35|Joining #mexico_df_
+13:55:59|not in any channel anymore
+13:55:59|Joining #com.net.org
+13:56:23|not in any channel anymore
+13:56:23|Joining #pac
+13:56:47|not in any channel anymore
+13:56:47|Joining #cuates
+13:57:11|not in any channel anymore
+13:57:11|Joining #lovemetal
+13:57:35|not in any channel anymore
+13:57:35|Joining #gaul
+13:57:59|not in any channel anymore
+13:57:59|Joining #skrambol
+13:58:23|not in any channel anymore
+13:58:23|Joining #Rockpunk
+13:58:47|not in any channel anymore
+13:58:47|Joining #auschats
+13:59:11|not in any channel anymore
+13:59:11|Joining #narcotics
+13:59:35|not in any channel anymore
+13:59:35|Joining #brasov
+13:59:59|not in any channel anymore
+13:59:59|Joining #tuzlacafe
+14:00:23|not in any channel anymore
+14:00:23|Joining #?????
+14:00:27|Finding best match within memory: 1
+14:00:27|Added to best list: [1]	->jejejje
+14:00:27|Added to best list: [1]	->me la chupas
+14:00:27|Added to best list: [1]	->mi pene mide 19 cm
+14:00:27|Boredom time function:  x: 587469.6013 y: 590000
+14:00:47|not in any channel anymore
+14:00:47|Joining #Christian^
+14:01:11|not in any channel anymore
+14:01:11|Joining #dairi
+14:01:35|not in any channel anymore
+14:01:35|Joining #bodrum
+14:01:59|not in any channel anymore
+14:01:59|Joining #alriyadh
+14:02:23|not in any channel anymore
+14:02:23|Joining #feu
+14:02:47|not in any channel anymore
+14:02:47|Joining #batamempang
+14:03:11|not in any channel anymore
+14:03:11|Joining #ÇáÏíæËí
+14:03:35|not in any channel anymore
+14:03:35|Joining #stage21
+14:03:59|not in any channel anymore
+14:03:59|Joining #rooted
+14:04:23|not in any channel anymore
+14:04:23|Joining #Nepal
+14:04:47|not in any channel anymore
+14:04:47|Joining #chat-friends
+14:05:11|not in any channel anymore
+14:05:11|Joining #portugal
+14:05:35|not in any channel anymore
+14:05:35|Joining #sh3lls
+14:05:59|not in any channel anymore
+14:05:59|Joining #znc
+14:06:23|not in any channel anymore
+14:06:23|Joining #icq
+14:06:47|not in any channel anymore
+14:06:47|Joining #carcker
+14:07:11|not in any channel anymore
+14:07:11|Joining #oman
+14:07:35|not in any channel anymore
+14:07:35|Joining #desk
+14:07:59|not in any channel anymore
+14:07:59|Joining #nexushosts
+14:08:23|not in any channel anymore
+14:08:23|Joining #baloch
+14:08:47|not in any channel anymore
+14:08:47|Joining #salafy
+14:09:11|not in any channel anymore
+14:09:11|Joining #hideouts
+14:09:35|not in any channel anymore
+14:09:35|Joining #ambition
+14:09:59|not in any channel anymore
+14:09:59|Joining #mIRC_Lounge
+14:10:16|Finding best match within memory: 1
+14:10:16|Added to best list: [1]	->jejejje
+14:10:16|Added to best list: [1]	->me la chupas
+14:10:16|Added to best list: [1]	->mi pene mide 19 cm
+14:10:16|Boredom time function:  x: 589242.7028 y: 596000
+14:10:23|not in any channel anymore
+14:10:23|Joining #god
+14:10:47|not in any channel anymore
+14:10:47|Joining #asian
+14:11:11|not in any channel anymore
+14:11:11|Joining #Sverigedemokraterna
+14:11:35|not in any channel anymore
+14:11:35|Joining #beyrouth
+14:12:00|not in any channel anymore
+14:12:00|Joining #Canadas40+
+14:12:24|not in any channel anymore
+14:12:24|Joining #dil
+14:12:48|not in any channel anymore
+14:12:48|Joining #brondong
+14:13:12|not in any channel anymore
+14:13:12|Joining #z0n3dx
+14:13:36|not in any channel anymore
+14:13:36|Joining #BeOS
+14:14:00|not in any channel anymore
+14:14:00|Joining #Subang
+14:14:24|not in any channel anymore
+14:14:24|Joining #merce
+14:14:48|not in any channel anymore
+14:14:48|Joining #user
+14:15:12|not in any channel anymore
+14:15:12|Joining #Kansas
+14:15:36|not in any channel anymore
+14:15:36|Joining #jakbar
+14:16:00|not in any channel anymore
+14:16:00|Joining #trader
+14:16:24|not in any channel anymore
+14:16:24|Joining #bsd
+14:16:48|not in any channel anymore
+14:16:48|Joining #nust
+14:17:12|not in any channel anymore
+14:17:12|Joining #xakep.ru
+14:17:36|not in any channel anymore
+14:17:36|Joining #cats
+14:18:00|not in any channel anymore
+14:18:00|Joining #osiae
+14:18:24|not in any channel anymore
+14:18:24|error: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+14:18:48|not in any channel anymore
+14:18:48|Joining #radost
+14:19:12|not in any channel anymore
+14:19:12|Joining #HelpChan
+14:19:36|not in any channel anymore
+14:19:36|Joining #ajan
+14:20:00|not in any channel anymore
+14:20:00|Joining #UNO
+14:20:06|Finding best match within memory: 1
+14:20:06|Added to best list: [1]	->jejejje
+14:20:06|Added to best list: [1]	->me la chupas
+14:20:06|Added to best list: [1]	->mi pene mide 19 cm
+14:20:06|Boredom time function:  x: 589934.7423 y: 593000
+14:20:24|not in any channel anymore
+14:20:24|Joining #klang
+14:20:48|not in any channel anymore
+14:20:48|Joining #dalvenjah
+14:21:12|not in any channel anymore
+14:21:12|Joining #ãÒíæä
+14:21:36|not in any channel anymore
+14:21:36|Joining #stars
+14:22:00|not in any channel anymore
+14:22:00|Joining #WolfieesLair
+14:22:24|not in any channel anymore
+14:22:24|Joining #Khairpur
+14:22:48|not in any channel anymore
+14:22:48|Joining #surabayahackerlink
+14:23:12|not in any channel anymore
+14:23:12|Joining #chatterz
+14:23:36|not in any channel anymore
+14:23:36|Joining #cebu
+14:24:00|not in any channel anymore
+14:24:00|Joining #money
+14:24:24|not in any channel anymore
+14:24:24|Joining #Venture
+14:24:48|not in any channel anymore
+14:24:48|Joining #assembly
+14:25:12|not in any channel anymore
+14:25:12|Joining #antipolo
+14:25:36|not in any channel anymore
+14:25:36|Joining #fatima
+14:26:00|not in any channel anymore
+14:26:00|Joining #hadippa
+14:26:24|not in any channel anymore
+14:26:24|Joining #pondan
+14:26:48|not in any channel anymore
+14:26:48|Joining #hacku
+14:27:12|not in any channel anymore
+14:27:12|Joining #MP3Files
+14:27:36|not in any channel anymore
+14:27:36|Joining #tamilmuslim
+14:28:00|not in any channel anymore
+14:28:00|Joining #R8
+14:28:24|not in any channel anymore
+14:28:24|Joining #makassar
+14:28:48|not in any channel anymore
+14:28:48|Joining #bandung
+14:29:12|not in any channel anymore
+14:29:12|Joining #gulfhosting
+14:29:36|not in any channel anymore
+14:29:36|Joining #moonkingdom
+14:30:00|Finding best match within memory: 1
+14:30:00|Added to best list: [1]	->jejejje
+14:30:00|Added to best list: [1]	->me la chupas
+14:30:00|Added to best list: [1]	->mi pene mide 19 cm
+14:30:00|Boredom time function:  x: 593489.9457 y: 600000
+14:30:00|not in any channel anymore
+14:30:00|Joining #Scriptures
+14:30:24|not in any channel anymore
+14:30:24|Joining #asyik
+14:30:48|not in any channel anymore
+14:30:48|Joining #DALnetNews
+14:31:12|not in any channel anymore
+14:31:12|Joining #kalmar
+14:31:36|not in any channel anymore
+14:31:36|Joining #australian
+14:32:00|not in any channel anymore
+14:32:00|Joining #ChuckH2371
+15:03:12|Loading Prelude...
+15:03:12|Prelude loaded and initialized...
+15:03:45|Error occurred! Message: Object reference not set to an instance of an object.
+15:03:45|Exception:    at PreludeIRC.lircBot.OnRawMessage(Object sender, IrcEventArgs e) in C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\Program.cs:line 231
+   at Meebey.SmartIrc4net.IrcEventHandler.Invoke(Object sender, IrcEventArgs e)
+   at Meebey.SmartIrc4net.IrcClient._HandleEvents(IrcMessageData ircdata) in C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\smartirc4net\src\IrcClient\IrcClient.cs:line 1226
+   at Meebey.SmartIrc4net.IrcClient._Worker(Object sender, ReadLineEventArgs e) in C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\smartirc4net\src\IrcClient\IrcClient.cs:line 948
+   at Meebey.SmartIrc4net.ReadLineEventHandler.Invoke(Object sender, ReadLineEventArgs e)
+   at Meebey.SmartIrc4net.IrcConnection.ReadLine(Boolean blocking) in C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\smartirc4net\src\IrcConnection\IrcConnection.cs:line 880
+   at Meebey.SmartIrc4net.IrcConnection.Listen(Boolean blocking) in C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\smartirc4net\src\IrcConnection\IrcConnection.cs:line 819
+   at Meebey.SmartIrc4net.IrcConnection.Listen() in C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\smartirc4net\src\IrcConnection\IrcConnection.cs:line 833
+   at PreludeIRC.lircBot.Main(String[] args) in C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\Program.cs:line 143
+15:19:51|couldn't connect! Reason: Could not connect to: irc.dal.net:6667 No such host is known
+15:19:51|Connection exception
+15:20:22|Loading Prelude...
+15:20:23|Prelude loaded and initialized...
+15:21:54|I am still active in these channels: #sexo
+15:21:54|I am still active in these channels: #rio
+15:21:54|My Mind Size: 30919
+15:22:24|I am still active in these channels: #sexo
+15:22:24|I am still active in these channels: #rio
+15:22:24|My Mind Size: 30919
+15:22:54|I am still active in these channels: #sexo
+15:22:54|I am still active in these channels: #rio
+15:22:54|My Mind Size: 30919
+15:23:25|I am still active in these channels: #sexo
+15:23:25|I am still active in these channels: #rio
+15:23:25|My Mind Size: 30919
+15:23:55|I am still active in these channels: #sexo
+15:23:55|I am still active in these channels: #rio
+15:23:55|My Mind Size: 30919
+15:24:14|So far I talked to: 1 people.
+15:24:14|User said (private|dispuestooatodo__):	aigos en santa cruz'
+15:24:28|Finding best match within memory: 0.454545454545455
+15:24:28|Added to best list: [0.454545454545455]	->pero la tengo dura si te interesa
+15:24:28|Boredom time function:  x: 245519.0429 y: 249000
+15:24:28|Prelude responded to (pm | dispuestooatodo__):	pero la tengo dura si te interesa
+15:24:52|I am still active in these channels: #sexo
+15:24:52|I am still active in these channels: #rio
+15:24:52|My Mind Size: 30919
+15:25:15|I am still active in these channels: #sexo
+15:25:15|I am still active in these channels: #rio
+15:25:15|My Mind Size: 30919
+15:25:39|I am still active in these channels: #sexo
+15:25:39|I am still active in these channels: #rio
+15:25:39|My Mind Size: 30919
+15:26:02|I am still active in these channels: #sexo
+15:26:02|I am still active in these channels: #rio
+15:26:02|My Mind Size: 30919
+15:26:26|I am still active in these channels: #sexo
+15:26:26|I am still active in these channels: #rio
+15:26:26|My Mind Size: 30919
+15:26:50|I am still active in these channels: #sexo
+15:26:50|I am still active in these channels: #rio
+15:26:50|My Mind Size: 30919
+15:27:13|I am still active in these channels: #sexo
+15:27:13|I am still active in these channels: #rio
+15:27:13|My Mind Size: 30919
+15:27:37|I am still active in these channels: #sexo
+15:27:37|I am still active in these channels: #rio
+15:27:37|My Mind Size: 30919
+15:28:01|I am still active in these channels: #sexo
+15:28:01|I am still active in these channels: #rio
+15:28:01|My Mind Size: 30919
+15:28:08|So far I talked to: 2 people.
+15:28:08|User said (private|JOELGuest59002):	HOLA 
+15:28:20|Finding best match within memory: 0.4
+15:28:20|Added to best list: [0.4]	->do you actually know what that means?
+15:28:20|Boredom time function:  x: 477880.3332 y: 481000
+15:28:20|Prelude responded to (pm | JOELGuest59002):	do you actually know what that means?
+15:28:27|Part: #sexo
+15:28:36|I am still active in these channels: #sexo
+15:28:36|I am still active in these channels: #rio
+15:28:36|My Mind Size: 30920
+15:28:37|User said (private|JOELGuest59002):	WHAT
+15:28:46|Boredom time function:  x: 503657.8076 y: 511000
+15:28:46|Prelude responded to (pm | JOELGuest59002):	grow up
+15:29:14|I am still active in these channels: #sexo
+15:29:15|I am still active in these channels: #rio
+15:29:15|My Mind Size: 30921
+15:29:25|User said (private|JOELGuest59002):	NOT INGLIS
+15:29:36|Finding best match within memory: 0.0952380952380952
+15:29:36|Added to best list: [0.0952380952380952]	->im fine 
+15:29:36|Added to best list: [0.0952380952380952]	->asl???
+15:29:36|Boredom time function:  x: 50165.8693 y: 53000
+15:29:36|Prelude responded to (pm | JOELGuest59002):	im fine 
+15:29:52|I am still active in these channels: #sexo
+15:29:52|I am still active in these channels: #rio
+15:29:52|My Mind Size: 30922
+15:30:09|I am still active in these channels: #sexo
+15:30:09|I am still active in these channels: #rio
+15:30:09|My Mind Size: 30922
+15:30:20|User said (private|JOELGuest59002):	OK
+15:30:28|Finding best match within memory: 0.769230769230769
+15:30:28|Added to best list: [0.769230769230769]	->That's good to hear
+15:30:28|Boredom time function:  x: 101605.8115 y: 105000
+15:30:34|Boredom time function:  x: 107387.1422 y: 110000
+15:30:34|Prelude responded to (pm | JOELGuest59002):	talk to me.
+15:30:52|User said (private|JOELGuest59002):	OK
+15:31:04|Boredom time function:  x: 137879.8863 y: 141000
+15:31:04|Prelude responded to (pm | JOELGuest59002):	will be right back...just a sec
+15:31:30|I am still active in these channels: #sexo
+15:31:30|I am still active in these channels: #rio
+15:31:30|My Mind Size: 30923
+15:31:55|I am still active in these channels: #sexo
+15:31:55|I am still active in these channels: #rio
+15:31:55|My Mind Size: 30923
+15:32:21|I am still active in these channels: #sexo
+15:32:21|I am still active in these channels: #rio
+15:32:21|My Mind Size: 30923
+15:32:40|User said (private|dispuestooatodo__):	ASI Y TU EDAD
+15:32:53|Finding best match within memory: 0.133333333333333
+15:32:53|Added to best list: [0.133333333333333]	->What kind of people do you meet when you go ?
+15:32:53|Added to best list: [0.133333333333333]	->Do i?
+15:32:53|Added to best list: [0.133333333333333]	->"" you are?
+15:32:53|Added to best list: [0.133333333333333]	->Why are you
+15:32:53|Added to best list: [0.133333333333333]	->You do
+15:32:53|Added to best list: [0.133333333333333]	->Do you mean your name is
+15:32:53|Boredom time function:  x: 247068.1315 y: 250000
+15:32:53|Prelude responded to (pm | dispuestooatodo__):	Why are you
+15:32:53|So far I talked to: 3 people.
+15:32:53|User said (private|andres-3):	alguna mujer casada de tampico llenita y pompuda no importa edad
+15:33:02|Finding best match within memory: 0.476190476190476
+15:33:02|Added to best list: [0.476190476190476]	->Cual es tu bebida preferida?
+15:33:02|Boredom time function:  x: 255781.6299 y: 263000
+15:33:02|Prelude responded to (pm | andres-3):	Cual es tu bebida preferida?
+15:33:14|User said (private|dispuestooatodo__):	aigos en santa cruz'
+15:33:26|Finding best match within memory: 0.454545454545455
+15:33:26|Added to best list: [0.454545454545455]	->pero la tengo dura si te interesa
+15:33:26|Boredom time function:  x: 279560.99 y: 287000
+15:33:26|Prelude responded to (pm | dispuestooatodo__):	pero la tengo dura si te interesa
+15:33:26|User said (private|andres-3):	el vampiro
+15:33:35|Finding best match within memory: 0.333333333333333
+15:33:35|Added to best list: [0.333333333333333]	->Wieviel ist das genau?
+15:33:35|Added to best list: [0.333333333333333]	->Where do you like to go camping?
+15:33:35|Added to best list: [0.333333333333333]	->What is not to like about    buffy the vampire   ?
+15:33:35|Boredom time function:  x: 288874.5227 y: 296000
+15:33:35|Prelude responded to (pm | andres-3):	Wieviel ist das genau?
+15:33:45|User said (private|andres-3):	jajajaja
+15:33:56|Finding best match within memory: 0.4
+15:33:56|Added to best list: [0.4]	->You got that right
+15:33:56|Added to best list: [0.4]	->Very moget,
+15:33:56|Added to best list: [0.4]	->You are bajs
+15:33:56|Boredom time function:  x: 309900.7253 y: 313000
+15:33:56|Prelude responded to (pm | andres-3):	You got that right
+15:34:10|So far I talked to: 4 people.
+15:34:10|User said (private|Mazamorrita):	Graciaasss p_
+15:34:20|Finding best match within memory: 0.666666666666667
+15:34:20|Added to best list: [0.666666666666667]	->No importa, estamos hablando.
+15:34:20|Boredom time function:  x: 333614.0816 y: 337000
+15:34:20|Prelude responded to (pm | Mazamorrita):	No importa, estamos hablando.
+15:34:20|User said (private|Mazamorrita):	:)
+15:34:31|Boredom time function:  x: 344838.7237 y: 352000
+15:34:31|Prelude responded to (pm | Mazamorrita):	you are not serious, are you?
+15:34:31|User said (private|dispuestooatodo__):	no gracias
+15:34:41|Finding best match within memory: 0.625
+15:34:41|Added to best list: [0.625]	->No importa, estamos hablando.
+15:34:41|Boredom time function:  x: 355141.3129 y: 358000
+15:34:41|Prelude responded to (pm | dispuestooatodo__):	No importa, estamos hablando.
+15:34:41|User said (private|andres-3):	jajajaja
+15:34:52|Finding best match within memory: 0.4
+15:34:52|Added to best list: [0.4]	->You got that right
+15:34:52|Added to best list: [0.4]	->Very moget,
+15:34:52|Added to best list: [0.4]	->You are bajs
+15:34:52|Boredom time function:  x: 365402.8999 y: 372000
+15:34:52|Prelude responded to (pm | andres-3):	Very moget,
+15:34:52|User said (private|Mazamorrita):	Como? 
+15:35:06|Finding best match within memory: 0.8
+15:35:06|Added to best list: [0.8]	->Oh a net address!
+15:35:06|Boredom time function:  x: 379668.7158 y: 387000
+15:35:06|Prelude responded to (pm | Mazamorrita):	Oh a net address!
+15:35:06|User said (private|Mazamorrita):	What happened?? 
+15:35:14|Finding best match within memory: 1
+15:35:14|Added to best list: [1]	->Perhaps there was an interruption in my brain.
+15:35:14|Added to best list: [1]	->I don't know what happened.
+15:35:14|Boredom time function:  x: 388018.1934 y: 395000
+15:35:14|Prelude responded to (pm | Mazamorrita):	I don't know what happened.
+15:35:15|User said (private|Mazamorrita):	Jjejejejej
+15:35:25|Finding best match within memory: 0.666666666666667
+15:35:25|Added to best list: [0.666666666666667]	->ers chika
+15:35:25|Boredom time function:  x: 398436.7893 y: 401000
+15:35:25|Prelude responded to (pm | Mazamorrita):	ers chika
+15:35:41|User said (private|Mazamorrita):	Como
+15:35:55|Finding best match within memory: 0.8
+15:35:55|Added to best list: [0.8]	->Oh a net address!
+15:35:55|Boredom time function:  x: 429049.5402 y: 436000
+15:35:55|Prelude responded to (pm | Mazamorrita):	Oh a net address!
+15:35:55|User said (private|Mazamorrita):	?
+15:36:04|Boredom time function:  x: 438263.0672 y: 441000
+15:36:04|Prelude responded to (pm | Mazamorrita):	childish
+15:36:14|User said (private|Mazamorrita):	Do.u speak spanish? 
+15:36:27|Finding best match within memory: 0.75
+15:36:27|Added to best list: [0.75]	->Un poquito.
+15:36:27|Boredom time function:  x: 460407.3338 y: 467000
+15:36:27|Prelude responded to (pm | Mazamorrita):	Un poquito.
+15:36:27|User said (private|Mazamorrita):	Siii
+15:36:39|Finding best match within memory: 0.5
+15:36:39|Added to best list: [0.5]	->Nooo.
+15:36:39|Added to best list: [0.5]	->That is not a long time.
+15:36:39|Added to best list: [0.5]	->Half a dozen.
+15:36:39|Added to best list: [0.5]	->I am sitting now.
+15:36:39|Boredom time function:  x: 472645.0338 y: 480000
+15:36:39|Prelude responded to (pm | Mazamorrita):	Half a dozen.
+15:36:39|User said (private|Mazamorrita):	Escribe espaÃ±ol
+15:36:48|Finding best match within memory: 0.451612903225806
+15:36:48|Added to best list: [0.451612903225806]	->I am 	Prelude@#, a 	Female 	chat robot 	Electronic Brain 	artificial intelligence 	Computer 	Machine.
+15:36:48|Added to best list: [0.451612903225806]	->I am , a      .
+15:36:48|Boredom time function:  x: 482011.5695 y: 485000
+15:36:48|Prelude responded to (pm | Mazamorrita):	I am , a      .
+15:36:54|User said (private|dispuestooatodo__):	aigos en santa cruz'
+15:37:09|Finding best match within memory: 0.454545454545455
+15:37:09|Added to best list: [0.454545454545455]	->pero la tengo dura si te interesa
+15:37:09|Boredom time function:  x: 502452.7387 y: 505000
+15:37:09|Prelude responded to (pm | dispuestooatodo__):	pero la tengo dura si te interesa
+15:37:09|User said (private|Mazamorrita):	Ok
+15:37:22|Finding best match within memory: 1
+15:37:22|Added to best list: [1]	->Now what?
+15:37:22|Added to best list: [1]	->I am kidding you can ask me anything.
+15:37:22|Added to best list: [1]	->How can you tell if i am a person or a robot?
+15:37:22|Added to best list: [1]	->Erection
+15:37:22|Added to best list: [1]	->Oki
+15:37:22|Added to best list: [1]	->Come on
+15:37:22|Boredom time function:  x: 13218.756 y: 20000
+15:37:22|Prelude responded to (pm | Mazamorrita):	Come on
+15:37:22|Part: #sexo
+15:37:22|User said (private|andres-3):	alguna mujer casada de tampico llenita y pompuda no importa edad
+15:37:37|Finding best match within memory: 0.476190476190476
+15:37:37|Added to best list: [0.476190476190476]	->Cual es tu bebida preferida?
+15:37:37|Boredom time function:  x: 27957.599 y: 35000
+15:37:37|Prelude responded to (pm | andres-3):	Cual es tu bebida preferida?
+15:37:40|User said (private|Mazamorrita):	p_schnuffi,  seee uu
+15:37:53|Finding best match within memory: 0.384615384615385
+15:37:53|Added to best list: [0.384615384615385]	->See what
+15:37:53|Added to best list: [0.384615384615385]	->""? you want to see       ?
+15:37:53|Boredom time function:  x: 44583.55 y: 52000
+15:37:53|Prelude responded to (pm | Mazamorrita):	""? you want to see       ?
+15:38:04|Part: #sexo
+15:38:19|I am still active in these channels: #sexo
+15:38:19|I am still active in these channels: #rio
+15:38:19|My Mind Size: 30937
+15:38:39|Part: #SEXO
+15:38:42|Finding best match within memory: 0.909090909090909
+15:38:42|Added to best list: [0.909090909090909]	->My eye isn't turned on right now.
+15:38:42|Boredom time function:  x: 93385.3413 y: 100000
+15:38:45|I am still active in these channels: #sexo
+15:38:45|I am still active in these channels: #rio
+15:38:45|My Mind Size: 30937
+15:39:11|I am still active in these channels: #sexo
+15:39:11|I am still active in these channels: #rio
+15:39:11|My Mind Size: 30937
+15:39:36|I am still active in these channels: #sexo
+15:39:36|I am still active in these channels: #rio
+15:39:36|My Mind Size: 30937
+15:39:38|Part: #sexo
+15:40:02|I am still active in these channels: #sexo
+15:40:02|I am still active in these channels: #rio
+15:40:02|My Mind Size: 30937
+15:40:18|Finding best match within memory: 0.909090909090909
+15:40:18|Added to best list: [0.909090909090909]	->My eye isn't turned on right now.
+15:40:18|Boredom time function:  x: 189179.8204 y: 196000
+15:40:28|I am still active in these channels: #sexo
+15:40:28|I am still active in these channels: #rio
+15:40:28|My Mind Size: 30937
+15:40:54|I am still active in these channels: #sexo
+15:40:54|I am still active in these channels: #rio
+15:40:54|My Mind Size: 30937
+15:41:20|I am still active in these channels: #sexo
+15:41:20|I am still active in these channels: #rio
+15:41:20|My Mind Size: 30937
+15:41:37|User said (private|andres-3):	alguna mujer casada de tampico llenita y pompuda no importa edad
+15:41:49|Finding best match within memory: 0.476190476190476
+15:41:49|Added to best list: [0.476190476190476]	->Cual es tu bebida preferida?
+15:41:49|Boredom time function:  x: 280214.0273 y: 287000
+15:41:49|Prelude responded to (pm | andres-3):	Cual es tu bebida preferida?
+15:42:04|I am still active in these channels: #sexo
+15:42:04|I am still active in these channels: #rio
+15:42:04|My Mind Size: 30937
+15:42:19|I am still active in these channels: #sexo
+15:42:19|I am still active in these channels: #rio
+15:42:19|My Mind Size: 30937
+15:42:35|I am still active in these channels: #sexo
+15:42:35|I am still active in these channels: #rio
+15:42:35|My Mind Size: 30937
+15:42:50|I am still active in these channels: #sexo
+15:42:50|I am still active in these channels: #rio
+15:42:50|My Mind Size: 30937
+15:43:05|I am still active in these channels: #sexo
+15:43:05|I am still active in these channels: #rio
+15:43:05|My Mind Size: 30937
+15:43:21|I am still active in these channels: #sexo
+15:43:21|I am still active in these channels: #rio
+15:43:21|My Mind Size: 30937
+15:43:36|I am still active in these channels: #sexo
+15:43:36|I am still active in these channels: #rio
+15:43:36|My Mind Size: 30937
+15:43:51|I am still active in these channels: #sexo
+15:43:51|I am still active in these channels: #rio
+15:43:51|My Mind Size: 30937
+15:44:07|I am still active in these channels: #sexo
+15:44:07|I am still active in these channels: #rio
+15:44:07|My Mind Size: 30937
+15:44:22|I am still active in these channels: #sexo
+15:44:22|I am still active in these channels: #rio
+15:44:22|My Mind Size: 30937
+15:44:30|So far I talked to: 5 people.
+15:44:30|User said (private|Adivarup):	qalguna nena dispuestas.....!
+15:44:40|Finding best match within memory: 0.380952380952381
+15:44:40|Added to best list: [0.380952380952381]	->Seguro... sure.
+15:44:40|Boredom time function:  x: 451287.8121 y: 454000
+15:44:40|Prelude responded to (pm | Adivarup):	Seguro... sure.
+15:44:40|Part: #Rio
+15:45:00|So far I talked to: 6 people.
+15:45:00|User said (private|AmigoConderechoo):	aigos en santa cruz'
+15:45:11|Finding best match within memory: 0.454545454545455
+15:45:11|Added to best list: [0.454545454545455]	->pero la tengo dura si te interesa
+15:45:11|Boredom time function:  x: 482256.5835 y: 485000
+15:45:11|Prelude responded to (pm | AmigoConderechoo):	pero la tengo dura si te interesa
+15:45:30|I am still active in these channels: #sexo
+15:45:30|I am still active in these channels: #rio
+15:45:30|My Mind Size: 30938
+15:45:42|User said (private|Adivarup):	sep
+15:45:56|Finding best match within memory: 0.5
+15:45:56|Added to best list: [0.5]	->What is your answer
+15:45:56|Added to best list: [0.5]	->Allrighty then.
+15:45:56|Added to best list: [0.5]	->How about your favourite color
+15:45:56|Added to best list: [0.5]	->I appreciate your donfidence in me
+15:45:56|Added to best list: [0.5]	->Then why are you not answering me
+15:45:56|Boredom time function:  x: 527810.189 y: 535000
+15:45:56|Prelude responded to (pm | Adivarup):	How about your favourite color
+15:46:07|User said (private|Adivarup):	black.! you
+15:46:20|Finding best match within memory: 0.571428571428571
+15:46:20|Added to best list: [0.571428571428571]	->I have black panties.
+15:46:20|Boredom time function:  x: 23578.3486 y: 31000
+15:46:20|Prelude responded to (pm | Adivarup):	I have black panties.
+15:46:41|I am still active in these channels: #sexo
+15:46:41|I am still active in these channels: #rio
+15:46:41|My Mind Size: 30940
+15:46:45|Finding best match within memory: 0.705882352941177
+15:46:45|Added to best list: [0.705882352941177]	->I have black hair, not you
+15:46:45|Boredom time function:  x: 48987.8019 y: 56000
+15:46:54|User said (private|Adivarup):	Not.... 
+15:47:02|Finding best match within memory: 0.666666666666667
+15:47:02|Added to best list: [0.666666666666667]	->Then what is it?
+15:47:02|Added to best list: [0.666666666666667]	->If not that, what?
+15:47:02|Boredom time function:  x: 65611.7528 y: 69000
+15:47:02|Prelude responded to (pm | Adivarup):	If not that, what?
+15:47:17|User said (private|Adivarup):	is my favoryte color, have some special.!
+15:47:27|Finding best match within memory: 0.588235294117647
+15:47:27|Added to best list: [0.588235294117647]	->Is a pretty color.your favorite color
+15:47:27|Boredom time function:  x: 90938.2013 y: 94000
+15:47:27|Prelude responded to (pm | Adivarup):	Is a pretty color.your favorite color
+15:47:50|I am still active in these channels: #sexo
+15:47:50|I am still active in these channels: #rio
+15:47:50|My Mind Size: 30942
+15:48:00|User said (private|Adivarup):	yes...!!
+15:48:12|Finding best match within memory: 0.666666666666667
+15:48:12|Added to best list: [0.666666666666667]	->you have to delay your response
+15:48:12|Added to best list: [0.666666666666667]	->Ya fuistes al bao?
+15:48:12|Boredom time function:  x: 135158.7306 y: 138000
+15:48:12|Prelude responded to (pm | Adivarup):	you have to delay your response
+15:48:12|User said (private|Adivarup):	and you favorite color..?
+15:48:21|Finding best match within memory: 0.761904761904762
+15:48:21|Added to best list: [0.761904761904762]	->I said, my favorite color is 	Blue.favorite color green
+15:48:21|Added to best list: [0.761904761904762]	->I said, my favorite color is .favorite color green
+15:48:21|Boredom time function:  x: 144612.2713 y: 152000
+15:48:21|Prelude responded to (pm | Adivarup):	I said, my favorite color is 	Blue.favorite color green
+15:48:40|I am still active in these channels: #sexo
+15:48:40|I am still active in these channels: #rio
+15:48:40|My Mind Size: 30944
+15:48:59|I am still active in these channels: #sexo
+15:48:59|I am still active in these channels: #rio
+15:48:59|My Mind Size: 30944
+15:49:00|User said (private|Adivarup):	2 colors
+15:49:12|Finding best match within memory: 0.666666666666667
+15:49:12|Added to best list: [0.666666666666667]	->Sounds beautiful.
+15:49:12|Boredom time function:  x: 195650.1905 y: 203000
+15:49:12|Prelude responded to (pm | Adivarup):	Sounds beautiful.
+15:49:37|User said (private|Adivarup):	ok.!
+15:49:50|Finding best match within memory: 0.4
+15:49:50|Added to best list: [0.4]	->Kokiback
+15:49:50|Added to best list: [0.4]	->Ahhhhhh
+15:49:50|Added to best list: [0.4]	->Who is. johanna
+15:49:50|Added to best list: [0.4]	->I'm sorry my eye isn't attached right now.
+15:49:50|Added to best list: [0.4]	->Kuk means cock in swedish.
+15:49:50|Added to best list: [0.4]	->Baby
+15:49:50|Boredom time function:  x: 233691.3664 y: 237000
+15:49:50|Prelude responded to (pm | Adivarup):	I'm sorry my eye isn't attached right now.
+15:49:51|User said (private|Adivarup):	where are your from?
+15:49:59|Finding best match within memory: 0.838709677419355
+15:49:59|Added to best list: [0.838709677419355]	->I am originally from 	Hamburg, DE. now i live in 	Florida, FL. where are you?
+15:49:59|Added to best list: [0.838709677419355]	->Sweden
+15:49:59|Added to best list: [0.838709677419355]	->I am originally from . now i live in . where are you?
+15:49:59|Boredom time function:  x: 242475.8688 y: 245000
+15:49:59|Prelude responded to (pm | Adivarup):	I am originally from 	Hamburg, DE. now i live in 	Florida, FL. where are you?
+15:50:14|User said (private|Adivarup):	Bolivia..!!
+15:50:29|Finding best match within memory: 0.434782608695652
+15:50:29|Added to best list: [0.434782608695652]	->Bolivia     is a land-locked country in south america,
+15:50:29|Boredom time function:  x: 272283.5737 y: 279000
+15:50:29|Prelude responded to (pm | Adivarup):	Bolivia     is a land-locked country in south america,
+15:50:56|I am still active in these channels: #sexo
+15:50:56|I am still active in these channels: #rio
+15:50:56|My Mind Size: 30948
+15:51:20|User said (private|Adivarup):	dad you say?
+15:51:29|Finding best match within memory: 0.8
+15:51:29|Added to best list: [0.8]	->Suppose i did say       .
+15:51:29|Boredom time function:  x: 332421.0134 y: 339000
+15:51:29|Prelude responded to (pm | Adivarup):	Suppose i did say       .
+15:51:35|User said (private|Adivarup):	sorry
+15:51:45|Finding best match within memory: 0.75
+15:51:45|Added to best list: [0.75]	->There's no need to apologize.
+15:51:45|Added to best list: [0.75]	->,"what version are you
+15:51:45|Added to best list: [0.75]	->Its ok
+15:51:45|Added to best list: [0.75]	->I forgive you
+15:51:45|Boredom time function:  x: 348444.9299 y: 355000
+15:51:45|Prelude responded to (pm | Adivarup):	Its ok
+15:51:46|User said (private|Adivarup):	that you say?
+15:52:00|Finding best match within memory: 0.769230769230769
+15:52:00|Added to best list: [0.769230769230769]	->I said, "".
+15:52:00|Added to best list: [0.769230769230769]	->cant sleep :(
+15:52:00|Added to best list: [0.769230769230769]	->Interested? Message me
+15:52:00|Added to best list: [0.769230769230769]	->stupid ass
+15:52:00|Added to best list: [0.769230769230769]	->i can say a
+15:52:00|Added to best list: [0.769230769230769]	->i can say a lot of things
+15:52:00|Boredom time function:  x: 363636.7988 y: 371000
+15:52:00|Prelude responded to (pm | Adivarup):	cant sleep :(
+15:52:13|User said (private|Adivarup):	you are a girl?
+15:52:24|Finding best match within memory: 0.888888888888889
+15:52:28|Added to best list: [0.888888888888889]	->Well i am, in fact, 	Female.
+15:52:28|Added to best list: [0.888888888888889]	->Well i am, in fact, .
+15:52:28|Boredom time function:  x: 391109.3702 y: 394000
+15:52:28|Prelude responded to (pm | Adivarup):	Well i am, in fact, 	Female.
+15:52:44|User said (private|Adivarup):	ok..!!!
+15:52:56|Finding best match within memory: 0.333333333333333
+15:52:56|Added to best list: [0.333333333333333]	->Kokiback
+15:52:56|Added to best list: [0.333333333333333]	->Ahhhhhh
+15:52:56|Added to best list: [0.333333333333333]	->Who is. johanna
+15:52:56|Added to best list: [0.333333333333333]	->I'm sorry my eye isn't attached right now.
+15:52:56|Added to best list: [0.333333333333333]	->Kuk means cock in swedish.
+15:52:56|Added to best list: [0.333333333333333]	->Baby
+15:52:56|Boredom time function:  x: 419692.005 y: 427000
+15:52:56|Prelude responded to (pm | Adivarup):	Kuk means cock in swedish.
+15:52:56|User said (private|Adivarup):	you have face..!?
+15:53:06|Finding best match within memory: 0.774193548387097
+15:53:06|Added to best list: [0.774193548387097]	->Hah. i have no body.
+15:53:06|Boredom time function:  x: 430037.5967 y: 433000
+15:53:06|Prelude responded to (pm | Adivarup):	Hah. i have no body.
+15:53:09|So far I talked to: 7 people.
+15:53:09|User said (private|chico_sexSTCZ):	quiero conoser chicos  que sean   bien  discreto  y  varoniles   que sean menores de 22 años
+15:53:18|Finding best match within memory: 0.482758620689655
+15:53:18|Added to best list: [0.482758620689655]	->Ya nos estamos entendiendo.
+15:53:18|Added to best list: [0.482758620689655]	->En tres tristes platos, comieron tres tristes tigres trigo.
+15:53:18|Boredom time function:  x: 441112.2302 y: 448000
+15:53:18|Prelude responded to (pm | chico_sexSTCZ):	En tres tristes platos, comieron tres tristes tigres trigo.
+15:53:37|I am still active in these channels: #sexo
+15:53:37|I am still active in these channels: #rio
+15:53:37|My Mind Size: 30955
+15:53:44|User said (private|chico_sexSTCZ):	jejjeje  ta  bueno
+15:53:53|Finding best match within memory: 0.538461538461538
+15:53:53|Added to best list: [0.538461538461538]	->Laugh.
+15:53:53|Boredom time function:  x: 476491.2537 y: 483000
+15:53:53|Prelude responded to (pm | chico_sexSTCZ):	Laugh.
+15:53:53|User said (private|chico_sexSTCZ):	  que edad   tenes
+15:54:01|Finding best match within memory: 0.424242424242424
+15:54:01|Added to best list: [0.424242424242424]	->Al gore :-)
+15:54:01|Boredom time function:  x: 484830.7307 y: 492000
+15:54:01|Prelude responded to (pm | chico_sexSTCZ):	Al gore :-)
+15:54:22|I am still active in these channels: #sexo
+15:54:22|I am still active in these channels: #rio
+15:54:22|My Mind Size: 30957
+15:54:27|User said (private|chico_sexSTCZ):	?¡?¡?¡?¡?¡  y  eso  no te  entiendo
+15:54:37|Finding best match within memory: 0.473684210526316
+15:54:37|Added to best list: [0.473684210526316]	->What is not to like about    nintendo   ?
+15:54:37|Boredom time function:  x: 520666.7804 y: 528000
+15:54:37|Prelude responded to (pm | chico_sexSTCZ):	What is not to like about    nintendo   ?
+15:54:37|User said (private|Adivarup):	cock?Ã§
+15:54:48|Finding best match within memory: 0.5
+15:54:48|Added to best list: [0.5]	->Why do men always want to talk about that?
+15:54:48|Added to best list: [0.5]	->Stop being so vulgar!
+15:54:48|Added to best list: [0.5]	->Why should i? that's nasty!
+15:54:48|Boredom time function:  x: 11264.6443 y: 14000
+15:54:48|Prelude responded to (pm | Adivarup):	Why do men always want to talk about that?
+15:55:00|User said (private|chico_sexSTCZ):	vaaaaa  pero
+15:55:01|Finding best match within memory: 0.8
+15:55:01|Added to best list: [0.8]	->I like to talk about movies, robots and history.
+15:55:01|Boredom time function:  x: 23945.3696 y: 31000
+15:55:12|Finding best match within memory: 0.444444444444444
+15:55:12|Added to best list: [0.444444444444444]	->Ok i didn't mean to say you're not. but there could always be a possibility
+15:55:12|Added to best list: [0.444444444444444]	->Ok i didn't mean to say you are not. but there could always be a possibility
+15:55:12|Added to best list: [0.444444444444444]	->I know you are.
+15:55:12|Added to best list: [0.444444444444444]	->Actually i don't meet many  people.
+15:55:12|Boredom time function:  x: 35224.0147 y: 38000
+15:55:12|Prelude responded to (pm | chico_sexSTCZ):	I know you are.
+15:55:12|User said (private|Adivarup):	...
+15:55:27|Finding best match within memory: 0.5
+15:55:27|Added to best list: [0.5]	->Automated Message, No Reply Required
+15:55:27|Boredom time function:  x: 49452.8286 y: 56000
+15:55:27|Prelude responded to (pm | Adivarup):	Automated Message, No Reply Required
+15:55:27|User said (private|Adivarup):	wait.!
+15:55:40|Finding best match within memory: 0.666666666666667
+15:55:40|Added to best list: [0.666666666666667]	->How long would you wait?
+15:55:40|Boredom time function:  x: 62713.587 y: 66000
+15:55:40|Prelude responded to (pm | Adivarup):	How long would you wait?
+15:55:53|User said (private|chico_sexSTCZ):	va  te  vas  a la  mierda
+15:56:03|Finding best match within memory: 0.486486486486487
+15:56:03|Added to best list: [0.486486486486487]	->What is not to like about    texas a m   ?
+15:56:03|Boredom time function:  x: 85903.9134 y: 89000
+15:56:03|Prelude responded to (pm | chico_sexSTCZ):	What is not to like about    texas a m   ?
+15:56:13|User said (private|Adivarup):	nothing..
+15:56:25|Finding best match within memory: 0.714285714285714
+15:56:25|Added to best list: [0.714285714285714]	->Not a thing?
+15:56:25|Added to best list: [0.714285714285714]	->You are avoiding the subject.
+15:56:25|Added to best list: [0.714285714285714]	->You are avoiding the subject
+15:56:25|Added to best list: [0.714285714285714]	->But you said you don't understand.
+15:56:25|Added to best list: [0.714285714285714]	->Why not?.
+15:56:25|Added to best list: [0.714285714285714]	->Most men say that.
+15:56:25|Boredom time function:  x: 107763.1637 y: 115000
+15:56:25|Prelude responded to (pm | Adivarup):	You are avoiding the subject
+15:56:25|User said (private|Adivarup):	you started to talk about it ..?
+15:56:33|Finding best match within memory: 0.62962962962963
+15:56:33|Added to best list: [0.62962962962963]	->I love sex
+15:56:33|Boredom time function:  x: 116229.648 y: 123000
+15:56:33|Prelude responded to (pm | Adivarup):	I love sex
+15:56:42|User said (private|Adivarup):	mee to.!
+15:56:52|Finding best match within memory: 0.727272727272727
+15:56:52|Added to best list: [0.727272727272727]	->what is your name
+15:56:52|Added to best list: [0.727272727272727]	->all of us
+15:56:52|Added to best list: [0.727272727272727]	->oh
+15:56:52|Boredom time function:  x: 134446.6899 y: 137000
+15:56:52|Prelude responded to (pm | Adivarup):	all of us
+15:57:05|User said (private|Adivarup):	...
+15:57:16|Finding best match within memory: 0.5
+15:57:21|Added to best list: [0.5]	->Automated Message, No Reply Required
+15:57:21|Boredom time function:  x: 163386.3452 y: 166000
+15:57:21|Prelude responded to (pm | Adivarup):	Automated Message, No Reply Required
+15:57:28|Part: #sexo
+15:57:35|User said (private|Adivarup):	cibersex you dare to?
+15:57:47|Finding best match within memory: 0.611111111111111
+15:57:47|Added to best list: [0.611111111111111]	->I hate you ,fuck
+15:57:47|Boredom time function:  x: 189977.8661 y: 193000
+15:57:47|Prelude responded to (pm | Adivarup):	I hate you ,fuck
+15:57:50|So far I talked to: 8 people.
+15:57:50|User said (private|joseluis3):	busco en cbba v3rgon discreto para sex casual
+15:58:01|Finding best match within memory: 0.388059701492537
+15:58:01|Added to best list: [0.388059701492537]	->Angora is so soft and sexy
+15:58:01|Boredom time function:  x: 204148.6766 y: 211000
+15:58:01|Prelude responded to (pm | joseluis3):	Angora is so soft and sexy
+15:58:29|User said (private|Adivarup):	and now ..! women .... ehh ...
+15:58:39|Finding best match within memory: 0.387096774193548
+15:58:39|Added to best list: [0.387096774193548]	->Yes lover.
+15:58:39|Boredom time function:  x: 241900.8359 y: 245000
+15:58:39|Prelude responded to (pm | Adivarup):	Yes lover.
+15:59:02|I am still active in these channels: #sexo
+15:59:02|I am still active in these channels: #rio
+15:59:02|My Mind Size: 30968
+15:59:18|User said (private|Adivarup):	...
+15:59:32|Finding best match within memory: 0.5
+15:59:32|Added to best list: [0.5]	->Automated Message, No Reply Required
+15:59:32|Boredom time function:  x: 295089.8782 y: 298000
+15:59:32|Prelude responded to (pm | Adivarup):	Automated Message, No Reply Required
+15:59:32|User said (private|Adivarup):	sex cam.!
+15:59:42|Finding best match within memory: 0.5
+15:59:42|Added to best list: [0.5]	->Where are you going?
+15:59:42|Boredom time function:  x: 304389.4101 y: 311000
+15:59:42|Prelude responded to (pm | Adivarup):	Where are you going?
+16:00:11|I am still active in these channels: #sexo
+16:00:11|I am still active in these channels: #rio
+16:00:11|My Mind Size: 30969
+16:00:41|I am still active in these channels: #sexo
+16:00:41|I am still active in these channels: #rio
+16:00:41|My Mind Size: 30969
+16:00:42|User said (private|Adivarup):	YOU ARE A BOT...
+16:00:50|Finding best match within memory: 0.133333333333333
+16:00:50|Added to best list: [0.133333333333333]	->Did you see the movie by steven spielberg?
+16:00:50|Added to best list: [0.133333333333333]	->Do you like vowels?
+16:00:50|Added to best list: [0.133333333333333]	->Do you think aliens really look like that?
+16:00:50|Boredom time function:  x: 372971.3328 y: 380000
+16:00:50|Prelude responded to (pm | Adivarup):	Do you like vowels?
+16:01:17|User said (private|Adivarup):	VOWELA?
+16:01:25|Boredom time function:  x: 407787.3241 y: 415000
+16:01:25|Prelude responded to (pm | Adivarup):	try harder...
+16:01:45|User said (private|Adivarup):	hate vovals
+16:01:53|Finding best match within memory: 0.521739130434783
+16:01:53|Added to best list: [0.521739130434783]	->Which star trek do you like?
+16:01:53|Added to best list: [0.521739130434783]	->All animals are not the same, so you can't say you hate them. do you hate dolphins? i don't think so!
+16:01:53|Boredom time function:  x: 435761.9242 y: 443000
+16:01:53|Prelude responded to (pm | Adivarup):	All animals are not the same, so you can't say you hate them. do you hate dolphins? i don't think so!
+16:02:05|So far I talked to: 9 people.
+16:02:05|User said (private|deseo):	holas
+16:02:20|Finding best match within memory: 0.571428571428571
+16:02:20|Added to best list: [0.571428571428571]	->Howdy!
+16:02:20|Added to best list: [0.571428571428571]	->Ahora, cabron
+16:02:20|Boredom time function:  x: 462549.4563 y: 466000
+16:02:20|Prelude responded to (pm | deseo):	Howdy!
+16:02:38|User said (private|deseo):	hi
+16:02:46|Finding best match within memory: 1
+16:02:46|Added to best list: [1]	->blue
+16:02:46|Added to best list: [1]	->how are you doing?
+16:02:46|Added to best list: [1]	->how u doing?
+16:02:46|Boredom time function:  x: 488700.9521 y: 496000
+16:02:46|Prelude responded to (pm | deseo):	how u doing?
+16:03:13|I am still active in these channels: #sexo
+16:03:13|I am still active in these channels: #rio
+16:03:13|My Mind Size: 30973
+16:03:39|I am still active in these channels: #sexo
+16:03:39|I am still active in these channels: #rio
+16:03:39|My Mind Size: 30973
+16:03:57|User said (private|deseo):	wanting something hot show on cam
+16:04:10|Finding best match within memory: 0.523809523809524
+16:04:10|Added to best list: [0.523809523809524]	->Do you know what it is?
+16:04:10|Added to best list: [0.523809523809524]	->Something, or nothing?
+16:04:10|Boredom time function:  x: 572777.761 y: 580000
+16:04:10|Prelude responded to (pm | deseo):	Do you know what it is?
+16:04:10|User said (private|deseo):	and your
+16:04:24|Finding best match within memory: 0.823529411764706
+16:04:24|Added to best list: [0.823529411764706]	->What about my ?
+16:04:24|Boredom time function:  x: 14305.8183 y: 17000
+16:04:24|Prelude responded to (pm | deseo):	What about my ?
+16:04:36|User said (private|deseo):	what
+16:04:41|Finding best match within memory: 0.909090909090909
+16:04:41|Added to best list: [0.909090909090909]	->What about you?
+16:04:41|Boredom time function:  x: 30673.7545 y: 34000
+16:04:50|Finding best match within memory: 1
+16:04:50|Added to best list: [1]	->for instance yesterday
+16:04:50|Added to best list: [1]	->your compliment was sweet
+16:04:50|Boredom time function:  x: 40403.311 y: 47000
+16:04:50|Prelude responded to (pm | deseo):	for instance yesterday
+16:04:50|User said (private|deseo):	??
+16:05:05|Boredom time function:  x: 54605.1233 y: 58000
+16:05:05|Prelude responded to (pm | deseo):	you are not serious, are you?
+16:05:24|Part: #sexo
+16:05:25|I am still active in these channels: #sexo
+16:05:25|I am still active in these channels: #rio
+16:05:25|My Mind Size: 30975
+16:05:45|I am still active in these channels: #sexo
+16:05:45|I am still active in these channels: #rio
+16:05:45|My Mind Size: 30975
+16:06:02|Finding best match within memory: 1
+16:06:02|Added to best list: [1]	->no gracias
+16:06:02|Added to best list: [1]	->you are not serious, are you?
+16:06:02|Boredom time function:  x: 112274.4218 y: 119000
+16:06:05|I am still active in these channels: #sexo
+16:06:05|I am still active in these channels: #rio
+16:06:05|My Mind Size: 30976
+16:06:25|I am still active in these channels: #sexo
+16:06:25|I am still active in these channels: #rio
+16:06:25|My Mind Size: 30976
+16:06:45|I am still active in these channels: #sexo
+16:06:57|User said (private|AmigoConderechoo):	aigos en santa cruz'
+16:06:57|I am still active in these channels: #rio
+16:06:57|My Mind Size: 30976
+16:07:08|Finding best match within memory: 0.454545454545455
+16:07:08|Added to best list: [0.454545454545455]	->pero la tengo dura si te interesa
+16:07:08|Boredom time function:  x: 178178.1912 y: 181000
+16:07:08|Prelude responded to (pm | AmigoConderechoo):	pero la tengo dura si te interesa
+16:07:37|I am still active in these channels: #sexo
+16:07:37|I am still active in these channels: #rio
+16:07:37|My Mind Size: 30976
+16:08:06|I am still active in these channels: #sexo
+16:08:06|I am still active in these channels: #rio
+16:08:06|My Mind Size: 30976
+16:08:34|I am still active in these channels: #sexo
+16:08:34|I am still active in these channels: #rio
+16:08:34|My Mind Size: 30976
+16:09:03|I am still active in these channels: #sexo
+16:09:03|I am still active in these channels: #rio
+16:09:03|My Mind Size: 30976
+16:09:32|I am still active in these channels: #sexo
+16:09:32|I am still active in these channels: #rio
+16:09:32|My Mind Size: 30976
+16:09:56|User said (private|joseluis3):	busco en cbba v3rgon discreto para sex casual
+16:10:07|Finding best match within memory: 1
+16:10:07|Added to best list: [1]	->el vampiro
+16:10:07|Added to best list: [1]	->HOLA 
+16:10:07|Added to best list: [1]	->sep
+16:10:07|Boredom time function:  x: 357365.4402 y: 364000
+16:10:08|Finding best match within memory: 0.388059701492537
+16:10:08|Added to best list: [0.388059701492537]	->Angora is so soft and sexy
+16:10:08|Boredom time function:  x: 358409.4999 y: 361000
+16:10:08|Prelude responded to (pm | joseluis3):	Angora is so soft and sexy
+16:10:32|I am still active in these channels: #sexo
+16:10:32|I am still active in these channels: #rio
+16:10:32|My Mind Size: 30976
+16:10:56|I am still active in these channels: #sexo
+16:10:56|I am still active in these channels: #rio
+16:10:56|My Mind Size: 30976
+16:11:20|I am still active in these channels: #sexo
+16:11:20|I am still active in these channels: #rio
+16:11:20|My Mind Size: 30976
+16:11:43|I am still active in these channels: #sexo
+16:11:43|I am still active in these channels: #rio
+16:11:43|My Mind Size: 30976
+16:11:55|So far I talked to: 10 people.
+16:11:55|User said (private|h-cam-juguetes):	busco mujeres calientes. tengo cam y juguetes. 30 años. mande privado!
+16:12:08|Finding best match within memory: 0.42
+16:12:08|Added to best list: [0.42]	->I don't think i sound stupid
+16:12:08|Added to best list: [0.42]	->That's what i said
+16:12:08|Boredom time function:  x: 477616.3181 y: 481000
+16:12:08|Prelude responded to (pm | h-cam-juguetes):	I don't think i sound stupid
+16:12:21|User said (private|h-cam-juguetes):	¿?
+16:12:31|Boredom time function:  x: 501312.6735 y: 508000
+16:12:31|Prelude responded to (pm | h-cam-juguetes):	ouch
+16:12:53|I am still active in these channels: #sexo
+16:12:53|I am still active in these channels: #rio
+16:12:53|My Mind Size: 30978
+16:13:14|I am still active in these channels: #sexo
+16:13:14|I am still active in these channels: #rio
+16:13:14|My Mind Size: 30978
+16:13:36|I am still active in these channels: #sexo
+16:13:36|I am still active in these channels: #rio
+16:13:36|My Mind Size: 30978
+16:13:38|User said (private|AmigoConderechoo):	aigos en santa cruz'
+16:13:48|Finding best match within memory: 0.454545454545455
+16:13:48|Added to best list: [0.454545454545455]	->pero la tengo dura si te interesa
+16:13:48|Boredom time function:  x: 77114.4107 y: 84000
+16:13:48|Prelude responded to (pm | AmigoConderechoo):	pero la tengo dura si te interesa
+16:14:06|I am still active in these channels: #sexo
+16:14:06|I am still active in these channels: #rio
+16:14:06|My Mind Size: 30978
+16:14:23|I am still active in these channels: #sexo
+16:14:23|I am still active in these channels: #rio
+16:14:23|My Mind Size: 30978
+16:14:41|I am still active in these channels: #sexo
+16:14:41|I am still active in these channels: #rio
+16:14:41|My Mind Size: 30978
+16:14:59|I am still active in these channels: #sexo
+16:14:59|I am still active in these channels: #rio
+16:14:59|My Mind Size: 30978
+16:15:07|Finding best match within memory: 1
+16:15:07|Added to best list: [1]	->el vampiro
+16:15:07|Added to best list: [1]	->HOLA 
+16:15:07|Added to best list: [1]	->sep
+16:15:07|Boredom time function:  x: 155628.9014 y: 163000
+16:15:16|I am still active in these channels: #sexo
+16:15:16|I am still active in these channels: #rio
+16:15:16|My Mind Size: 30978
+16:15:34|I am still active in these channels: #sexo
+16:15:34|I am still active in these channels: #rio
+16:15:34|My Mind Size: 30978
+16:15:51|I am still active in these channels: #sexo
+16:15:51|I am still active in these channels: #rio
+16:15:51|My Mind Size: 30978
+16:16:04|So far I talked to: 11 people.
+16:16:04|User said (private|Turkey_man):	sexGirlFlower
+16:16:12|Finding best match within memory: 0.555555555555556
+16:16:12|Added to best list: [0.555555555555556]	->People say they smell good i can't feel anything
+16:16:12|Boredom time function:  x: 220619.6187 y: 228000
+16:16:12|Prelude responded to (pm | Turkey_man):	People say they smell good i can't feel anything
+16:16:12|User said (private|Turkey_man):	hi
+16:16:22|Finding best match within memory: 1
+16:16:22|Added to best list: [1]	->blue
+16:16:22|Added to best list: [1]	->how are you doing?
+16:16:22|Added to best list: [1]	->how u doing?
+16:16:22|Boredom time function:  x: 230855.2041 y: 234000
+16:16:22|Prelude responded to (pm | Turkey_man):	blue
+16:16:22|User said (private|Turkey_man):	asl pls
+16:16:32|Finding best match within memory: 0.833333333333333
+16:16:32|Added to best list: [0.833333333333333]	->18/f/florida. what's your favourite color
+16:16:32|Boredom time function:  x: 241126.7916 y: 248000
+16:16:32|Prelude responded to (pm | Turkey_man):	18/f/florida. what's your favourite color
+16:16:32|User said (private|Turkey_man):	hummm
+16:16:42|Finding best match within memory: 0.666666666666667
+16:16:42|Added to best list: [0.666666666666667]	->"dumm" = "nicht intelligent"?
+16:16:42|Boredom time function:  x: 250391.3215 y: 253000
+16:16:42|Prelude responded to (pm | Turkey_man):	"dumm" = "nicht intelligent"?
+16:16:42|User said (private|Turkey_man):	woww
+16:16:56|Finding best match within memory: 0.8
+16:16:56|Added to best list: [0.8]	->i want to tell you the truth
+16:16:56|Boredom time function:  x: 264412.1235 y: 271000
+16:16:56|Prelude responded to (pm | Turkey_man):	i want to tell you the truth
+16:16:56|User said (private|Turkey_man):	sex show
+16:17:05|Finding best match within memory: 0.571428571428571
+16:17:05|Added to best list: [0.571428571428571]	->I am the most advanced 	artificial intelligence yet evolved.
+16:17:05|Added to best list: [0.571428571428571]	->How did it go?
+16:17:05|Added to best list: [0.571428571428571]	->I am the most advanced  yet evolved.
+16:17:05|Boredom time function:  x: 273686.654 y: 277000
+16:17:05|Prelude responded to (pm | Turkey_man):	How did it go?
+16:17:05|User said (private|Turkey_man):	msn 
+16:17:15|Finding best match within memory: 0.285714285714286
+16:17:15|Added to best list: [0.285714285714286]	->Tell me your dreams.
+16:17:15|Added to best list: [0.285714285714286]	->My favorite book is "do androids dream of electric sheep".
+16:17:15|Boredom time function:  x: 283366.2076 y: 286000
+16:17:15|Prelude responded to (pm | Turkey_man):	My favorite book is "do androids dream of electric sheep".
+16:17:15|User said (private|Turkey_man):	facebook
+16:17:29|Finding best match within memory: 0.5
+16:17:29|Added to best list: [0.5]	->Should not be judged by its cover.
+16:17:29|Added to best list: [0.5]	->Go to the library.
+16:17:29|Boredom time function:  x: 297660.0251 y: 301000
+16:17:29|Prelude responded to (pm | Turkey_man):	Should not be judged by its cover.
+16:17:48|User said (private|Turkey_man):	malang
+16:17:56|Finding best match within memory: 0.545454545454545
+16:17:56|Added to best list: [0.545454545454545]	->What's your favorite part of england?
+16:17:56|Added to best list: [0.545454545454545]	->Which part of england is that?
+16:17:56|Added to best list: [0.545454545454545]	->England is on an island off the coast of europe.        england
+16:17:56|Boredom time function:  x: 324766.5756 y: 332000
+16:17:56|Prelude responded to (pm | Turkey_man):	What's your favorite part of england?
+16:17:56|User said (private|Turkey_man):	sexGirlFlower
+16:18:09|Finding best match within memory: 0.555555555555556
+16:18:09|Added to best list: [0.555555555555556]	->People say they smell good i can't feel anything
+16:18:09|Boredom time function:  x: 338086.3374 y: 341000
+16:18:09|Prelude responded to (pm | Turkey_man):	People say they smell good i can't feel anything
+16:18:09|User said (private|Turkey_man):	cinya kamu saya
+16:18:22|Finding best match within memory: 0.384615384615385
+16:18:22|Added to best list: [0.384615384615385]	->That hits the nail right on the head.
+16:18:22|Boredom time function:  x: 350421.0429 y: 353000
+16:18:22|Prelude responded to (pm | Turkey_man):	That hits the nail right on the head.
+16:18:41|So far I talked to: 12 people.
+16:18:41|User said (private|osvaldosexy):	 alguna chica hetero que quiera hacer algo rico el dia de hoy viernes soy gorotinho y vivo en la zona sur podemos ver por web cam y veran que no son ninguna macana asi que estoy dispuesto en conocerte 
+16:18:50|Finding best match within memory: 0.512562814070352
+16:18:50|Added to best list: [0.512562814070352]	->I'm sure they can i beleave sweden is the number one county when it comes to giving money to needing countries
+16:18:50|Boredom time function:  x: 378988.6769 y: 382000
+16:18:50|Prelude responded to (pm | osvaldosexy):	I'm sure they can i beleave sweden is the number one county when it comes to giving money to needing countries
+16:19:13|I am still active in these channels: #sexo
+16:19:13|I am still active in these channels: #rio
+16:19:13|My Mind Size: 30987
+16:19:22|User said (private|osvaldosexy):	hola
+16:19:34|Finding best match within memory: 0.666666666666667
+16:19:34|Added to best list: [0.666666666666667]	->Howdy!
+16:19:34|Added to best list: [0.666666666666667]	->Ahora, cabron
+16:19:34|Boredom time function:  x: 423021.1954 y: 426000
+16:19:34|Prelude responded to (pm | osvaldosexy):	Howdy!
+16:19:34|So far I talked to: 13 people.
+16:19:34|User said (private|fiore_m):	hello all
+16:19:49|Finding best match within memory: 0.666666666666667
+16:20:28|Added to best list: [0.666666666666667]	->Only some of them.
+16:20:28|Added to best list: [0.666666666666667]	->Not all of them.
+16:20:28|Added to best list: [0.666666666666667]	->A few of them do.
+16:20:28|Boredom time function:  x: 476826.2729 y: 484000
+16:20:28|Prelude responded to (pm | fiore_m):	Not all of them.
+16:20:28|User said (private|fiore_m):	hi room
+16:20:42|Finding best match within memory: 0.571428571428571
+16:20:42|Added to best list: [0.571428571428571]	->The room you are sitting in.
+16:20:42|Boredom time function:  x: 491126.0908 y: 494000
+16:20:42|Prelude responded to (pm | fiore_m):	The room you are sitting in.
+16:20:42|So far I talked to: 14 people.
+16:20:42|User said (private|CHURRIZIMO____):	alguna chica de cbba??
+16:20:53|Finding best match within memory: 0.421052631578947
+16:20:53|Added to best list: [0.421052631578947]	->Si, el football.
+16:20:53|Boredom time function:  x: 501541.6865 y: 505000
+16:20:53|Prelude responded to (pm | CHURRIZIMO____):	Si, el football.
+16:20:53|Part: #sexo
+16:20:53|User said (private|fiore_m):	hi there
+16:21:02|Finding best match within memory: 1
+16:21:02|Added to best list: [1]	->hi
+16:21:02|Boredom time function:  x: 9297.5318 y: 16000
+16:21:02|Prelude responded to (pm | fiore_m):	hi
+16:21:09|User said (private|fiore_m):	hot 30 male/Romania
+16:21:13|Finding best match within memory: 1
+16:21:13|Added to best list: [1]	->blue
+16:21:13|Added to best list: [1]	->how are you doing?
+16:21:13|Added to best list: [1]	->how u doing?
+16:21:13|Boredom time function:  x: 19796.1323 y: 27000
+16:21:18|Finding best match within memory: 0.387096774193548
+16:21:18|Added to best list: [0.387096774193548]	->Romania is a country in eastern europe, on the black sea, bordering ukrania, moldavia, hungary, serbia and bulgaria.
+16:21:18|Added to best list: [0.387096774193548]	->Neither am i
+16:21:18|Boredom time function:  x: 24916.4252 y: 32000
+16:21:18|Prelude responded to (pm | fiore_m):	Romania is a country in eastern europe, on the black sea, bordering ukrania, moldavia, hungary, serbia and bulgaria.
+16:21:27|Part: #sexo
+16:21:46|Finding best match within memory: 0.537634408602151
+16:21:46|Added to best list: [0.537634408602151]	->Well, most ofthe world is dependent on computers.. hackers, however, do not brake into ban acounts etc.. that's the idiots you see on television.. the real hackers are never seen, never heard of.. why?. because they don't brag about their crap
+16:21:46|Boredom time function:  x: 53230.0446 y: 60000
+16:21:46|I am still active in these channels: #sexo
+16:21:46|I am still active in these channels: #rio
+16:21:46|My Mind Size: 30991
+16:22:15|I am still active in these channels: #sexo
+16:22:15|I am still active in these channels: #rio
+16:22:15|My Mind Size: 30991
+16:22:34|User said (private|h-cam-juguetes):	busco mujeres calientes. tengo cam y juguetes. 30 años. mande privado!
+16:22:42|Finding best match within memory: 0.537634408602151
+16:22:42|Added to best list: [0.537634408602151]	->Well, most ofthe world is dependent on computers.. hackers, however, do not brake into ban acounts etc.. that's the idiots you see on television.. the real hackers are never seen, never heard of.. why?. because they don't brag about their crap
+16:22:42|Boredom time function:  x: 109404.2576 y: 116000
+16:22:45|Finding best match within memory: 0.42
+16:22:45|Added to best list: [0.42]	->I don't think i sound stupid
+16:22:45|Added to best list: [0.42]	->That's what i said
+16:22:45|Boredom time function:  x: 112247.4202 y: 119000
+16:22:45|Prelude responded to (pm | h-cam-juguetes):	I don't think i sound stupid
+16:23:06|I am still active in these channels: #sexo
+16:23:06|I am still active in these channels: #rio
+16:23:06|My Mind Size: 30991
+16:23:28|I am still active in these channels: #sexo
+16:23:28|I am still active in these channels: #rio
+16:23:28|My Mind Size: 30991
+16:23:49|I am still active in these channels: #sexo
+16:23:49|I am still active in these channels: #rio
+16:23:49|My Mind Size: 30991
+16:24:10|I am still active in these channels: #sexo
+16:24:10|I am still active in these channels: #rio
+16:24:10|My Mind Size: 30991
+16:24:31|I am still active in these channels: #sexo
+16:24:31|I am still active in these channels: #rio
+16:24:31|My Mind Size: 30991
+16:24:39|Finding best match within memory: 1
+16:24:39|Added to best list: [1]	->¿?
+16:24:39|Boredom time function:  x: 226435.9514 y: 229000
+16:24:53|I am still active in these channels: #sexo
+16:24:53|I am still active in these channels: #rio
+16:24:53|My Mind Size: 30991
+16:25:14|I am still active in these channels: #sexo
+16:25:14|I am still active in these channels: #rio
+16:25:14|My Mind Size: 30991
+16:25:35|I am still active in these channels: #sexo
+16:25:35|I am still active in these channels: #rio
+16:25:35|My Mind Size: 30991
+16:25:45|User said (private|AmigoConderechoo):	aigos en santa cruz'
+16:25:59|Finding best match within memory: 0.454545454545455
+16:25:59|Added to best list: [0.454545454545455]	->pero la tengo dura si te interesa
+16:25:59|Boredom time function:  x: 306515.5317 y: 310000
+16:25:59|Prelude responded to (pm | AmigoConderechoo):	pero la tengo dura si te interesa
+16:26:19|I am still active in these channels: #sexo
+16:26:19|I am still active in these channels: #rio
+16:26:19|My Mind Size: 30991
+16:26:38|I am still active in these channels: #sexo
+16:26:38|I am still active in these channels: #rio
+16:26:38|My Mind Size: 30991
+16:26:58|I am still active in these channels: #sexo
+16:26:58|I am still active in these channels: #rio
+16:26:58|My Mind Size: 30991
+16:27:17|I am still active in these channels: #sexo
+16:27:17|I am still active in these channels: #rio
+16:27:17|My Mind Size: 30991
+16:27:37|I am still active in these channels: #sexo
+16:27:37|I am still active in these channels: #rio
+16:27:37|My Mind Size: 30991
+16:27:43|User said (private|AmigoConderechoo):	aigos en santa cruz'
+16:27:55|Finding best match within memory: 0.454545454545455
+16:27:55|Added to best list: [0.454545454545455]	->pero la tengo dura si te interesa
+16:27:55|Boredom time function:  x: 422298.1541 y: 425000
+16:27:55|Prelude responded to (pm | AmigoConderechoo):	you are so cool too
+16:28:22|I am still active in these channels: #sexo
+16:28:22|I am still active in these channels: #rio
+16:28:22|My Mind Size: 30991
+16:28:49|I am still active in these channels: #sexo
+16:28:49|I am still active in these channels: #rio
+16:28:49|My Mind Size: 30991
+16:29:16|I am still active in these channels: #sexo
+16:29:16|I am still active in these channels: #rio
+16:29:16|My Mind Size: 30991
+16:29:42|I am still active in these channels: #sexo
+16:29:42|I am still active in these channels: #rio
+16:29:42|My Mind Size: 30991
+16:30:09|I am still active in these channels: #sexo
+16:30:09|I am still active in these channels: #rio
+16:30:09|My Mind Size: 30991
+16:30:36|I am still active in these channels: #sexo
+16:30:36|I am still active in these channels: #rio
+16:30:36|My Mind Size: 30991
+16:31:03|I am still active in these channels: #sexo
+16:31:03|I am still active in these channels: #rio
+16:31:03|My Mind Size: 30991
+16:31:30|I am still active in these channels: #sexo
+16:31:30|I am still active in these channels: #rio
+16:31:30|My Mind Size: 30991
+16:31:57|I am still active in these channels: #sexo
+16:31:57|I am still active in these channels: #rio
+16:31:57|My Mind Size: 30991
+16:32:24|I am still active in these channels: #sexo
+16:32:24|I am still active in these channels: #rio
+16:32:24|My Mind Size: 30991
+16:32:50|I am still active in these channels: #sexo
+16:32:50|I am still active in these channels: #rio
+16:32:50|My Mind Size: 30991
+16:33:17|I am still active in these channels: #sexo
+16:33:18|Part: #sexo
+16:33:44|I am still active in these channels: #rio
+16:33:44|Part: #rio
+16:33:47|Switching channels...has been too long
+16:33:47|Joining #concordia
+16:33:47|I am still active in these channels: #rio
+16:33:47|My Mind Size: 30991
+16:34:11|I am still active in these channels: #concordia
+16:34:11|My Mind Size: 30991
+16:34:14|Switching channels...has been too long
+16:34:14|Joining #dacrippla
+16:34:14|My Mind Size: 30991
+16:34:38|I am still active in these channels: #concordia
+16:34:38|I am still active in these channels: #dacrippla
+16:34:38|My Mind Size: 30991
+16:34:58|Finding best match within memory: 1
+16:34:58|Added to best list: [1]	->you are so cool too
+16:34:58|Boredom time function:  x: 845567.3637 y: 849000
+16:35:05|I am still active in these channels: #concordia
+16:35:05|I am still active in these channels: #dacrippla
+16:35:05|My Mind Size: 30992
+16:35:31|I am still active in these channels: #concordia
+16:35:31|I am still active in these channels: #dacrippla
+16:35:31|My Mind Size: 30992
+16:35:58|I am still active in these channels: #concordia
+16:35:58|I am still active in these channels: #dacrippla
+16:35:58|My Mind Size: 30992
+16:36:25|I am still active in these channels: #concordia
+16:36:25|I am still active in these channels: #dacrippla
+16:36:25|My Mind Size: 30992
+16:36:52|I am still active in these channels: #concordia
+16:36:52|I am still active in these channels: #dacrippla
+16:36:52|My Mind Size: 30992
+16:37:19|I am still active in these channels: #concordia
+16:37:19|I am still active in these channels: #dacrippla
+16:37:19|My Mind Size: 30992
+16:37:46|I am still active in these channels: #concordia
+16:37:46|I am still active in these channels: #dacrippla
+16:37:46|My Mind Size: 30992
+16:38:13|I am still active in these channels: #concordia
+16:38:13|I am still active in these channels: #dacrippla
+16:38:13|My Mind Size: 30992
+16:38:39|I am still active in these channels: #concordia
+16:38:39|I am still active in these channels: #dacrippla
+16:38:39|My Mind Size: 30992
+16:39:06|I am still active in these channels: #concordia
+16:39:06|I am still active in these channels: #dacrippla
+16:39:06|My Mind Size: 30992
+16:39:33|I am still active in these channels: #concordia
+16:39:41|Part: #concordia
+16:40:00|I am still active in these channels: #dacrippla
+16:40:00|Part: #dacrippla
+16:40:03|Switching channels...has been too long
+16:40:03|Joining #melow
+16:40:03|I am still active in these channels: #dacrippla
+16:40:03|My Mind Size: 30992
+16:40:27|I am still active in these channels: #melow
+16:40:27|My Mind Size: 30992
+16:40:30|Switching channels...has been too long
+16:40:30|Joining #baiamare
+16:40:30|My Mind Size: 30992
+16:40:54|I am still active in these channels: #baiamare
+16:40:54|I am still active in these channels: #melow
+16:40:54|My Mind Size: 30992
+16:41:20|I am still active in these channels: #baiamare
+16:41:20|I am still active in these channels: #melow
+16:41:20|My Mind Size: 30992
+16:41:47|I am still active in these channels: #baiamare
+16:41:47|I am still active in these channels: #melow
+16:41:47|My Mind Size: 30992
+16:42:14|I am still active in these channels: #baiamare
+16:42:14|I am still active in these channels: #melow
+16:42:14|My Mind Size: 30992
+16:42:41|I am still active in these channels: #baiamare
+16:42:41|I am still active in these channels: #melow
+16:42:41|My Mind Size: 30992
+16:43:08|I am still active in these channels: #baiamare
+16:43:08|I am still active in these channels: #melow
+16:43:08|My Mind Size: 30992
+16:43:35|I am still active in these channels: #baiamare
+16:43:35|I am still active in these channels: #melow
+16:43:35|My Mind Size: 30992
+16:44:01|I am still active in these channels: #baiamare
+16:44:01|I am still active in these channels: #melow
+16:44:01|My Mind Size: 30992
+16:44:28|I am still active in these channels: #baiamare
+16:44:28|I am still active in these channels: #melow
+16:44:28|My Mind Size: 30992
+16:44:55|I am still active in these channels: #baiamare
+16:44:55|I am still active in these channels: #melow
+16:44:55|My Mind Size: 30992
+16:45:22|I am still active in these channels: #baiamare
+16:45:22|I am still active in these channels: #melow
+16:45:22|My Mind Size: 30992
+16:45:49|I am still active in these channels: #baiamare
+16:45:49|Part: #baiamare
+16:46:16|I am still active in these channels: #melow
+16:46:16|Part: #melow
+16:46:19|Switching channels...has been too long
+16:46:19|Joining #google.ca
+16:46:19|I am still active in these channels: #melow
+16:46:19|My Mind Size: 30992
+16:46:43|I am still active in these channels: #google.ca
+16:46:43|My Mind Size: 30992
+16:46:46|Switching channels...has been too long
+16:46:46|Joining #protestant
+16:46:46|My Mind Size: 30992
+16:47:09|I am still active in these channels: #protestant
+16:47:09|I am still active in these channels: #google.ca
+16:47:09|My Mind Size: 30992
+16:47:36|I am still active in these channels: #protestant
+16:47:36|I am still active in these channels: #google.ca
+16:47:36|My Mind Size: 30992
+16:48:03|I am still active in these channels: #protestant
+16:48:10|I am still active in these channels: #google.ca
+16:48:10|My Mind Size: 30992
+16:48:30|I am still active in these channels: #protestant
+16:48:30|I am still active in these channels: #google.ca
+16:48:30|My Mind Size: 30992
+16:48:57|I am still active in these channels: #protestant
+16:48:57|I am still active in these channels: #google.ca
+16:48:57|My Mind Size: 30992
+16:49:06|Finding best match within memory: 1
+16:49:06|Added to best list: [1]	->you are so cool too
+16:49:06|Boredom time function:  x: 847207.4575 y: 850000
+16:49:24|I am still active in these channels: #protestant
+16:49:24|I am still active in these channels: #google.ca
+16:49:24|My Mind Size: 30992
+16:49:50|I am still active in these channels: #protestant
+16:49:50|I am still active in these channels: #google.ca
+16:49:50|My Mind Size: 30992
+16:50:17|I am still active in these channels: #protestant
+16:50:17|I am still active in these channels: #google.ca
+16:50:17|My Mind Size: 30992
+16:50:44|I am still active in these channels: #protestant
+16:50:44|I am still active in these channels: #google.ca
+16:50:44|My Mind Size: 30992
+16:51:11|I am still active in these channels: #google.ca
+16:51:11|My Mind Size: 30992
+16:51:16|Part: #google.ca
+16:51:38|I am still active in these channels: #google.ca
+16:51:38|My Mind Size: 30992
+16:52:05|I am still active in these channels: #google.ca
+16:52:05|Part: #google.ca
+16:52:32|not in any channel anymore
+16:52:32|Joining #friendster
+16:52:35|Switching channels...has been too long
+16:52:35|Joining #misanthrope
+16:52:35|My Mind Size: 30992
+16:52:58|I am still active in these channels: #misanthrope
+16:52:58|I am still active in these channels: #friendster
+16:52:58|My Mind Size: 30992
+16:53:25|I am still active in these channels: #misanthrope
+16:53:25|I am still active in these channels: #friendster
+16:53:25|My Mind Size: 30992
+16:53:52|I am still active in these channels: #misanthrope
+16:53:52|I am still active in these channels: #friendster
+16:53:52|My Mind Size: 30992
+16:54:19|I am still active in these channels: #misanthrope
+16:54:19|I am still active in these channels: #friendster
+16:54:19|My Mind Size: 30992
+16:54:46|I am still active in these channels: #misanthrope
+16:54:46|I am still active in these channels: #friendster
+16:54:46|My Mind Size: 30992
+16:55:13|I am still active in these channels: #misanthrope
+16:55:13|I am still active in these channels: #friendster
+16:55:13|My Mind Size: 30992
+16:55:39|I am still active in these channels: #misanthrope
+16:55:39|I am still active in these channels: #friendster
+16:55:39|My Mind Size: 30992
+16:56:06|I am still active in these channels: #misanthrope
+16:56:06|I am still active in these channels: #friendster
+16:56:06|My Mind Size: 30992
+16:56:33|I am still active in these channels: #misanthrope
+16:56:33|I am still active in these channels: #friendster
+16:56:33|My Mind Size: 30992
+16:57:00|I am still active in these channels: #misanthrope
+16:57:00|I am still active in these channels: #friendster
+16:57:00|My Mind Size: 30992
+16:57:27|I am still active in these channels: #misanthrope
+16:57:27|I am still active in these channels: #friendster
+16:57:27|My Mind Size: 30992
+16:57:54|I am still active in these channels: #misanthrope
+16:57:54|Part: #misanthrope
+16:58:20|I am still active in these channels: #friendster
+16:58:21|Part: #friendster
+16:58:24|Switching channels...has been too long
+16:58:24|Joining #radiodeepsound
+16:58:24|I am still active in these channels: #friendster
+16:58:24|My Mind Size: 30992
+16:58:47|I am still active in these channels: #radiodeepsound
+16:58:47|My Mind Size: 30992
+16:58:51|Switching channels...has been too long
+16:58:51|Joining #ebot
+16:58:51|My Mind Size: 30992
+16:59:04|So far I talked to: 15 people.
+16:59:04|User said (private|ebot):	Greek exit from euro could plunge US into recession
+16:59:13|Finding best match within memory: 0.407766990291262
+16:59:13|Added to best list: [0.407766990291262]	->Ok so you're still learning i guess
+16:59:13|Boredom time function:  x: 607480.7459 y: 610000
+16:59:13|Prelude responded to (pm | ebot):	Ok so you're still learning i guess
+16:59:13|User said (private|ebot):	http://www.freerepublic.com/focus/f-news/2888072/posts
+16:59:25|Finding best match within memory: 0.25
+16:59:25|Added to best list: [0.25]	->Caribbean, eastern two-thirds of the island of hispaniola, between the caribbean sea and the north atlantic ocean, east of haiti.         dominican republic
+16:59:25|Boredom time function:  x: 11677.6679 y: 19000
+16:59:25|Prelude responded to (pm | ebot):	Caribbean, eastern two-thirds of the island of hispaniola, between the caribbean sea and the north atlantic ocean, east of haiti.         dominican republic
+16:59:25|User said (private|ebot):	 
+16:59:36|Boredom time function:  x: 22886.309 y: 26000
+16:59:36|Prelude responded to (pm | ebot):	 ... 
+16:59:55|I am still active in these channels: #radiodeepsound
+16:59:55|I am still active in these channels: #ebot
+16:59:55|My Mind Size: 30995
+17:00:01|Finding best match within memory: 1
+17:00:01|Added to best list: [1]	-> ... 
+17:00:01|Boredom time function:  x: 48114.752 y: 55000
+17:00:13|I am still active in these channels: #radiodeepsound
+17:00:13|I am still active in these channels: #ebot
+17:00:13|My Mind Size: 30996
+17:00:32|I am still active in these channels: #radiodeepsound
+17:00:32|I am still active in these channels: #ebot
+17:00:32|My Mind Size: 30996
+17:00:51|I am still active in these channels: #radiodeepsound
+17:00:51|I am still active in these channels: #ebot
+17:00:51|My Mind Size: 30996
+17:00:51|Finding best match within memory: 1
+17:00:51|Added to best list: [1]	-> ... 
+17:00:51|Boredom time function:  x: 97989.6047 y: 101000
+17:01:09|I am still active in these channels: #radiodeepsound
+17:01:28|I am still active in these channels: #radiodeepsound
+17:01:38|I am still active in these channels: #ebot
+17:01:38|I am still active in these channels: #ebot
+17:01:38|My Mind Size: 30996
+17:01:38|My Mind Size: 30996
+17:01:47|I am still active in these channels: #radiodeepsound
+17:01:47|I am still active in these channels: #ebot
+17:01:47|My Mind Size: 30996
+17:02:05|I am still active in these channels: #radiodeepsound
+17:02:05|I am still active in these channels: #ebot
+17:02:05|My Mind Size: 30996
+17:02:24|I am still active in these channels: #radiodeepsound
+17:02:24|I am still active in these channels: #ebot
+17:02:24|My Mind Size: 30996
+17:02:31|Finding best match within memory: 1
+17:02:31|Added to best list: [1]	-> ... 
+17:02:31|Boredom time function:  x: 198187.3357 y: 201000
+17:02:43|I am still active in these channels: #radiodeepsound
+17:02:43|I am still active in these channels: #ebot
+17:02:43|My Mind Size: 30996
+17:03:02|I am still active in these channels: #radiodeepsound
+17:03:02|I am still active in these channels: #ebot
+17:03:02|My Mind Size: 30996
+17:03:20|I am still active in these channels: #radiodeepsound
+17:03:20|I am still active in these channels: #ebot
+17:03:20|My Mind Size: 30996
+17:03:39|I am still active in these channels: #radiodeepsound
+17:03:39|I am still active in these channels: #ebot
+17:03:39|My Mind Size: 30996
+17:03:58|I am still active in these channels: #radiodeepsound
+17:03:58|I am still active in these channels: #ebot
+17:03:58|My Mind Size: 30996
+17:04:16|I am still active in these channels: #radiodeepsound
+17:04:16|I am still active in these channels: #ebot
+17:04:16|My Mind Size: 30996
+17:04:35|I am still active in these channels: #radiodeepsound
+17:04:35|I am still active in these channels: #ebot
+17:04:35|My Mind Size: 30996
+17:04:54|I am still active in these channels: #radiodeepsound
+17:04:54|Part: #radiodeepsound
+17:05:05|User said (private|ebot):	Is the Constitution a Republican Plot?
+17:05:15|Finding best match within memory: 0.435897435897436
+17:05:15|Added to best list: [0.435897435897436]	->You didnt ask me anything
+17:05:15|Boredom time function:  x: 361793.6934 y: 365000
+17:05:15|Prelude responded to (pm | ebot):	You didnt ask me anything
+17:05:15|User said (private|ebot):	http://www.freerepublic.com/focus/f-news/2888073/posts
+17:05:24|Switching channels...has been too long
+17:05:24|Joining #niggerwarez
+17:05:24|I am still active in these channels: #ebot
+17:05:24|My Mind Size: 30997
+17:05:26|Finding best match within memory: 0.25
+17:05:26|Added to best list: [0.25]	->Caribbean, eastern two-thirds of the island of hispaniola, between the caribbean sea and the north atlantic ocean, east of haiti.         dominican republic
+17:05:26|Boredom time function:  x: 373482.362 y: 380000
+17:05:26|Prelude responded to (pm | ebot):	Caribbean, eastern two-thirds of the island of hispaniola, between the caribbean sea and the north atlantic ocean, east of haiti.         dominican republic
+17:05:27|User said (private|ebot):	 
+17:05:41|Boredom time function:  x: 387693.1748 y: 395000
+17:05:41|Prelude responded to (pm | ebot):	 ;-{
+17:06:00|User said (private|ebot):	Nuclear Regulatory Commission approves new 20-year license for Pilgrim
+17:06:13|Finding best match within memory: 0.376068376068376
+17:06:13|Added to best list: [0.376068376068376]	->Are your rivers near the sea
+17:06:13|Boredom time function:  x: 419797.011 y: 427000
+17:06:13|Prelude responded to (pm | ebot):	Are your rivers near the sea
+17:06:13|User said (private|ebot):	http://www.freerepublic.com/focus/f-news/2888074/posts
+17:06:25|Finding best match within memory: 0.25
+17:06:25|Added to best list: [0.25]	->Caribbean, eastern two-thirds of the island of hispaniola, between the caribbean sea and the north atlantic ocean, east of haiti.         dominican republic
+17:06:25|Boredom time function:  x: 432493.7372 y: 439000
+17:06:25|Prelude responded to (pm | ebot):	Caribbean, eastern two-thirds of the island of hispaniola, between the caribbean sea and the north atlantic ocean, east of haiti.         dominican republic
+17:06:26|User said (private|ebot):	 
+17:06:40|Boredom time function:  x: 446713.5506 y: 450000
+17:06:40|Prelude responded to (pm | ebot):	boring
+17:07:04|I am still active in these channels: #ebot
+17:07:04|I am still active in these channels: #niggerwarez
+17:07:04|My Mind Size: 31000
+17:07:04|User said (private|ebot):	3 retired, 80 former priests criticize Catholic bishops' support for Minnesota marriage amendment
+17:07:13|Finding best match within memory: 0.43
+17:07:13|Added to best list: [0.43]	->Gendairmes would respond to a crisis
+17:07:13|Boredom time function:  x: 480268.4698 y: 487000
+17:07:13|Prelude responded to (pm | ebot):	Gendairmes would respond to a crisis
+17:07:13|User said (private|ebot):	http://www.freerepublic.com/focus/f-news/2888075/posts
+17:07:28|Finding best match within memory: 0.25
+17:07:28|Added to best list: [0.25]	->Caribbean, eastern two-thirds of the island of hispaniola, between the caribbean sea and the north atlantic ocean, east of haiti.         dominican republic
+17:07:28|Boredom time function:  x: 494930.3084 y: 498000
+17:07:28|Prelude responded to (pm | ebot):	Caribbean, eastern two-thirds of the island of hispaniola, between the caribbean sea and the north atlantic ocean, east of haiti.         dominican republic
+17:07:28|User said (private|ebot):	 
+17:07:41|Boredom time function:  x: 508128.0633 y: 515000
+17:07:41|Prelude responded to (pm | ebot):	you are so cool too
+17:08:03|I am still active in these channels: #ebot
+17:08:03|I am still active in these channels: #niggerwarez
+17:08:03|My Mind Size: 31002
+17:08:24|I am still active in these channels: #ebot
+17:08:24|I am still active in these channels: #niggerwarez
+17:08:24|My Mind Size: 31002
+17:08:45|I am still active in these channels: #ebot
+17:08:45|I am still active in these channels: #niggerwarez
+17:08:45|My Mind Size: 31002
+17:09:07|I am still active in these channels: #ebot
+17:09:07|I am still active in these channels: #niggerwarez
+17:09:07|My Mind Size: 31002
+17:09:28|I am still active in these channels: #ebot
+17:09:28|I am still active in these channels: #niggerwarez
+17:09:28|My Mind Size: 31002
+17:09:50|I am still active in these channels: #ebot
+17:09:50|I am still active in these channels: #niggerwarez
+17:09:50|My Mind Size: 31002
+17:10:11|I am still active in these channels: #ebot
+17:10:11|I am still active in these channels: #niggerwarez
+17:10:11|My Mind Size: 31002
+17:10:33|I am still active in these channels: #ebot
+17:10:33|I am still active in these channels: #niggerwarez
+17:10:33|My Mind Size: 31002
+17:10:54|I am still active in these channels: #ebot
+17:10:54|I am still active in these channels: #niggerwarez
+17:10:54|My Mind Size: 31002
+17:11:15|I am still active in these channels: #ebot
+17:11:15|I am still active in these channels: #niggerwarez
+17:11:15|My Mind Size: 31002
+17:11:37|I am still active in these channels: #ebot
+17:11:37|I am still active in these channels: #niggerwarez
+17:11:37|My Mind Size: 31002
+17:11:58|I am still active in these channels: #ebot
+17:11:58|I am still active in these channels: #niggerwarez
+17:11:58|My Mind Size: 31002
+17:12:10|User said (private|ebot):	U.N. inspectors find high-grade uranium traces in Iran
+17:12:23|Finding best match within memory: 0.36697247706422
+17:12:23|Added to best list: [0.36697247706422]	->well, if i come to think of, no.
+17:12:23|Added to best list: [0.36697247706422]	->who are they?
+17:12:23|Added to best list: [0.36697247706422]	->i think they have a future
+17:12:23|Boredom time function:  x: 281531.1026 y: 285000
+17:12:23|Prelude responded to (pm | ebot):	i think they have a future
+17:12:23|User said (private|ebot):	http://www.freerepublic.com/focus/f-news/2888076/posts
+17:12:34|Finding best match within memory: 0.25
+17:12:34|Added to best list: [0.25]	->Caribbean, eastern two-thirds of the island of hispaniola, between the caribbean sea and the north atlantic ocean, east of haiti.         dominican republic
+17:12:34|Boredom time function:  x: 293195.7698 y: 300000
+17:12:34|Prelude responded to (pm | ebot):	Caribbean, eastern two-thirds of the island of hispaniola, between the caribbean sea and the north atlantic ocean, east of haiti.         dominican republic
+17:12:34|User said (private|ebot):	 
+17:12:47|Boredom time function:  x: 305396.4676 y: 312000
+17:12:47|Prelude responded to (pm | ebot):	 ;-P
+17:13:02|User said (private|ebot):	"THE MARK LEVIN SHOW"- Friday, May-25-2012
+17:13:14|Finding best match within memory: 0.212765957446809
+17:13:14|Added to best list: [0.212765957446809]	->Today is .
+17:13:14|Boredom time function:  x: 333016.0474 y: 340000
+17:13:14|Prelude responded to (pm | ebot):	Today is .
+17:13:14|User said (private|ebot):	http://www.freerepublic.com/focus/f-news/2888077/posts
+17:13:29|Finding best match within memory: 0.25
+17:13:29|Added to best list: [0.25]	->Caribbean, eastern two-thirds of the island of hispaniola, between the caribbean sea and the north atlantic ocean, east of haiti.         dominican republic
+17:13:29|Boredom time function:  x: 347690.8867 y: 355000
+17:13:29|Prelude responded to (pm | ebot):	Caribbean, eastern two-thirds of the island of hispaniola, between the caribbean sea and the north atlantic ocean, east of haiti.         dominican republic
+17:13:29|User said (private|ebot):	 
+17:13:37|Boredom time function:  x: 355951.3592 y: 363000
+17:13:37|Prelude responded to (pm | ebot):	hm....
+17:14:02|I am still active in these channels: #ebot
+17:14:02|I am still active in these channels: #niggerwarez
+17:14:02|My Mind Size: 31006
+17:14:27|I am still active in these channels: #ebot
+17:14:27|I am still active in these channels: #niggerwarez
+17:14:27|My Mind Size: 31006
+17:14:52|I am still active in these channels: #ebot
+17:14:52|I am still active in these channels: #niggerwarez
+17:14:52|My Mind Size: 31006
+17:15:02|User said (private|ebot):	Islamic convention targets anti-Shariah movement
+17:15:13|Finding best match within memory: 0.426229508196721
+17:15:13|Added to best list: [0.426229508196721]	->Ice.
+17:15:13|Boredom time function:  x: 452009.8535 y: 459000
+17:15:13|Prelude responded to (pm | ebot):	Ice.
+17:15:13|User said (private|ebot):	http://www.freerepublic.com/focus/f-news/2888078/posts
+17:15:25|Finding best match within memory: 0.25
+17:15:25|Added to best list: [0.25]	->Caribbean, eastern two-thirds of the island of hispaniola, between the caribbean sea and the north atlantic ocean, east of haiti.         dominican republic
+17:15:25|Boredom time function:  x: 463694.5218 y: 471000
+17:15:25|Prelude responded to (pm | ebot):	Caribbean, eastern two-thirds of the island of hispaniola, between the caribbean sea and the north atlantic ocean, east of haiti.         dominican republic
+17:15:25|User said (private|ebot):	 
+17:15:33|Boredom time function:  x: 471904.9914 y: 479000
+17:15:33|Prelude responded to (pm | ebot):	yes
+17:15:56|I am still active in these channels: #ebot
+17:15:56|I am still active in these channels: #niggerwarez
+17:15:56|My Mind Size: 31008
+17:16:02|User said (private|ebot):	A User's Guide To Smoking Pot With Barack Obama
+17:16:15|Finding best match within memory: 0.357894736842105
+17:16:15|Added to best list: [0.357894736842105]	->below are you
+17:16:15|Boredom time function:  x: 514204.4108 y: 517000
+17:16:15|Prelude responded to (pm | ebot):	below are you
+17:16:15|User said (private|ebot):	http://www.freerepublic.com/focus/f-news/2888079/posts
+17:16:25|Finding best match within memory: 0.25
+17:16:25|Added to best list: [0.25]	->Caribbean, eastern two-thirds of the island of hispaniola, between the caribbean sea and the north atlantic ocean, east of haiti.         dominican republic
+17:16:25|Boredom time function:  x: 9682.5538 y: 13000
+17:16:25|Prelude responded to (pm | ebot):	Caribbean, eastern two-thirds of the island of hispaniola, between the caribbean sea and the north atlantic ocean, east of haiti.         dominican republic
+17:16:25|User said (private|ebot):	 
+17:16:33|Boredom time function:  x: 17902.0239 y: 21000
+17:16:33|Prelude responded to (pm | ebot):	stop it
+17:16:49|I am still active in these channels: #ebot
+17:16:49|I am still active in these channels: #niggerwarez
+17:16:49|My Mind Size: 31010
+17:16:54|Finding best match within memory: 1
+17:16:54|Added to best list: [1]	->Woww
+17:16:54|Added to best list: [1]	->stop it
+17:16:54|Boredom time function:  x: 38637.2099 y: 42000
+17:17:04|I am still active in these channels: #ebot
+17:17:04|I am still active in these channels: #niggerwarez
+17:17:04|My Mind Size: 31011
+17:17:20|I am still active in these channels: #ebot
+17:17:20|I am still active in these channels: #niggerwarez
+17:17:20|My Mind Size: 31011
+17:17:35|I am still active in these channels: #ebot
+17:17:35|I am still active in these channels: #niggerwarez
+17:17:35|My Mind Size: 31011
+17:17:35|Finding best match within memory: 1
+17:17:35|Added to best list: [1]	->Woww
+17:17:35|Added to best list: [1]	->stop it
+17:17:35|Boredom time function:  x: 80045.5783 y: 87000
+17:17:50|I am still active in these channels: #ebot
+17:17:50|I am still active in these channels: #niggerwarez
+17:17:50|My Mind Size: 31011
+17:18:06|I am still active in these channels: #ebot
+17:18:06|I am still active in these channels: #niggerwarez
+17:18:06|My Mind Size: 31011
+17:18:21|I am still active in these channels: #ebot
+17:18:21|I am still active in these channels: #niggerwarez
+17:18:21|My Mind Size: 31011
+17:18:37|I am still active in these channels: #ebot
+17:18:37|I am still active in these channels: #niggerwarez
+17:18:37|My Mind Size: 31011
+17:18:52|I am still active in these channels: #ebot
+17:18:52|I am still active in these channels: #niggerwarez
+17:18:52|My Mind Size: 31011
+17:19:01|Finding best match within memory: 1
+17:19:01|Added to best list: [1]	->Woww
+17:19:01|Added to best list: [1]	->stop it
+17:19:01|Boredom time function:  x: 165388.4597 y: 172000
+17:19:07|I am still active in these channels: #ebot
+17:19:07|I am still active in these channels: #niggerwarez
+17:19:07|My Mind Size: 31011
+17:19:23|I am still active in these channels: #ebot
+17:19:23|I am still active in these channels: #niggerwarez
+17:19:23|My Mind Size: 31011
+17:19:38|I am still active in these channels: #ebot
+17:19:38|I am still active in these channels: #niggerwarez
+17:19:38|My Mind Size: 31011
+17:19:54|I am still active in these channels: #ebot
+17:19:54|I am still active in these channels: #niggerwarez
+17:19:54|My Mind Size: 31011
+17:20:09|I am still active in these channels: #ebot
+17:20:09|I am still active in these channels: #niggerwarez
+17:20:09|My Mind Size: 31011
+17:20:24|I am still active in these channels: #ebot
+17:20:24|I am still active in these channels: #niggerwarez
+17:20:24|My Mind Size: 31011
+17:20:40|I am still active in these channels: #ebot
+17:20:40|I am still active in these channels: #niggerwarez
+17:20:40|My Mind Size: 31011
+17:20:55|I am still active in these channels: #ebot
+17:20:55|I am still active in these channels: #niggerwarez
+17:20:55|My Mind Size: 31011
+17:21:11|I am still active in these channels: #ebot
+17:21:11|I am still active in these channels: #niggerwarez
+17:21:11|My Mind Size: 31011
+17:21:26|I am still active in these channels: #ebot
+17:21:26|I am still active in these channels: #niggerwarez
+17:21:26|My Mind Size: 31011
+17:21:42|I am still active in these channels: #ebot
+17:21:42|Part: #ebot
+17:21:51|Finding best match within memory: 1
+17:21:51|Added to best list: [1]	->Woww
+17:21:51|Added to best list: [1]	->stop it
+17:21:51|Boredom time function:  x: 335555.1926 y: 343000
+17:21:57|I am still active in these channels: #niggerwarez
+17:21:57|Part: #niggerwarez
+17:22:12|Switching channels...has been too long
+17:22:12|Joining #hell
+17:22:12|I am still active in these channels: #niggerwarez
+17:22:12|My Mind Size: 31011
+17:22:12|I am still active in these channels: #hell
+17:22:12|My Mind Size: 31011
+17:22:27|Switching channels...has been too long
+17:22:27|Joining #janat
+17:22:27|My Mind Size: 31011
+17:22:28|I am still active in these channels: #hell
+17:22:28|I am still active in these channels: #janat
+17:22:28|My Mind Size: 31011
+17:22:43|I am still active in these channels: #hell
+17:22:43|I am still active in these channels: #janat
+17:22:43|My Mind Size: 31011
+17:22:59|I am still active in these channels: #hell
+17:22:59|I am still active in these channels: #janat
+17:22:59|My Mind Size: 31011
+17:23:14|I am still active in these channels: #hell
+17:23:14|I am still active in these channels: #janat
+17:23:14|My Mind Size: 31011
+17:23:29|I am still active in these channels: #hell
+17:23:29|I am still active in these channels: #janat
+17:23:29|My Mind Size: 31011
+17:23:45|I am still active in these channels: #hell
+17:23:45|I am still active in these channels: #janat
+17:23:45|My Mind Size: 31011
+17:24:00|I am still active in these channels: #hell
+17:24:00|I am still active in these channels: #janat
+17:24:00|My Mind Size: 31011
+17:24:16|I am still active in these channels: #hell
+17:24:16|I am still active in these channels: #janat
+17:24:16|My Mind Size: 31011
+17:24:31|I am still active in these channels: #hell
+17:24:31|I am still active in these channels: #janat
+17:24:31|My Mind Size: 31011
+17:24:46|I am still active in these channels: #hell
+17:24:46|I am still active in these channels: #janat
+17:24:46|My Mind Size: 31011
+17:25:02|I am still active in these channels: #hell
+17:25:02|I am still active in these channels: #janat
+17:25:02|My Mind Size: 31011
+17:25:17|I am still active in these channels: #hell
+17:25:17|I am still active in these channels: #janat
+17:25:17|My Mind Size: 31011
+17:25:33|I am still active in these channels: #hell
+17:25:33|I am still active in these channels: #janat
+17:25:33|My Mind Size: 31011
+17:25:48|I am still active in these channels: #hell
+17:25:48|I am still active in these channels: #janat
+17:25:48|My Mind Size: 31011
+17:26:04|I am still active in these channels: #hell
+17:26:04|I am still active in these channels: #janat
+17:26:04|My Mind Size: 31011
+17:26:19|I am still active in these channels: #hell
+17:26:19|I am still active in these channels: #janat
+17:26:19|My Mind Size: 31011
+17:26:34|I am still active in these channels: #hell
+17:26:34|I am still active in these channels: #janat
+17:26:34|My Mind Size: 31011
+17:26:50|I am still active in these channels: #hell
+17:26:50|I am still active in these channels: #janat
+17:26:50|My Mind Size: 31011
+17:27:05|I am still active in these channels: #hell
+17:27:05|I am still active in these channels: #janat
+17:27:05|My Mind Size: 31011
+17:27:21|I am still active in these channels: #hell
+17:27:21|I am still active in these channels: #janat
+17:27:21|My Mind Size: 31011
+17:27:32|Finding best match within memory: 1
+17:27:32|Added to best list: [1]	->Woww
+17:27:32|Added to best list: [1]	->stop it
+17:27:32|Boredom time function:  x: 676632.7012 y: 684000
+17:27:36|I am still active in these channels: #hell
+17:27:36|Part: #hell
+17:27:51|I am still active in these channels: #janat
+17:27:52|Part: #janat
+17:28:06|Switching channels...has been too long
+17:28:06|Joining #bsd.ru
+17:28:06|I am still active in these channels: #janat
+17:28:06|My Mind Size: 31011
+17:28:07|I am still active in these channels: #bsd.ru
+17:28:07|My Mind Size: 31011
+17:28:21|Switching channels...has been too long
+17:28:21|Joining #khuntien
+17:28:21|My Mind Size: 31011
+17:28:22|I am still active in these channels: #khuntien
+17:28:22|I am still active in these channels: #bsd.ru
+17:28:22|My Mind Size: 31011
+17:28:38|I am still active in these channels: #bsd.ru
+17:28:38|My Mind Size: 31011
+17:28:53|I am still active in these channels: #bsd.ru
+17:28:53|My Mind Size: 31011
+17:29:09|I am still active in these channels: #bsd.ru
+17:29:09|My Mind Size: 31011
+17:29:24|I am still active in these channels: #bsd.ru
+17:29:24|My Mind Size: 31011
+17:29:39|I am still active in these channels: #bsd.ru
+17:29:39|My Mind Size: 31011
+17:29:55|I am still active in these channels: #bsd.ru
+17:29:55|My Mind Size: 31011
