@@ -26,3 +26,6 @@ C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bi
 C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Debug\AForge.Math.xml
 C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\obj\x86\Debug\PreludeIRC.pdb
 C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Debug\IPlugin.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Debug\log4net.dll
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Debug\Meebey.SmartIrc4net.pdb
+C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Debug\log4net.xml

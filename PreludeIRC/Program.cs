@@ -52,6 +52,7 @@ namespace PreludeIRC
             irc.OnBan += new BanEventHandler(OnBanMessage);
 
             irc.OnError += new ErrorEventHandler(OnError);
+            irc.OnPart += new PartEventHandler(irc_OnPart);
             irc.OnRawMessage += new IrcEventHandler(OnRawMessage);
             if (proactiveMode)
             {
@@ -62,8 +63,8 @@ namespace PreludeIRC
             string[] serverlist;
             serverlist = new string[] { "irc.dal.net" };
             int port = 6667;
-            string channel = "#cccc";
-            string nick = "cccc";
+            string channel = "#";
+            string nick = "";
             string real = "PLEIRC";
             if (args.Length > 2)
             {
@@ -92,7 +93,7 @@ namespace PreludeIRC
             {
                 // something went wrong, the reason will be shown
                 logger.Trace("couldn't connect! Reason: " + e.Message);
-                Exit();
+                //Exit();
             }
 
             try
@@ -150,15 +151,22 @@ namespace PreludeIRC
                 // this exception is handled becaused Disconnect() can throw a not
                 // connected exception
                 logger.Trace("Connection exception");
-                Exit();
+                pi.stopPreludeEngine();
+                //Exit();
             }
             catch (Exception e)
             {
                 // this should not happen by just in case we handle it nicely
                 logger.Trace("Error occurred! Message: " + e.Message);
                 logger.Trace("Exception: " + e.StackTrace);
-                Exit();
+                pi.stopPreludeEngine();
+                //Exit();
             }
+        }
+
+        static void irc_OnPart(object sender, PartEventArgs e)
+        {
+            logger.Trace("Part: " + e.Channel);
         }
 
         static void irc_OnRawMessage(object sender, IrcEventArgs e)
@@ -206,7 +214,7 @@ namespace PreludeIRC
         {
             System.Console.WriteLine("Error: " + e.ErrorMessage);
             pi.stopPreludeEngine();
-            Exit();
+            //Exit();
         }
 
         public static void OnBanMessage(object sender, BanEventArgs e)
@@ -276,18 +284,17 @@ namespace PreludeIRC
                                 timer.Stop();
                         }
                         //got something:
-                        logger.Info("User (private|"+e.Data.Nick+"): " + ind);
+                        logger.Info("User said (private|" + e.Data.Nick + "):\t" + ind);
                         
                         //now wait a bit
                         Random rand = new Random();
-                        int rnum = rand.Next(2, 15);
-                        //System.Threading.Thread.Sleep(1000 * rnum);
-                        
+                        int rnum = rand.Next(8, 15);
+                        System.Threading.Thread.Sleep(1000 * rnum);
                         //now answer
                         a = pi.chatWithPrelude(ind);
                         irc.SendMessage(SendType.Message, e.Data.Nick, a);
-                        logger.Info("User said (private|" + e.Data.Nick + "): " + ind);
-                        logger.Info("To which Prelude responded: " + a);
+                        
+                        logger.Info("Prelude responded to (pm | " + e.Data.Nick + "):\t" + a);
                         lastTimeISaidSomething = DateTime.Now;
 
                         //now make sure we save it..
@@ -608,12 +615,15 @@ namespace PreludeIRC
                             if (diff.TotalMinutes > 5)
                             {
                                 irc.RfcPart(a);
+                                System.Threading.Thread.Sleep(30000);
                                 logger.Trace("Switching channels...has been too long");
                                 SwitchChannel();
                                 lastTimeISaidSomething = DateTime.Now; //reset..otherwise we will switch all the time if nobody is talking to us
                             }
                             
                         }
+                        //pi.forcedSaveMindFile();
+                        
                         logger.Trace("My Mind Size: " + pi.countMindMemory());
                     }
                     //string answer = pi.chatWithPrelude(autoSpeakInput);
