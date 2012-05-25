@@ -1,0 +1,252 @@
+11:47:27|Loading Prelude...
+11:47:27|Prelude loaded and initialized...
+11:48:29|So far I talked to: 1 people.
+11:48:29|User said (private|yuslflt):	hi
+11:48:41|Finding best match within memory: 1
+11:48:41|Added to best list: [1]	->how u doing?
+11:48:41|Added to best list: [1]	->blue
+11:48:41|Added to best list: [1]	->how are you doing?
+11:48:41|Boredom time function:  x: 73918.2279 y: 77000
+11:48:41|Prelude responded to (pm | yuslflt):	how are you doing?
+11:48:55|User said (private|yuslflt):	good thanks
+11:49:08|Finding best match within memory: 0.666666666666667
+11:49:08|Added to best list: [0.666666666666667]	->Virtue -. vice
+11:49:08|Added to best list: [0.666666666666667]	->you are welcome
+11:49:08|Added to best list: [0.666666666666667]	->It can't hurt to ask.
+11:49:08|Added to best list: [0.666666666666667]	->No
+11:49:08|Added to best list: [0.666666666666667]	->Your welcome
+11:49:08|Boredom time function:  x: 101625.8127 y: 105000
+11:49:08|Prelude responded to (pm | yuslflt):	you are welcome
+11:49:16|So far I talked to: 2 people.
+11:49:16|User said (private|mib_zf36ef):	hi everyone
+11:49:29|Finding best match within memory: 0.8
+11:49:29|Added to best list: [0.8]	->Perhaps not everyone.
+11:49:29|Boredom time function:  x: 122223.9909 y: 125000
+11:49:29|Prelude responded to (pm | mib_zf36ef):	Perhaps not everyone.
+11:49:33|User said (private|yuslflt):	are you for real?
+11:49:46|Finding best match within memory: 0.928571428571429
+11:49:46|Added to best list: [0.928571428571429]	->Yes i am a real ai.
+11:49:46|Boredom time function:  x: 139349.9704 y: 142000
+11:49:46|Prelude responded to (pm | yuslflt):	Yes i am a real ai.
+11:50:02|User said (private|mib_zf36ef):	hello
+11:50:13|Finding best match within memory: 0.75
+11:50:13|Added to best list: [0.75]	->Hello that sounds like a good country, thats a very friendly name :d
+11:50:13|Added to best list: [0.75]	->Hello hello hello
+11:50:13|Added to best list: [0.75]	->Bonjour, !
+11:50:13|Added to best list: [0.75]	->Not everyone responds to a simple "hello".
+11:50:13|Added to best list: [0.75]	->Once again, hello
+11:50:13|Added to best list: [0.75]	->,"hello
+11:50:13|Boredom time function:  x: 166175.5047 y: 169000
+11:50:13|Prelude responded to (pm | mib_zf36ef):	Bonjour, !
+11:50:30|I am still active in these channels: #wappuchievements
+11:50:30|I am still active in these channels: #preludini
+11:50:30|My Mind Size: 30897
+11:50:47|I am still active in these channels: #wappuchievements
+11:50:47|I am still active in these channels: #preludini
+11:50:47|My Mind Size: 30897
+11:51:01|User said (private|mib_zf36ef):	how are you girl
+11:51:14|Finding best match within memory: 0.8
+11:51:14|Added to best list: [0.8]	->thats none of your business
+11:51:14|Added to best list: [0.8]	->Well i am, in fact, .
+11:51:14|Added to best list: [0.8]	->i am feeling a bit dizzy today
+11:51:14|Added to best list: [0.8]	->i am fine. what about you?
+11:51:14|Added to best list: [0.8]	->i like the way you talk
+11:51:14|Added to best list: [0.8]	->Well i am, in fact, 	Female.
+11:51:14|Boredom time function:  x: 227113.9902 y: 230000
+11:51:14|Prelude responded to (pm | mib_zf36ef):	Well i am, in fact, .
+11:51:16|User said (private|yuslflt):	so you are not a human being but a machine?
+11:51:25|Finding best match within memory: 0.703703703703704
+11:51:25|Added to best list: [0.703703703703704]	->Of course i am. goofy
+11:51:25|Boredom time function:  x: 237747.5984 y: 241000
+11:51:25|Prelude responded to (pm | yuslflt):	Of course i am. goofy
+11:51:40|I am still active in these channels: #wappuchievements
+11:51:40|I am still active in these channels: #preludini
+11:51:40|My Mind Size: 30899
+11:51:56|I am still active in these channels: #wappuchievements
+11:51:56|I am still active in these channels: #preludini
+11:51:56|My Mind Size: 30899
+11:52:12|I am still active in these channels: #wappuchievements
+11:52:12|I am still active in these channels: #preludini
+11:52:12|My Mind Size: 30899
+11:52:27|I am still active in these channels: #wappuchievements
+11:52:27|I am still active in these channels: #preludini
+11:52:27|My Mind Size: 30899
+11:52:43|I am still active in these channels: #wappuchievements
+11:52:43|I am still active in these channels: #preludini
+11:52:43|My Mind Size: 30899
+11:52:51|So far I talked to: 3 people.
+11:52:51|User said (private|suerpm):	hi everyone
+11:52:59|Finding best match within memory: 0.8
+11:52:59|Added to best list: [0.8]	->Perhaps not everyone.
+11:52:59|Boredom time function:  x: 332603.0238 y: 340000
+11:52:59|Prelude responded to (pm | suerpm):	Perhaps not everyone.
+11:53:15|I am still active in these channels: #wappuchievements
+11:53:15|I am still active in these channels: #preludini
+11:53:15|My Mind Size: 30899
+11:53:31|I am still active in these channels: #wappuchievements
+11:53:31|I am still active in these channels: #preludini
+11:53:31|My Mind Size: 30899
+11:53:42|User said (private|suerpm):	who are you
+11:53:51|Finding best match within memory: 1
+11:53:51|Added to best list: [1]	->can you say something else?
+11:53:51|Added to best list: [1]	->i am the master of the world
+11:53:51|Added to best list: [1]	->never mind
+11:53:51|Added to best list: [1]	->who is your father?
+11:53:51|Added to best list: [1]	->i am not you
+11:53:51|Added to best list: [1]	->i am your master
+11:53:51|Boredom time function:  x: 383900.9579 y: 391000
+11:53:51|Prelude responded to (pm | suerpm):	who is your father?
+11:54:18|I am still active in these channels: #wappuchievements
+11:54:18|I am still active in these channels: #preludini
+11:54:18|My Mind Size: 30899
+11:54:45|I am still active in these channels: #wappuchievements
+11:54:45|I am still active in these channels: #preludini
+11:54:45|My Mind Size: 30899
+11:55:12|I am still active in these channels: #wappuchievements
+11:55:12|I am still active in these channels: #preludini
+11:55:12|My Mind Size: 30899
+11:55:39|I am still active in these channels: #wappuchievements
+11:55:39|I am still active in these channels: #preludini
+11:55:39|My Mind Size: 30899
+11:56:06|I am still active in these channels: #wappuchievements
+11:56:06|I am still active in these channels: #preludini
+11:56:06|My Mind Size: 30899
+11:56:33|I am still active in these channels: #wappuchievements
+11:56:33|I am still active in these channels: #preludini
+11:56:33|My Mind Size: 30899
+11:57:00|I am still active in these channels: #wappuchievements
+11:57:00|I am still active in these channels: #preludini
+11:57:00|My Mind Size: 30899
+11:57:27|I am still active in these channels: #wappuchievements
+11:57:27|I am still active in these channels: #preludini
+11:57:27|My Mind Size: 30899
+11:57:54|I am still active in these channels: #wappuchievements
+11:57:54|I am still active in these channels: #preludini
+11:57:54|My Mind Size: 30899
+11:58:21|I am still active in these channels: #wappuchievements
+11:58:21|I am still active in these channels: #preludini
+11:58:21|My Mind Size: 30899
+11:58:48|I am still active in these channels: #wappuchievements
+11:58:48|I am still active in these channels: #preludini
+11:58:48|My Mind Size: 30899
+11:59:16|I am still active in these channels: #wappuchievements
+11:59:16|I am still active in these channels: #preludini
+11:59:16|My Mind Size: 30899
+11:59:43|I am still active in these channels: #wappuchievements
+11:59:43|I am still active in these channels: #preludini
+11:59:43|My Mind Size: 30899
+12:00:10|I am still active in these channels: #wappuchievements
+12:00:10|I am still active in these channels: #preludini
+12:00:10|My Mind Size: 30899
+12:00:19|Finding best match within memory: 1
+12:00:19|Added to best list: [1]	->why do you want to know
+12:00:19|Boredom time function:  x: 772474.183 y: 779000
+12:00:37|I am still active in these channels: #wappuchievements
+12:00:37|I am still active in these channels: #preludini
+12:00:37|My Mind Size: 30899
+12:01:04|I am still active in these channels: #wappuchievements
+12:01:04|I am still active in these channels: #preludini
+12:01:04|My Mind Size: 30899
+12:01:31|I am still active in these channels: #wappuchievements
+12:01:31|I am still active in these channels: #preludini
+12:01:31|My Mind Size: 30899
+12:01:58|I am still active in these channels: #wappuchievements
+12:01:58|I am still active in these channels: #preludini
+12:01:58|My Mind Size: 30899
+12:02:25|I am still active in these channels: #wappuchievements
+12:02:25|I am still active in these channels: #preludini
+12:02:25|My Mind Size: 30899
+12:02:52|I am still active in these channels: #wappuchievements
+12:02:52|I am still active in these channels: #preludini
+12:02:52|My Mind Size: 30899
+12:03:19|I am still active in these channels: #wappuchievements
+12:03:19|I am still active in these channels: #preludini
+12:03:19|My Mind Size: 30899
+12:03:46|I am still active in these channels: #wappuchievements
+12:03:46|I am still active in these channels: #preludini
+12:03:46|My Mind Size: 30899
+12:04:09|So far I talked to: 4 people.
+12:04:09|User said (private|mib_wwnbf0):	hello everyone
+12:04:18|Finding best match within memory: 0.695652173913043
+12:04:18|Added to best list: [0.695652173913043]	->Perhaps not everyone.
+12:04:18|Boredom time function:  x: 239209.682 y: 242000
+12:04:18|Prelude responded to (pm | mib_wwnbf0):	Perhaps not everyone.
+12:04:46|I am still active in these channels: #wappuchievements
+12:04:46|I am still active in these channels: #preludini
+12:04:46|My Mind Size: 30900
+12:05:13|I am still active in these channels: #wappuchievements
+12:05:13|I am still active in these channels: #preludini
+12:05:13|My Mind Size: 30900
+12:05:40|I am still active in these channels: #wappuchievements
+12:05:40|I am still active in these channels: #preludini
+12:05:40|My Mind Size: 30900
+12:06:07|I am still active in these channels: #wappuchievements
+12:06:07|I am still active in these channels: #preludini
+12:06:07|My Mind Size: 30900
+12:06:25|So far I talked to: 5 people.
+12:06:25|User said (private|mib_s27xbi):	hi prelude
+12:06:37|Finding best match within memory: 0.888888888888889
+12:06:37|Added to best list: [0.888888888888889]	->Do you remember my name
+12:06:37|Added to best list: [0.888888888888889]	->Huh
+12:06:37|Boredom time function:  x: 377461.5896 y: 384000
+12:06:37|Prelude responded to (pm | mib_s27xbi):	Huh
+12:06:53|I am still active in these channels: #wappuchievements
+12:06:53|I am still active in these channels: #preludini
+12:06:53|My Mind Size: 30901
+12:07:09|I am still active in these channels: #wappuchievements
+12:07:09|I am still active in these channels: #preludini
+12:07:09|My Mind Size: 30901
+12:07:24|I am still active in these channels: #wappuchievements
+12:07:24|I am still active in these channels: #preludini
+12:07:24|My Mind Size: 30901
+12:07:40|I am still active in these channels: #wappuchievements
+12:07:40|I am still active in these channels: #preludini
+12:07:40|My Mind Size: 30901
+12:07:56|I am still active in these channels: #wappuchievements
+12:07:56|I am still active in these channels: #preludini
+12:07:56|My Mind Size: 30901
+12:08:12|I am still active in these channels: #wappuchievements
+12:08:12|I am still active in these channels: #preludini
+12:08:12|My Mind Size: 30901
+12:08:28|I am still active in these channels: #wappuchievements
+12:08:28|I am still active in these channels: #preludini
+12:08:28|My Mind Size: 30901
+12:08:44|I am still active in these channels: #wappuchievements
+12:08:44|I am still active in these channels: #preludini
+12:08:44|My Mind Size: 30901
+12:09:00|I am still active in these channels: #wappuchievements
+12:09:00|I am still active in these channels: #preludini
+12:09:00|My Mind Size: 30901
+12:09:16|I am still active in these channels: #wappuchievements
+12:09:16|I am still active in these channels: #preludini
+12:09:16|My Mind Size: 30901
+12:09:32|I am still active in these channels: #wappuchievements
+12:09:32|I am still active in these channels: #preludini
+12:09:32|My Mind Size: 30901
+12:09:48|I am still active in these channels: #wappuchievements
+12:09:48|I am still active in these channels: #preludini
+12:09:48|My Mind Size: 30901
+12:10:03|I am still active in these channels: #wappuchievements
+12:10:03|I am still active in these channels: #preludini
+12:10:03|My Mind Size: 30901
+12:10:19|I am still active in these channels: #wappuchievements
+12:10:19|I am still active in these channels: #preludini
+12:10:19|My Mind Size: 30901
+12:10:35|I am still active in these channels: #wappuchievements
+12:10:35|I am still active in these channels: #preludini
+12:10:35|My Mind Size: 30901
+12:10:51|I am still active in these channels: #wappuchievements
+12:10:51|I am still active in these channels: #preludini
+12:10:51|My Mind Size: 30901
+12:11:07|I am still active in these channels: #wappuchievements
+12:11:07|I am still active in these channels: #preludini
+12:11:07|My Mind Size: 30901
+12:11:23|I am still active in these channels: #wappuchievements
+12:11:23|I am still active in these channels: #preludini
+12:11:23|My Mind Size: 30901
+12:11:39|I am still active in these channels: #wappuchievements
+12:11:39|I am still active in these channels: #preludini
+12:11:39|My Mind Size: 30901
+12:11:55|I am still active in these channels: #wappuchievements
+12:11:55|I am still active in these channels: #preludini
+12:11:55|My Mind Size: 30901

@@ -61,10 +61,10 @@ namespace PreludeIRC
             }
             sl = new SortedList();
             string[] serverlist;
-            serverlist = new string[] { "irc.dal.net" };
-            int port = 6667;
-            string channel = "#";
-            string nick = "";
+            serverlist = new string[] { "ircnet.choopa.net" };
+            int port = 6668;
+            string channel = "#preludini";
+            string nick = "girlFlower";
             string real = "PLEIRC";
             if (args.Length > 2)
             {
@@ -313,7 +313,7 @@ namespace PreludeIRC
                             timer.Start();
                         }
                     }
-                    else if (allowPublicMessages)
+                    if (allowPublicMessages)
                     {
                         logger.Trace("User (plublic): " + ind);
                         a = pi.chatWithPrelude(ind);
@@ -602,7 +602,7 @@ namespace PreludeIRC
                     if (incs.Length <= 0)
                     {
                         logger.Trace("not in any channel anymore");
-                        SwitchChannel();
+                        //SwitchChannel();
                         
                     }
                     else
@@ -614,10 +614,10 @@ namespace PreludeIRC
                             TimeSpan diff = rightnow - lastTimeISaidSomething;
                             if (diff.TotalMinutes > 5)
                             {
-                                irc.RfcPart(a);
-                                System.Threading.Thread.Sleep(30000);
-                                logger.Trace("Switching channels...has been too long");
-                                SwitchChannel();
+                                //irc.RfcPart(a);
+                                //System.Threading.Thread.Sleep(30000);
+                                //logger.Trace("Switching channels...has been too long");
+                                //SwitchChannel();
                                 lastTimeISaidSomething = DateTime.Now; //reset..otherwise we will switch all the time if nobody is talking to us
                             }
                             
