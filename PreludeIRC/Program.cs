@@ -35,6 +35,7 @@ namespace PreludeIRC
         private static string autoSpeakInput = "";
         private static IrcEventArgs latest = null;
         private static List<string> AllChannels = new List<string>();
+        private static DateTime lastTimeISaidSomething;
         private static Logger logger = LogManager.GetCurrentClassLogger();
 
         public static void Main(string[] args)
@@ -61,8 +62,8 @@ namespace PreludeIRC
             string[] serverlist;
             serverlist = new string[] { "irc.dal.net" };
             int port = 6667;
-            string channel = "#germany";
-            string nick = "preludini";
+            string channel = "#cybersex";
+            string nick = "sexGirlFlower";
             string real = "PLEIRC";
             if (args.Length > 2)
             {
@@ -82,6 +83,8 @@ namespace PreludeIRC
             Console.WriteLine("**********************************************************");
             try
             {
+                irc.AutoRetry = true;
+                irc.AutoReconnect = true;
                 // here we try to connect to the server and exceptions get handled
                 irc.Connect(serverlist, port);
             }
@@ -116,6 +119,7 @@ namespace PreludeIRC
                 //irc.SendMessage(SendType.Notice, channel, "SmartIrc4net rocks "+i.ToString());
 
                 //initialize interface
+                logger.Trace("Loading Prelude...");
                 pi = new PreLudeInterface();
                 //define path to mind file
                 pi.loadedMind = "mind.mdu";
@@ -123,6 +127,7 @@ namespace PreludeIRC
                 pi.initializedAssociater = Mind.MatchingAlgorithm.Dice;
                 //start your engine ...
                 pi.initializeEngine();
+                logger.Trace("Prelude loaded and initialized...");
 
                 // spawn a new thread to read the stdin of the console, this we use
                 // for reading IRC commands from the keyboard while the IRC connection
@@ -173,6 +178,12 @@ namespace PreludeIRC
                 int en = randomString.IndexOf(" ", a);
                 string channel = randomString.Substring(a, en - a);
                 irc.RfcJoin(channel);
+
+                //initialize various timers at this point...
+                idleTime = 30000;
+                timer.Interval = idleTime;
+                timer.Start();
+                lastTimeISaidSomething = DateTime.Now; 
             }
 
            
@@ -244,6 +255,7 @@ namespace PreludeIRC
             if (!sl.Contains(e.Data.Nick))
             {
                 sl.Add(e.Data.Nick, e.Data.Ident);
+                logger.Trace("So far I talked to: " + sl.Count + " people.");
             }
             if (e.Data.Message.StartsWith("cmd:"))
             {
@@ -276,6 +288,7 @@ namespace PreludeIRC
                         irc.SendMessage(SendType.Message, e.Data.Nick, a);
                         logger.Info("User said (private|" + e.Data.Nick + "): " + ind);
                         logger.Info("To which Prelude responded: " + a);
+                        lastTimeISaidSomething = DateTime.Now;
 
                         //now make sure we save it..
                         pi.forcedSaveMindFile();
@@ -582,14 +595,7 @@ namespace PreludeIRC
                     if (incs.Length <= 0)
                     {
                         logger.Trace("not in any channel anymore");
-                        Random r = new Random();
-                        int index = r.Next(AllChannels.Count);
-                        string randomString = AllChannels[index];
-                        int a = randomString.IndexOf("#");
-                        int en = randomString.IndexOf(" ", a);
-                        string channel = randomString.Substring(a, en - a);
-                        logger.Trace("Joining " + channel);
-                        irc.RfcJoin(channel);
+                        SwitchChannel();
                         
                     }
                     else
@@ -597,7 +603,18 @@ namespace PreludeIRC
                         foreach (string a in incs)
                         {
                             logger.Trace("I am still active in these channels: " + a);
+                            DateTime rightnow = DateTime.Now;
+                            TimeSpan diff = rightnow - lastTimeISaidSomething;
+                            if (diff.TotalMinutes > 5)
+                            {
+                                irc.RfcPart(a);
+                                logger.Trace("Switching channels...has been too long");
+                                SwitchChannel();
+                                lastTimeISaidSomething = DateTime.Now; //reset..otherwise we will switch all the time if nobody is talking to us
+                            }
+                            
                         }
+                        logger.Trace("My Mind Size: " + pi.countMindMemory());
                     }
                     //string answer = pi.chatWithPrelude(autoSpeakInput);
                     //logger.Trace("Prelude (auto): " + autoSpeakInput);
@@ -609,6 +626,18 @@ namespace PreludeIRC
                 logger.Trace("error: " + ex.Message);
             }
 
+        }
+
+        private static void SwitchChannel()
+        {
+            Random r = new Random();
+            int index = r.Next(AllChannels.Count);
+            string randomString = AllChannels[index];
+            int a = randomString.IndexOf("#");
+            int en = randomString.IndexOf(" ", a);
+            string channel = randomString.Substring(a, en - a);
+            logger.Trace("Joining " + channel);
+            irc.RfcJoin(channel);
         }
     }
 }
