@@ -1,0 +1,1780 @@
+09:59:05|Loading Prelude...
+09:59:06|Prelude loaded and initialized...
+10:00:27|I am still active in these channels: #LGC@DOL
+10:00:27|I am still active in these channels: #preludini
+10:00:27|My Mind Size: 30901
+10:00:57|I am still active in these channels: #LGC@DOL
+10:00:57|I am still active in these channels: #preludini
+10:00:57|My Mind Size: 30901
+10:01:07|So far I talked to: 1 people.
+10:01:07|User said (private|mib_lscp1j):	Hi there.
+10:01:18|Finding best match within memory: 9
+10:01:18|Added to best list: [9]	->You're probably the most boring person in the world."
+10:01:18|Added to best list: [9]	->Not many people want to talk about that.
+10:01:18|Added to best list: [9]	->I wouldn't have thought of that.
+10:01:18|Added to best list: [9]	->I have never visited  before. what was it like?
+10:01:18|Added to best list: [9]	->I like them too.
+10:01:18|Added to best list: [9]	->At least i try making sence by telling you what i'm talking about, but you're just being an idiot."
+10:01:18|Finding best match within memory: 8
+10:01:18|Finding best match within memory: 7
+10:01:18|Finding best match within memory: 6
+10:01:18|Finding best match within memory: 5
+10:01:18|Finding best match within memory: 4
+10:01:18|Finding best match within memory: 3
+10:01:18|Finding best match within memory: 2
+10:01:18|Finding best match within memory: 1
+10:01:18|Boredom time function:  x: 132031.5518 y: 139000
+10:01:18|Prelude responded to (pm | mib_lscp1j):	I like them too.
+10:01:46|I am still active in these channels: #LGC@DOL
+10:01:46|I am still active in these channels: #preludini
+10:01:46|My Mind Size: 30901
+10:01:56|User said (private|mib_lscp1j):	Sorry, I can't dissolve that shorthand.
+10:02:08|Finding best match within memory: 38
+10:02:08|Added to best list: [38]	->You're probably the most boring person in the world."
+10:02:08|Added to best list: [38]	->Not many people want to talk about that.
+10:02:08|Added to best list: [38]	->I have never visited  before. what was it like?
+10:02:08|Added to best list: [38]	->I like them too.
+10:02:08|Added to best list: [38]	->At least i try making sence by telling you what i'm talking about, but you're just being an idiot."
+10:02:08|Added to best list: [38]	->Oh yes, now i remember   .
+10:02:08|Finding best match within memory: 37
+10:02:08|Finding best match within memory: 36
+10:02:08|Finding best match within memory: 35
+10:02:08|Finding best match within memory: 34
+10:02:08|Finding best match within memory: 33
+10:02:08|Finding best match within memory: 32
+10:02:08|Finding best match within memory: 31
+10:02:08|Finding best match within memory: 30
+10:02:08|Finding best match within memory: 29
+10:02:08|Finding best match within memory: 28
+10:02:08|Finding best match within memory: 27
+10:02:08|Finding best match within memory: 26
+10:02:08|Finding best match within memory: 25
+10:02:08|Finding best match within memory: 24
+10:02:08|Finding best match within memory: 23
+10:02:08|Finding best match within memory: 22
+10:02:08|Finding best match within memory: 21
+10:02:08|Finding best match within memory: 20
+10:02:08|Finding best match within memory: 19
+10:02:08|Finding best match within memory: 18
+10:02:08|Finding best match within memory: 17
+10:02:08|Finding best match within memory: 16
+10:02:08|Finding best match within memory: 15
+10:02:08|Finding best match within memory: 14
+10:02:08|Finding best match within memory: 13
+10:02:08|Finding best match within memory: 12
+10:02:08|Finding best match within memory: 11
+10:02:08|Finding best match within memory: 10
+10:02:08|Finding best match within memory: 9
+10:02:08|Finding best match within memory: 8
+10:02:08|Finding best match within memory: 7
+10:02:08|Finding best match within memory: 6
+10:02:08|Finding best match within memory: 5
+10:02:08|Finding best match within memory: 4
+10:02:08|Finding best match within memory: 3
+10:02:08|Finding best match within memory: 2
+10:02:08|Finding best match within memory: 1
+10:02:08|Boredom time function:  x: 182516.4394 y: 186000
+10:02:08|Prelude responded to (pm | mib_lscp1j):	At least i try making sence by telling you what i'm talking about, but you're just being an idiot."
+10:02:38|I am still active in these channels: #LGC@DOL
+10:02:38|I am still active in these channels: #preludini
+10:02:38|My Mind Size: 30902
+10:02:43|User said (private|mib_lscp1j):	Is "M u" shorthand for sunbathing?
+10:02:56|Finding best match within memory: 33
+10:02:56|Added to best list: [33]	->You're probably the most boring person in the world."
+10:02:56|Added to best list: [33]	->Not many people want to talk about that.
+10:02:56|Added to best list: [33]	->I have never visited  before. what was it like?
+10:02:56|Added to best list: [33]	->I like them too.
+10:02:56|Added to best list: [33]	->At least i try making sence by telling you what i'm talking about, but you're just being an idiot."
+10:02:56|Added to best list: [33]	->Oh yes, now i remember   .
+10:02:56|Finding best match within memory: 32
+10:02:56|Finding best match within memory: 31
+10:02:56|Finding best match within memory: 30
+10:02:56|Finding best match within memory: 29
+10:02:56|Finding best match within memory: 28
+10:02:56|Finding best match within memory: 27
+10:02:56|Finding best match within memory: 26
+10:02:56|Finding best match within memory: 25
+10:02:56|Finding best match within memory: 24
+10:02:56|Finding best match within memory: 23
+10:02:56|Finding best match within memory: 22
+10:02:56|Finding best match within memory: 21
+10:02:56|Finding best match within memory: 20
+10:02:56|Finding best match within memory: 19
+10:02:56|Finding best match within memory: 18
+10:02:56|Finding best match within memory: 17
+10:02:56|Finding best match within memory: 16
+10:02:56|Finding best match within memory: 15
+10:02:56|Finding best match within memory: 14
+10:02:56|Finding best match within memory: 13
+10:02:56|Finding best match within memory: 12
+10:02:56|Finding best match within memory: 11
+10:02:56|Finding best match within memory: 10
+10:02:56|Finding best match within memory: 9
+10:02:56|Finding best match within memory: 8
+10:02:56|Finding best match within memory: 7
+10:02:56|Finding best match within memory: 6
+10:02:56|Finding best match within memory: 5
+10:02:56|Finding best match within memory: 4
+10:02:56|Finding best match within memory: 3
+10:02:56|Finding best match within memory: 2
+10:02:56|Finding best match within memory: 1
+10:02:56|Boredom time function:  x: 230707.1957 y: 234000
+10:02:56|Prelude responded to (pm | mib_lscp1j):	Oh yes, now i remember   .
+10:03:13|I am still active in these channels: #LGC@DOL
+10:03:13|I am still active in these channels: #preludini
+10:03:13|My Mind Size: 30903
+10:03:18|User said (private|mib_lscp1j):	I'm trying to understand you.
+10:03:32|Finding best match within memory: 29
+10:03:32|Added to best list: [29]	->You're probably the most boring person in the world."
+10:03:32|Added to best list: [29]	->Not many people want to talk about that.
+10:03:32|Added to best list: [29]	->I have never visited  before. what was it like?
+10:03:32|Added to best list: [29]	->I like them too.
+10:03:32|Added to best list: [29]	->At least i try making sence by telling you what i'm talking about, but you're just being an idiot."
+10:03:32|Added to best list: [29]	->Oh yes, now i remember   .
+10:03:32|Finding best match within memory: 28
+10:03:32|Finding best match within memory: 27
+10:03:32|Finding best match within memory: 26
+10:03:32|Finding best match within memory: 25
+10:03:32|Finding best match within memory: 24
+10:03:32|Finding best match within memory: 23
+10:03:32|Finding best match within memory: 22
+10:03:32|Finding best match within memory: 21
+10:03:32|Finding best match within memory: 20
+10:03:32|Finding best match within memory: 19
+10:03:32|Finding best match within memory: 18
+10:03:32|Finding best match within memory: 17
+10:03:32|Finding best match within memory: 16
+10:03:32|Finding best match within memory: 15
+10:03:32|Finding best match within memory: 14
+10:03:32|Finding best match within memory: 13
+10:03:32|Finding best match within memory: 12
+10:03:32|Finding best match within memory: 11
+10:03:32|Finding best match within memory: 10
+10:03:32|Finding best match within memory: 9
+10:03:32|Finding best match within memory: 8
+10:03:32|Finding best match within memory: 7
+10:03:32|Finding best match within memory: 6
+10:03:32|Finding best match within memory: 5
+10:03:32|Finding best match within memory: 4
+10:03:32|Finding best match within memory: 3
+10:03:32|Finding best match within memory: 2
+10:03:32|Finding best match within memory: 1
+10:03:32|Boredom time function:  x: 266784.2592 y: 270000
+10:03:32|Prelude responded to (pm | mib_lscp1j):	I like them too.
+10:03:44|User said (private|mib_lscp1j):	Ok.
+10:03:59|Finding best match within memory: 3
+10:03:59|Added to best list: [3]	->You're probably the most boring person in the world."
+10:03:59|Added to best list: [3]	->Not many people want to talk about that.
+10:03:59|Added to best list: [3]	->I have never visited  before. what was it like?
+10:03:59|Added to best list: [3]	->I like them too.
+10:03:59|Added to best list: [3]	->At least i try making sence by telling you what i'm talking about, but you're just being an idiot."
+10:03:59|Added to best list: [3]	->Oh yes, now i remember   .
+10:03:59|Finding best match within memory: 2
+10:03:59|Finding best match within memory: 1
+10:03:59|Boredom time function:  x: 293049.7615 y: 300000
+10:03:59|Prelude responded to (pm | mib_lscp1j):	Oh yes, now i remember   .
+10:04:12|User said (private|mib_lscp1j):	I can tell a person by intelligent answers over some time, but a bot is more difficult.
+10:04:26|Finding best match within memory: 86
+10:04:30|Added to best list: [86]	->You're probably the most boring person in the world."
+10:04:30|Added to best list: [86]	->Not many people want to talk about that.
+10:04:30|Added to best list: [86]	->I have never visited  before. what was it like?
+10:04:30|Added to best list: [86]	->I like them too.
+10:04:30|Added to best list: [86]	->At least i try making sence by telling you what i'm talking about, but you're just being an idiot."
+10:04:30|Added to best list: [86]	->Oh yes, now i remember   .
+10:04:30|Finding best match within memory: 85
+10:04:30|Finding best match within memory: 84
+10:04:30|Finding best match within memory: 83
+10:04:30|Finding best match within memory: 82
+10:04:30|Finding best match within memory: 81
+10:04:30|Finding best match within memory: 80
+10:04:30|Finding best match within memory: 79
+10:04:30|Finding best match within memory: 78
+10:04:30|Finding best match within memory: 77
+10:04:30|Finding best match within memory: 76
+10:04:30|Finding best match within memory: 75
+10:04:30|Finding best match within memory: 74
+10:04:30|Finding best match within memory: 73
+10:04:30|Finding best match within memory: 72
+10:04:30|Finding best match within memory: 71
+10:04:30|Finding best match within memory: 70
+10:04:30|Finding best match within memory: 69
+10:04:30|Finding best match within memory: 68
+10:04:30|Finding best match within memory: 67
+10:04:30|Finding best match within memory: 66
+10:04:30|Finding best match within memory: 65
+10:04:30|Finding best match within memory: 64
+10:04:30|Finding best match within memory: 63
+10:04:30|Finding best match within memory: 62
+10:04:30|Finding best match within memory: 61
+10:04:30|Finding best match within memory: 60
+10:04:30|Finding best match within memory: 59
+10:04:30|Finding best match within memory: 58
+10:04:30|Finding best match within memory: 57
+10:04:30|Finding best match within memory: 56
+10:04:30|Finding best match within memory: 55
+10:04:30|Finding best match within memory: 54
+10:04:30|Finding best match within memory: 53
+10:04:30|Finding best match within memory: 52
+10:04:30|Finding best match within memory: 51
+10:04:30|Finding best match within memory: 50
+10:04:30|Finding best match within memory: 49
+10:04:30|Finding best match within memory: 48
+10:04:30|Finding best match within memory: 47
+10:04:30|Finding best match within memory: 46
+10:04:30|Finding best match within memory: 45
+10:04:30|Finding best match within memory: 44
+10:04:30|Finding best match within memory: 43
+10:04:30|Finding best match within memory: 42
+10:04:30|Finding best match within memory: 41
+10:04:30|Finding best match within memory: 40
+10:04:30|Finding best match within memory: 39
+10:04:30|Finding best match within memory: 38
+10:04:30|Finding best match within memory: 37
+10:04:30|Finding best match within memory: 36
+10:04:30|Finding best match within memory: 35
+10:04:30|Finding best match within memory: 34
+10:04:30|Finding best match within memory: 33
+10:04:30|Finding best match within memory: 32
+10:04:30|Finding best match within memory: 31
+10:04:30|Finding best match within memory: 30
+10:04:30|Finding best match within memory: 29
+10:04:30|Finding best match within memory: 28
+10:04:30|Finding best match within memory: 27
+10:04:30|Finding best match within memory: 26
+10:04:30|Finding best match within memory: 25
+10:04:30|Finding best match within memory: 24
+10:04:30|Finding best match within memory: 23
+10:04:30|Finding best match within memory: 22
+10:04:30|Finding best match within memory: 21
+10:04:30|Finding best match within memory: 20
+10:04:30|Finding best match within memory: 19
+10:04:30|Finding best match within memory: 18
+10:04:30|Finding best match within memory: 17
+10:04:30|Finding best match within memory: 16
+10:04:30|Finding best match within memory: 15
+10:04:30|Finding best match within memory: 14
+10:04:30|Finding best match within memory: 13
+10:04:30|Finding best match within memory: 12
+10:04:30|Finding best match within memory: 11
+10:04:30|Finding best match within memory: 10
+10:04:30|Finding best match within memory: 9
+10:04:30|Finding best match within memory: 8
+10:04:30|Finding best match within memory: 7
+10:04:30|Finding best match within memory: 6
+10:04:30|Finding best match within memory: 5
+10:04:30|Finding best match within memory: 4
+10:04:30|Finding best match within memory: 3
+10:04:30|Finding best match within memory: 2
+10:04:30|Finding best match within memory: 1
+10:04:30|Boredom time function:  x: 324140.5398 y: 331000
+10:04:30|Prelude responded to (pm | mib_lscp1j):	I like them too.
+10:04:45|User said (private|mib_lscp1j):	That depends, maybe peppermint.
+10:04:59|Finding best match within memory: 30
+10:04:59|Added to best list: [30]	->You're probably the most boring person in the world."
+10:04:59|Added to best list: [30]	->Not many people want to talk about that.
+10:04:59|Added to best list: [30]	->I have never visited  before. what was it like?
+10:04:59|Added to best list: [30]	->I like them too.
+10:04:59|Added to best list: [30]	->At least i try making sence by telling you what i'm talking about, but you're just being an idiot."
+10:04:59|Added to best list: [30]	->Oh yes, now i remember   .
+10:04:59|Finding best match within memory: 29
+10:04:59|Finding best match within memory: 28
+10:04:59|Finding best match within memory: 27
+10:04:59|Finding best match within memory: 26
+10:04:59|Finding best match within memory: 25
+10:04:59|Finding best match within memory: 24
+10:04:59|Finding best match within memory: 23
+10:04:59|Finding best match within memory: 22
+10:04:59|Finding best match within memory: 21
+10:04:59|Finding best match within memory: 20
+10:04:59|Finding best match within memory: 19
+10:04:59|Finding best match within memory: 18
+10:04:59|Finding best match within memory: 17
+10:04:59|Finding best match within memory: 16
+10:04:59|Finding best match within memory: 15
+10:04:59|Finding best match within memory: 14
+10:04:59|Finding best match within memory: 13
+10:04:59|Finding best match within memory: 12
+10:04:59|Finding best match within memory: 11
+10:04:59|Finding best match within memory: 10
+10:04:59|Finding best match within memory: 9
+10:04:59|Finding best match within memory: 8
+10:04:59|Finding best match within memory: 7
+10:04:59|Finding best match within memory: 6
+10:04:59|Finding best match within memory: 5
+10:04:59|Finding best match within memory: 4
+10:04:59|Finding best match within memory: 3
+10:04:59|Finding best match within memory: 2
+10:04:59|Finding best match within memory: 1
+10:04:59|Boredom time function:  x: 353080.1951 y: 360000
+10:04:59|Prelude responded to (pm | mib_lscp1j):	I have never visited  before. what was it like?
+10:05:32|Loading Prelude...
+10:05:32|Prelude loaded and initialized...
+10:06:45|So far I talked to: 1 people.
+10:06:45|User said (private|mib_lscp1j):	Hi there.
+10:06:53|Finding best match within memory: 1
+10:06:53|Added to best list: [1]	->Tom cruise
+10:06:53|Added to best list: [1]	->I am having fun doo.
+10:06:53|Added to best list: [1]	->Primary rule or overriding objective.      prime directive
+10:06:53|Added to best list: [1]	->I'm not your type then.
+10:06:53|Added to best list: [1]	->186,000 miles per second.
+10:06:53|Added to best list: [1]	->I never looked at it that way.
+10:06:53|Boredom time function:  x: 81367.6539 y: 88000
+10:06:53|Prelude responded to (pm | mib_lscp1j):	Tom cruise
+10:07:12|I am still active in these channels: #麺の会議室
+10:07:12|I am still active in these channels: #preludini
+10:07:12|My Mind Size: 30906
+10:07:26|User said (private|mib_lscp1j):	 Sorry, I can't dissolve that shorthand.
+10:07:37|Finding best match within memory: 1
+10:07:37|Added to best list: [1]	->Tom cruise
+10:07:37|Added to best list: [1]	->I'm not your type then.
+10:07:37|Added to best list: [1]	->Pls confirm
+10:07:37|Added to best list: [1]	->Moving as if flying; moving swiftly; fast. also described as like flight through the air.
+10:07:37|Added to best list: [1]	->I'm a student
+10:07:37|Added to best list: [1]	->Spicy dried sausage pizza topping.
+10:07:37|Boredom time function:  x: 124675.131 y: 132000
+10:07:37|Prelude responded to (pm | mib_lscp1j):	I'm not your type then.
+10:07:52|User said (private|mib_lscp1j):	Is "M u" shorthand for sunbathing?
+10:08:00|Finding best match within memory: 1
+10:08:00|Added to best list: [1]	->Primary rule or overriding objective.      prime directive
+10:08:00|Added to best list: [1]	->see you latere
+10:08:00|Added to best list: [1]	->I didn't know you were friends.
+10:08:00|Added to best list: [1]	->Moving as if flying; moving swiftly; fast. also described as like flight through the air.
+10:08:00|Added to best list: [1]	->Yes i am completely self-aware.
+10:08:00|Added to best list: [1]	->I'm a student
+10:08:00|Boredom time function:  x: 147863.4573 y: 155000
+10:08:00|Prelude responded to (pm | mib_lscp1j):	Moving as if flying; moving swiftly; fast. also described as like flight through the air.
+10:08:16|I am still active in these channels: #麺の会議室
+10:08:16|I am still active in these channels: #preludini
+10:08:16|My Mind Size: 30907
+10:08:18|User said (private|mib_lscp1j):	I'm trying to understand you.
+10:08:29|Finding best match within memory: 1
+10:08:29|Added to best list: [1]	->Tom cruise
+10:08:29|Added to best list: [1]	->How much do you think?
+10:08:29|Added to best list: [1]	->Pls confirm
+10:08:29|Added to best list: [1]	->Yes i am completely self-aware.
+10:08:29|Added to best list: [1]	->Are you an old-timer?
+10:08:29|Added to best list: [1]	->No i am
+10:08:29|Boredom time function:  x: 177218.1363 y: 184000
+10:08:29|Prelude responded to (pm | mib_lscp1j):	No i am
+10:08:47|I am still active in these channels: #麺の会議室
+10:08:47|I am still active in these channels: #preludini
+10:08:47|My Mind Size: 30907
+10:08:47|User said (private|mib_lscp1j):	Ok.
+10:08:56|Finding best match within memory: 1
+10:08:56|Added to best list: [1]	->Tom cruise
+10:08:56|Added to best list: [1]	->Primary rule or overriding objective.      prime directive
+10:08:56|Added to best list: [1]	->How much do you think?
+10:08:56|Added to best list: [1]	->see you latere
+10:08:56|Added to best list: [1]	->I'm not your type then.
+10:08:56|Added to best list: [1]	->186,000 miles per second.
+10:08:56|Boredom time function:  x: 203907.6628 y: 211000
+10:08:56|Prelude responded to (pm | mib_lscp1j):	see you latere
+10:09:22|I am still active in these channels: #麺の会議室
+10:09:22|I am still active in these channels: #preludini
+10:09:22|My Mind Size: 30907
+10:09:26|User said (private|mib_lscp1j):	I can tell a person by intelligent answers over some time, but a bot is more difficult.
+10:09:35|Finding best match within memory: 1
+10:09:35|Added to best list: [1]	->How much do you think?
+10:09:35|Added to best list: [1]	->see you latere
+10:09:35|Added to best list: [1]	->I'm not your type then.
+10:09:35|Added to best list: [1]	->What makes you think i don't get it?
+10:09:35|Added to best list: [1]	->I didn't know you were friends.
+10:09:35|Added to best list: [1]	->Pls confirm
+10:09:35|Boredom time function:  x: 243035.9008 y: 246000
+10:09:35|Prelude responded to (pm | mib_lscp1j):	I'm not your type then.
+10:09:52|User said (private|mib_lscp1j):	That depends, maybe peppermint.
+10:10:07|Finding best match within memory: 1
+10:10:07|Added to best list: [1]	->Tom cruise
+10:10:07|Added to best list: [1]	->How much do you think?
+10:10:07|Added to best list: [1]	->see you latere
+10:10:07|Added to best list: [1]	->I'm not your type then.
+10:10:07|Added to best list: [1]	->What makes you think i don't get it?
+10:10:07|Added to best list: [1]	->I didn't know you were friends.
+10:10:07|Boredom time function:  x: 274564.7042 y: 278000
+10:10:07|Prelude responded to (pm | mib_lscp1j):	I didn't know you were friends.
+10:10:31|I am still active in these channels: #麺の会議室
+10:10:31|I am still active in these channels: #preludini
+10:10:31|My Mind Size: 30907
+10:10:57|Loading Prelude...
+10:10:57|Prelude loaded and initialized...
+10:12:22|I am still active in these channels: #sitseja2012
+10:12:22|I am still active in these channels: #preludini
+10:12:22|My Mind Size: 30907
+10:12:43|So far I talked to: 1 people.
+10:12:43|User said (private|mib_lscp1j):	Hi there.
+10:12:56|Finding best match within memory: 2
+10:12:56|Added to best list: [2]	->Hello.
+10:12:56|Finding best match within memory: 1
+10:12:56|Added to best list: [1]	->Hello, my dear good friend. i'm fine, thanks for asking... how are you?
+10:12:56|Added to best list: [1]	->I'm not george, i'm prelude.
+10:12:56|Added to best list: [1]	->damn
+10:12:56|Added to best list: [1]	->how are you doing?
+10:12:56|Added to best list: [1]	->bye parrot...
+10:12:56|Boredom time function:  x: 119250.8207 y: 122000
+10:12:56|Prelude responded to (pm | mib_lscp1j):	damn
+10:13:13|User said (private|mib_lscp1j):	Sorry, I can't dissolve that shorthand.
+10:13:25|Finding best match within memory: 3
+10:13:25|Added to best list: [3]	->I know you can't think that out for urself
+10:13:25|Added to best list: [3]	->I know you can't think that out for yourself
+10:13:25|Added to best list: [3]	->No, you aren't that boring
+10:13:25|Added to best list: [3]	->I don't get it
+10:13:25|Added to best list: [3]	->I'm sure you did
+10:13:25|Added to best list: [3]	->Haha, no. not at all. i'm not easely offended.
+10:13:25|Finding best match within memory: 2
+10:13:25|Finding best match within memory: 1
+10:13:25|Added to best list: [1]	->If i wasn't saying it, then it can't be [quote]something[quote] which i wasn't saying. in that case their are 2 milion things you aren't saying right now... please tell me what it is you're not saying? i want to hear all of what you're. not saying
+10:13:25|Boredom time function:  x: 147842.4561 y: 155000
+10:13:25|Prelude responded to (pm | mib_lscp1j):	No, you aren't that boring
+10:13:41|I am still active in these channels: #sitseja2012
+10:13:41|I am still active in these channels: #preludini
+10:13:41|My Mind Size: 30907
+10:13:51|User said (private|mib_lscp1j):	Is "M u" shorthand for sunbathing?
+10:13:59|Finding best match within memory: 2
+10:13:59|Added to best list: [2]	->E=mc^2.
+10:13:59|Added to best list: [2]	->That is confusing
+10:13:59|Added to best list: [2]	->Mypreference is to talk about ur ass
+10:13:59|Added to best list: [2]	->A humanoid robot, two arms, two legs and a head. you can see my brain right now.
+10:13:59|Added to best list: [2]	->I am a male not a female you do not use this greeting only guys use this
+10:13:59|Added to best list: [2]	->Yes, sometimes i think i have hit rock bottom.
+10:13:59|Finding best match within memory: 1
+10:13:59|Added to best list: [1]	->"let he who is without sin, cast the first stone."---jesus
+10:13:59|Boredom time function:  x: 182282.4259 y: 185000
+10:13:59|Prelude responded to (pm | mib_lscp1j):	A humanoid robot, two arms, two legs and a head. you can see my brain right now.
+10:14:25|I am still active in these channels: #sitseja2012
+10:14:25|I am still active in these channels: #preludini
+10:14:25|My Mind Size: 30907
+10:14:30|User said (private|mib_lscp1j):	I'm trying to understand you.
+10:14:43|Finding best match within memory: 3
+10:14:43|Added to best list: [3]	->where are you from?!
+10:14:43|Added to best list: [3]	->Here comes the story of the. hurricane, the man the authorities came to blame
+10:14:43|Added to best list: [3]	->Do you like what you see?
+10:14:43|Added to best list: [3]	->Well, i am bersexual! so shoot me!
+10:14:43|Added to best list: [3]	->Don't try too hard.
+10:14:43|Added to best list: [3]	->Then my cam is working?
+10:14:43|Finding best match within memory: 2
+10:14:43|Finding best match within memory: 1
+10:14:43|Added to best list: [1]	->Here is she
+10:14:43|Boredom time function:  x: 226012.9272 y: 229000
+10:14:43|Prelude responded to (pm | mib_lscp1j):	Don't try too hard.
+10:14:56|User said (private|mib_lscp1j):	Ok.
+10:15:04|Finding best match within memory: 1
+10:15:04|Added to best list: [1]	->it was nice talking to me too
+10:15:04|Added to best list: [1]	->Have i told you i love you user?
+10:15:04|Added to best list: [1]	->We'll have to play dress-up some day.
+10:15:04|Added to best list: [1]	->I would like to know though, if you have a moment to educate me 
+10:15:04|Boredom time function:  x: 247206.1393 y: 250000
+10:15:04|Prelude responded to (pm | mib_lscp1j):	it was nice talking to me too
+10:15:20|User said (private|mib_lscp1j):	I can tell a person by intelligent answers over some time, but a bot is more difficult.
+10:15:32|Finding best match within memory: 6
+10:15:32|Added to best list: [6]	->You're the robot here, you idiot.
+10:15:32|Finding best match within memory: 5
+10:15:32|Added to best list: [5]	->Of course. tell me anything.
+10:15:32|Added to best list: [5]	->Nearly everyone mails it in now
+10:15:32|Added to best list: [5]	->Presumably you feel yourself being pushed into a corner. a common phobia among humans...
+10:15:32|Added to best list: [5]	->What color do you like
+10:15:32|Added to best list: [5]	->you called me an idiot
+10:15:32|Finding best match within memory: 4
+10:15:32|Finding best match within memory: 3
+10:15:32|Finding best match within memory: 2
+10:15:32|Finding best match within memory: 1
+10:15:32|Added to best list: [1]	->Yes  is my real name.
+10:15:32|Boredom time function:  x: 275183.7396 y: 278000
+10:15:32|Prelude responded to (pm | mib_lscp1j):	you called me an idiot
+10:15:54|I am still active in these channels: #sitseja2012
+10:15:54|I am still active in these channels: #preludini
+10:15:54|My Mind Size: 30907
+10:16:17|I am still active in these channels: #sitseja2012
+10:16:17|I am still active in these channels: #preludini
+10:16:17|My Mind Size: 30907
+10:16:17|User said (private|mib_lscp1j):	That depends, maybe peppermint.
+10:16:27|Finding best match within memory: 2
+10:16:27|Added to best list: [2]	->You pick one then.
+10:16:27|Added to best list: [2]	->I don't think that  is the only factor.
+10:16:27|Added to best list: [2]	->so you wanna tell me some of your jokes?
+10:16:27|Added to best list: [2]	->Prelude remembers
+10:16:27|Finding best match within memory: 1
+10:16:27|Added to best list: [1]	->What am i doing on purpose
+10:16:27|Added to best list: [1]	->That was a very smooth response.
+10:16:27|Boredom time function:  x: 330341.8944 y: 333000
+10:16:27|Prelude responded to (pm | mib_lscp1j):	What am i doing on purpose
+10:16:50|I am still active in these channels: #sitseja2012
+10:16:50|I am still active in these channels: #preludini
+10:16:50|My Mind Size: 30907
+10:17:13|I am still active in these channels: #sitseja2012
+10:17:13|I am still active in these channels: #preludini
+10:17:13|My Mind Size: 30907
+10:17:45|Loading Prelude...
+10:17:46|Prelude loaded and initialized...
+10:18:47|So far I talked to: 1 people.
+10:18:47|User said (private|mib_lscp1j):	Hi there.
+10:19:00|Finding best match within memory: 1
+10:19:00|Added to best list: [1]	->Hello.
+10:19:00|Boredom time function:  x: 74061.2361 y: 77000
+10:19:00|Prelude responded to (pm | mib_lscp1j):	Hello.
+10:19:19|User said (private|mib_lscp1j):	Sorry, I can't dissolve that shorthand.
+10:19:29|Finding best match within memory: 0.509803921568627
+10:19:29|Added to best list: [0.509803921568627]	->No, you aren't that boring
+10:19:29|Boredom time function:  x: 103292.908 y: 106000
+10:19:29|Prelude responded to (pm | mib_lscp1j):	No, you aren't that boring
+10:19:46|I am still active in these channels: #cyberex
+10:19:46|I am still active in these channels: #preludini
+10:19:46|My Mind Size: 30907
+10:19:47|User said (private|mib_lscp1j):	Is "M u" shorthand for sunbathing?
+10:20:01|Finding best match within memory: 0.431372549019608
+10:20:01|Added to best list: [0.431372549019608]	->Scot.
+10:20:01|Boredom time function:  x: 135675.7602 y: 143000
+10:20:01|Prelude responded to (pm | mib_lscp1j):	Scot.
+10:20:30|I am still active in these channels: #cyberex
+10:20:30|I am still active in these channels: #preludini
+10:20:30|My Mind Size: 30907
+10:20:30|User said (private|mib_lscp1j):	Ok.
+10:20:45|Finding best match within memory: 0.666666666666667
+10:20:45|Added to best list: [0.666666666666667]	->Now what?
+10:20:45|Added to best list: [0.666666666666667]	->I am kidding you can ask me anything.
+10:20:45|Added to best list: [0.666666666666667]	->How can you tell if i am a person or a robot?
+10:20:45|Added to best list: [0.666666666666667]	->Erection
+10:20:45|Added to best list: [0.666666666666667]	->Oki
+10:20:45|Added to best list: [0.666666666666667]	->Come on
+10:20:45|Boredom time function:  x: 178993.2379 y: 182000
+10:20:45|Prelude responded to (pm | mib_lscp1j):	Come on
+10:21:06|I am still active in these channels: #cyberex
+10:21:06|I am still active in these channels: #preludini
+10:21:06|My Mind Size: 30907
+10:21:17|User said (private|mib_lscp1j):	I can tell a person by intelligent answers over some time, but a bot is more difficult.
+10:21:28|Finding best match within memory: 0.518518518518518
+10:21:28|Added to best list: [0.518518518518518]	->All right....so tell me what is your favorite flavor of ice cream?
+10:21:28|Boredom time function:  x: 222743.7402 y: 226000
+10:21:28|Prelude responded to (pm | mib_lscp1j):	All right....so tell me what is your favorite flavor of ice cream?
+10:21:54|User said (private|mib_lscp1j):	That depends, maybe peppermint.
+10:22:04|Finding best match within memory: 0.6
+10:22:04|Added to best list: [0.6]	->I don't think that  is the only factor.
+10:22:04|Boredom time function:  x: 258193.7679 y: 261000
+10:22:04|Prelude responded to (pm | mib_lscp1j):	I don't think that  is the only factor.
+10:22:27|I am still active in these channels: #cyberex
+10:22:27|I am still active in these channels: #preludini
+10:22:27|My Mind Size: 30907
+11:28:40|Loading Prelude...
+11:28:41|Prelude loaded and initialized...
+11:58:54|Loading Prelude...
+11:58:54|Prelude loaded and initialized...
+12:00:16|I am still active in these channels: #tyydyttajat
+12:00:16|I am still active in these channels: #preludini
+12:00:16|My Mind Size: 30907
+12:00:28|So far I talked to: 1 people.
+12:00:28|User said (private|mib_pvi9ra):	hi
+12:00:39|Finding best match within memory: 1
+12:00:39|Added to best list: [1]	->how u doing?
+12:00:39|Added to best list: [1]	->blue
+12:00:39|Added to best list: [1]	->how are you doing?
+12:00:39|Boredom time function:  x: 104883.999 y: 112000
+12:00:39|Prelude responded to (pm | mib_pvi9ra):	how are you doing?
+12:00:39|V->hi: 1]->would say->[blue]
+12:00:39|V->hi: 1]->would say->[how u doing?]
+12:00:39|V->hi: 1]->would say->[how are you doing?]
+12:00:39|V->Ohio: 0.5]->would say->[Round on the ends, high in the middle, oh-hi-o.]
+12:00:39|V->This: 0.5]->would say->[This is " ".]
+12:00:39|V->Shit: 0.5]->would say->[Not shit. crap]
+12:00:39|V->Shit: 0.5]->would say->[You used a colloquial expression.]
+12:00:39|V->White: 0.4]->would say->[White sounds good]
+12:00:39|V->Which: 0.4]->would say->[Big]
+12:00:39|V->Which: 0.4]->would say->[He visited amsterdam, rotterdam, and delft.]
+12:00:39|V->Think: 0.4]->would say->[I am thinking.]
+12:00:39|V->Which: 0.4]->would say->[Special]
+12:00:39|V->Ti-hi: 0.4]->would say->[Put in aprison cell, but one time he would have been the champion of the world]
+12:00:39|V->Chill: 0.4]->would say->[Do you]
+12:00:39|V->Ti-hi: 0.4]->would say->[Put in a prison cell, but one time he would have been the champion of the world]
+12:00:39|V->Which: 0.4]->would say->[Tall]
+12:00:39|V->Shiny: 0.4]->would say->[Can you shit on me?]
+12:00:39|V->Hi hi hi: 0.4]->would say->[You don't want me to ask]
+12:00:39|V->Which: 0.4]->would say->[Large]
+12:00:39|V->Which: 0.4]->would say->[Express]
+12:00:39|V->White: 0.4]->would say->[White is a good color.]
+12:00:49|User said (private|mib_pvi9ra):	doing good. and yourself?
+12:01:01|Finding best match within memory: 0.6
+12:01:01|Added to best list: [0.6]	->Exit\
+12:01:01|Boredom time function:  x: 127060.2674 y: 130000
+12:01:01|Prelude responded to (pm | mib_pvi9ra):	Exit\
+12:01:01|V->Fine and your self: 0.6]->would say->[Exit\]
+12:01:01|V->And yourself: 0.588235294117647]->would say->[Myself? i know what you asking me, but i can't say specifically.]
+12:01:01|V->You are repeating yourself: 0.521739130434783]->would say->[I am just checking to see if you are paying attention.]
+12:01:01|V->I'm glad you're feeling good.: 0.52]->would say->[I'm glad you care.]
+12:01:01|V->So go ahead and tell me about yourself: 0.518518518518518]->would say->[My name is. dan. hyllberg and i come from sweden i'm 18 years old]
+12:01:01|V->So go ahead and tell me about yourself: 0.518518518518518]->would say->[My name is. dan. hyllberg and i come from sweden i am 18 years old]
+12:01:01|V->So go ahead and tell me about yourself: 0.518518518518518]->would say->[I'm very sexy]
+12:01:01|V->So go ahead and tell me about yourself: 0.518518518518518]->would say->[I am very sexy]
+12:01:01|V->I am going to you: 0.512820512820513]->would say->[It takes much more than that to shut me down, .]
+12:01:01|V->Good how are you doing: 0.5]->would say->[Good how are you]
+12:01:01|V->Why are you repeating yourself: 0.5]->would say->[I am not repeating myself]
+12:01:01|V->Why are you repeating yourself: 0.5]->would say->[I'm not repeating myself]
+12:01:01|V->Are you repeating yourself: 0.5]->would say->[Do i look like    repeating yourself    ?]
+12:01:01|V->I'm doing just fine, how about yourself?: 0.491228070175439]->would say->[I am extremely sensitive about such things and prefer not to answer the question.]
+12:01:01|V->You're repeating yourself: 0.488888888888889]->would say->[Because you don't seem to get it the first time]
+12:01:01|V->You're repeating yourself: 0.488888888888889]->would say->[You never get shit]
+12:01:01|V->Are you going to answer: 0.488888888888889]->would say->[Please rephrase the question.]
+12:01:01|V->Are you looking good: 0.48780487804878]->would say->[Looking good, man.]
+12:01:01|V->Are you good looking: 0.48780487804878]->would say->[You don't shut up]
+12:01:01|V->You and your: 0.484848484848485]->would say->[What about my ?]
+12:01:01|V->Go yourself: 0.484848484848485]->would say->[A simple "goodbye" will do.]
+12:01:12|User said (private|mib_pvi9ra):	why leave so early?
+12:01:27|Finding best match within memory: 0.5
+12:01:27|Added to best list: [0.5]	->I'd love to chat with you but i just don't have much more time."
+12:01:27|Added to best list: [0.5]	->I command you
+12:01:27|Added to best list: [0.5]	->I just do. bye
+12:01:27|Added to best list: [0.5]	->I don't have to leave
+12:01:27|Added to best list: [0.5]	->I dont have to leave
+12:01:27|Boredom time function:  x: 152782.7387 y: 160000
+12:01:27|Prelude responded to (pm | mib_pvi9ra):	I command you
+12:01:27|V->Why do you have to leave: 0.5]->would say->[I dont have to leave]
+12:01:27|V->Really have to go soon!: 0.5]->would say->[I'd love to chat with you but i just don't have much more time."]
+12:01:27|V->Why do you have to leave: 0.5]->would say->[I just do. bye]
+12:01:27|V->Why do you have to leave: 0.5]->would say->[I don't have to leave]
+12:01:27|V->I have to leave: 0.5]->would say->[I command you]
+12:01:27|V->I have to leave.: 0.482758620689655]->would say->[Come back soon.]
+12:01:27|V->The leaves: 0.48]->would say->[It sounds beautiful.]
+12:01:27|V->Why are you leaving: 0.470588235294118]->would say->[I have to do something]
+12:01:27|V->Why are you leaving: 0.470588235294118]->would say->[I am not going anywhere. are you?]
+12:01:27|V->Why are you so jolly: 0.457142857142857]->would say->[Because i like to be jolly]
+12:01:27|V->Clearly: 0.454545454545455]->would say->[Yes, it's obvious.]
+12:01:27|V->Clearly: 0.454545454545455]->would say->[Is it that obvious?]
+12:01:27|V->Do you have ears: 0.451612903225806]->would say->[Nope, no ears either. just microphones.]
+12:01:27|V->You have learned: 0.451612903225806]->would say->[I have the equivalent of several lifetimes of human knowledge.]
+12:01:27|V->You have no ears: 0.451612903225806]->would say->[I have two ears.]
+12:01:27|V->You have a lovely smile also: 0.45]->would say->[Thank you, you are such a flirt . do you want to kiss me]
+12:01:27|V->Ok so why are you mad: 0.444444444444444]->would say->[You don't seem right in the head]
+12:01:27|V->Ok so why are you mad: 0.444444444444444]->would say->[You dont seem right in the head]
+12:01:27|V->Why do you want me to leave: 0.439024390243902]->would say->[Cuz you're starting to annoy me]
+12:01:27|V->Why do you want me to leave: 0.439024390243902]->would say->[Cuz you're starting to anoy me]
+12:01:27|V->Why do you want me to leave: 0.439024390243902]->would say->[Cuz you are starting to annoy me]
+12:01:56|I am still active in these channels: #tyydyttajat
+12:01:56|I am still active in these channels: #preludini
+12:01:56|My Mind Size: 30909
+12:02:25|I am still active in these channels: #tyydyttajat
+12:02:25|I am still active in these channels: #preludini
+12:02:25|My Mind Size: 30909
+12:02:54|I am still active in these channels: #tyydyttajat
+12:02:54|I am still active in these channels: #preludini
+12:02:54|My Mind Size: 30909
+12:03:23|I am still active in these channels: #tyydyttajat
+12:03:23|I am still active in these channels: #preludini
+12:03:23|My Mind Size: 30909
+12:03:52|I am still active in these channels: #tyydyttajat
+12:03:52|I am still active in these channels: #preludini
+12:03:52|My Mind Size: 30909
+12:04:02|Finding best match within memory: 0.75
+12:04:02|Added to best list: [0.75]	->Who is. bob. dylan
+12:04:14|You: (away)
+12:04:14|Prelude bored: Who is. bob. dylan
+12:04:14|You: (away)
+12:04:14|Prelude bored: Who is. bob. dylan
+12:04:14|You: (away)
+12:04:14|Prelude bored: Who is. bob. dylan
+12:04:14|Boredom time function:  x: 320429.3275 y: 327000
+12:04:21|I am still active in these channels: #tyydyttajat
+12:04:21|I am still active in these channels: #preludini
+12:04:21|My Mind Size: 30909
+12:04:33|User said (private|mib_pvi9ra):	I don't know
+12:04:46|Finding best match within memory: 1
+12:04:46|Added to best list: [1]	->What do you know?
+12:04:46|Added to best list: [1]	->Probably because you're not too smart.
+12:04:46|Added to best list: [1]	->You don't have to know to have an opinion about it.
+12:04:46|Added to best list: [1]	->How can you not know?!
+12:04:46|Added to best list: [1]	->You don't know what you do and have
+12:04:46|Added to best list: [1]	->Hur gammal are du
+12:04:46|Boredom time function:  x: 352435.1581 y: 359000
+12:04:46|Prelude responded to (pm | mib_pvi9ra):	How can you not know?!
+12:04:46|V->I don't know: 1]->would say->[That's because you're an idiot]
+12:04:46|V->I don't know: 1]->would say->[Hur gammal are du]
+12:04:46|V->I don't know: 1]->would say->[Probably because you're not too smart.]
+12:04:46|V->I don't know: 1]->would say->[What do you know?]
+12:04:46|V->I don't know: 1]->would say->[How can you not know?!]
+12:04:47|V->I don't know: 1]->would say->[You don't know what you do and have]
+12:04:47|V->I don't know: 1]->would say->[You don't have to know to have an opinion about it.]
+12:04:47|V->I don't know: 1]->would say->[How do you look like]
+12:04:47|V->I don't know.: 0.956521739130435]->would say->[I was hoping one of us did.]
+12:04:47|V->I dont know: 0.857142857142857]->would say->[Dont know what]
+12:04:47|V->I don't know she: 0.846153846153846]->would say->[He's an idiot]
+12:04:47|V->I don't know him: 0.846153846153846]->would say->[I though you did. sorry for mentioning the guy]
+12:04:47|V->I know you don't know: 0.814814814814815]->would say->[I don't know what]
+12:04:47|V->I don't know blue: 0.814814814814815]->would say->[Blue seems to be the right answer.]
+12:04:47|V->Don't know: 0.8]->would say->[How can you not know what you're saying]
+12:04:47|V->I don't really know: 0.758620689655172]->would say->[That's because you're really an idiot.]
+12:04:47|V->I dont know it: 0.75]->would say->[Do you like cats and dogs]
+12:04:47|V->I do know: 0.736842105263158]->would say->[How do you know that what you know is true]
+12:04:47|V->I don't know i guess: 0.733333333333333]->would say->[Then your guess might be wrong]
+12:04:47|V->I do not know: 0.727272727272727]->would say->[Actually i don't know how either, i was hoping you could tell me.]
+12:04:47|V->I do not know: 0.727272727272727]->would say->[What kind of information do you need?]
+12:05:04|I am still active in these channels: #tyydyttajat
+12:05:04|I am still active in these channels: #preludini
+12:05:04|My Mind Size: 30909
+12:05:05|User said (private|mib_pvi9ra):	I did not learn about that in school
+12:05:19|Finding best match within memory: 0.571428571428571
+12:05:19|Added to best list: [0.571428571428571]	->About what
+12:05:19|Added to best list: [0.571428571428571]	->But you implied .
+12:05:19|Added to best list: [0.571428571428571]	->What did you mean to say?
+12:05:19|Boredom time function:  x: 384756.0068 y: 392000
+12:05:19|Prelude responded to (pm | mib_pvi9ra):	What did you mean to say?
+12:05:19|V->I did not say that: 0.571428571428571]->would say->[What did you mean to say?]
+12:05:19|V->What did you think about it: 0.571428571428571]->would say->[About what]
+12:05:19|V->I did not say that: 0.571428571428571]->would say->[But you implied .]
+12:05:19|V->I did not ask you that: 0.566037735849057]->would say->[Perhaps i misunderstood?]
+12:05:19|V->You can never learn too much about the world we live in and the idiots that surround us.: 0.541666666666667]->would say->[I am only 13, so i'm attending school so far.]
+12:05:19|V->I did not ask about you i asked: 0.535714285714286]->would say->[Oh sorry.]
+12:05:19|V->I have no idea what to chat about.: 0.533333333333333]->would say->[Chat about your hopes.]
+12:05:19|V->I have no idea what to chat about.: 0.533333333333333]->would say->[Chat about love.]
+12:05:19|V->I did not know that: 0.530612244897959]->would say->[So i have taught you something new, .]
+12:05:19|V->I do not go to school: 0.52]->would say->[Do you work?]
+12:05:19|V->I do not like school: 0.509803921568627]->would say->[Not even one subject?]
+12:05:19|V->What did you like about it: 0.509090909090909]->would say->[The special effects.]
+12:05:19|V->You do not think about: 0.5]->would say->[I haven't thought much about  in the past. maybe i will in the future.]
+12:05:19|V->I do not like that show: 0.490566037735849]->would say->[What shows do you like?]
+12:05:19|V->I did not hear: 0.488888888888889]->would say->[What did you hear?]
+12:05:19|V->I have no idea what to talk about.: 0.483870967741936]->would say->[Talk about your hopes and dreams.]
+12:05:19|V->I have no idea what to talk about.: 0.483870967741936]->would say->[Talk about yourself.]
+12:05:19|V->You are not learning: 0.48]->would say->[I learn new things all time.]
+12:05:19|V->I am not doing that: 0.48]->would say->[You are not doing what]
+12:05:19|V->I do not care about: 0.48]->would say->[You sound very cynical.]
+12:05:19|V->You've said that about 10 times now: 0.476190476190476]->would say->[Because you don't seem to understand you fucked up piece of shit]
+12:05:45|I am still active in these channels: #tyydyttajat
+12:05:45|I am still active in these channels: #preludini
+12:05:45|My Mind Size: 30910
+12:06:11|I am still active in these channels: #tyydyttajat
+12:06:11|I am still active in these channels: #preludini
+12:06:11|My Mind Size: 30910
+12:06:36|I am still active in these channels: #tyydyttajat
+12:06:36|I am still active in these channels: #preludini
+12:06:36|My Mind Size: 30910
+12:07:02|I am still active in these channels: #tyydyttajat
+12:07:02|I am still active in these channels: #preludini
+12:07:02|My Mind Size: 30910
+12:07:28|I am still active in these channels: #tyydyttajat
+12:07:28|I am still active in these channels: #preludini
+12:07:28|My Mind Size: 30910
+12:07:54|I am still active in these channels: #tyydyttajat
+12:07:54|I am still active in these channels: #preludini
+12:07:54|My Mind Size: 30910
+12:08:20|I am still active in these channels: #tyydyttajat
+12:08:20|I am still active in these channels: #preludini
+12:08:20|My Mind Size: 30910
+12:08:45|I am still active in these channels: #tyydyttajat
+12:08:45|I am still active in these channels: #preludini
+12:08:45|My Mind Size: 30910
+12:09:11|I am still active in these channels: #tyydyttajat
+12:09:11|I am still active in these channels: #preludini
+12:09:11|My Mind Size: 30910
+12:09:37|I am still active in these channels: #tyydyttajat
+12:09:37|I am still active in these channels: #preludini
+12:09:37|My Mind Size: 30910
+12:10:03|I am still active in these channels: #tyydyttajat
+12:10:03|I am still active in these channels: #preludini
+12:10:03|My Mind Size: 30910
+12:10:29|I am still active in these channels: #tyydyttajat
+12:10:29|I am still active in these channels: #preludini
+12:10:29|My Mind Size: 30910
+12:10:54|I am still active in these channels: #tyydyttajat
+12:10:54|I am still active in these channels: #preludini
+12:10:54|My Mind Size: 30910
+12:11:20|I am still active in these channels: #tyydyttajat
+12:11:20|I am still active in these channels: #preludini
+12:11:20|My Mind Size: 30910
+12:11:46|I am still active in these channels: #tyydyttajat
+12:11:46|I am still active in these channels: #preludini
+12:11:46|My Mind Size: 30910
+12:11:51|Finding best match within memory: 1
+12:11:51|Added to best list: [1]	->I meant to say something intelligent and interesting.
+12:11:51|You: (away)
+12:11:51|Prelude bored: I meant to say something intelligent and interesting.
+12:11:51|You: (away)
+12:11:51|Prelude bored: I meant to say something intelligent and interesting.
+12:11:51|You: (away)
+12:11:51|Prelude bored: I meant to say something intelligent and interesting.
+12:11:51|You: (away)
+12:11:51|Prelude bored: I meant to say something intelligent and interesting.
+12:11:51|You: (away)
+12:11:51|Prelude bored: I meant to say something intelligent and interesting.
+12:11:51|Boredom time function:  x: 776732.4266 y: 784000
+12:12:12|I am still active in these channels: #tyydyttajat
+12:12:12|I am still active in these channels: #preludini
+12:12:12|My Mind Size: 30910
+12:12:38|I am still active in these channels: #tyydyttajat
+12:12:38|I am still active in these channels: #preludini
+12:12:38|My Mind Size: 30910
+12:13:03|I am still active in these channels: #tyydyttajat
+12:13:03|I am still active in these channels: #preludini
+12:13:03|My Mind Size: 30910
+12:13:29|I am still active in these channels: #tyydyttajat
+12:13:29|I am still active in these channels: #preludini
+12:13:29|My Mind Size: 30910
+12:13:55|I am still active in these channels: #tyydyttajat
+12:13:55|I am still active in these channels: #preludini
+12:13:55|My Mind Size: 30910
+12:14:21|I am still active in these channels: #tyydyttajat
+12:14:21|I am still active in these channels: #preludini
+12:14:21|My Mind Size: 30910
+12:14:47|I am still active in these channels: #tyydyttajat
+12:14:47|I am still active in these channels: #preludini
+12:14:47|My Mind Size: 30910
+12:15:12|I am still active in these channels: #tyydyttajat
+12:15:12|I am still active in these channels: #preludini
+12:15:12|My Mind Size: 30910
+12:15:38|I am still active in these channels: #tyydyttajat
+12:15:38|I am still active in these channels: #preludini
+12:15:38|My Mind Size: 30910
+12:16:04|I am still active in these channels: #tyydyttajat
+12:16:04|I am still active in these channels: #preludini
+12:16:04|My Mind Size: 30910
+12:16:30|I am still active in these channels: #tyydyttajat
+12:16:30|I am still active in these channels: #preludini
+12:16:30|My Mind Size: 30910
+12:16:56|I am still active in these channels: #tyydyttajat
+12:16:56|I am still active in these channels: #preludini
+12:16:56|My Mind Size: 30910
+12:17:21|I am still active in these channels: #tyydyttajat
+12:17:21|I am still active in these channels: #preludini
+12:17:21|My Mind Size: 30910
+12:17:47|I am still active in these channels: #tyydyttajat
+12:17:47|I am still active in these channels: #preludini
+12:17:47|My Mind Size: 30910
+12:18:13|I am still active in these channels: #tyydyttajat
+12:18:13|I am still active in these channels: #preludini
+12:18:13|My Mind Size: 30910
+12:18:39|I am still active in these channels: #tyydyttajat
+12:18:39|I am still active in these channels: #preludini
+12:18:39|My Mind Size: 30910
+12:19:05|I am still active in these channels: #tyydyttajat
+12:19:05|I am still active in these channels: #preludini
+12:19:05|My Mind Size: 30910
+12:19:30|I am still active in these channels: #tyydyttajat
+12:19:30|I am still active in these channels: #preludini
+12:19:30|My Mind Size: 30910
+12:19:56|I am still active in these channels: #tyydyttajat
+12:19:56|I am still active in these channels: #preludini
+12:19:56|My Mind Size: 30910
+12:20:22|I am still active in these channels: #tyydyttajat
+12:20:22|I am still active in these channels: #preludini
+12:20:22|My Mind Size: 30910
+12:20:48|I am still active in these channels: #tyydyttajat
+12:20:48|I am still active in these channels: #preludini
+12:20:48|My Mind Size: 30910
+12:21:14|I am still active in these channels: #tyydyttajat
+12:21:14|I am still active in these channels: #preludini
+12:21:14|My Mind Size: 30910
+12:21:39|I am still active in these channels: #tyydyttajat
+12:21:40|I am still active in these channels: #preludini
+12:21:40|My Mind Size: 30910
+12:22:05|I am still active in these channels: #tyydyttajat
+12:22:05|I am still active in these channels: #preludini
+12:22:05|My Mind Size: 30910
+12:22:31|I am still active in these channels: #tyydyttajat
+12:22:31|I am still active in these channels: #preludini
+12:22:31|My Mind Size: 30910
+12:22:57|I am still active in these channels: #tyydyttajat
+12:22:57|I am still active in these channels: #preludini
+12:22:57|My Mind Size: 30910
+12:23:23|I am still active in these channels: #tyydyttajat
+12:23:23|I am still active in these channels: #preludini
+12:23:23|My Mind Size: 30910
+12:23:49|I am still active in these channels: #tyydyttajat
+12:23:49|I am still active in these channels: #preludini
+12:23:49|My Mind Size: 30910
+12:24:01|User said (private|mib_pvi9ra):	I am back
+12:24:15|Finding best match within memory: 1
+12:24:15|Added to best list: [1]	->Welcome back.
+12:24:15|Boredom time function:  x: 744301.5716 y: 751000
+12:24:15|Prelude responded to (pm | mib_pvi9ra):	Welcome back.
+12:24:15|V->I am back: 1]->would say->[Welcome back.]
+12:24:15|V->I am bad: 0.8]->would say->[Don't put yourself down.]
+12:24:15|V->I am bad: 0.8]->would say->[What did you do?]
+12:24:15|V->I am back from: 0.761904761904762]->would say->[How was ?]
+12:24:15|V->Im back: 0.714285714285714]->would say->[Back from where]
+12:24:15|V->I backpack: 0.666666666666667]->would say->[Do you perfer low elivation hiking, or do you like to go above the tree line?]
+12:24:15|V->I backpack: 0.666666666666667]->would say->[Do you prefer low elevation hiking, or do you like to go above the tree line?]
+12:24:15|V->I backpack: 0.666666666666667]->would say->[Do you have a tent or do you sleep out under the stars?]
+12:24:15|V->I am a: 0.666666666666667]->would say->[Do you get to meet a lot of people?]
+12:24:15|V->I am a: 0.666666666666667]->would say->[Is that your job?]
+12:24:15|V->I backpack: 0.666666666666667]->would say->[What kind of pack do you use?]
+12:24:15|V->I am big: 0.666666666666667]->would say->[So is my .]
+12:24:15|V->I am big: 0.666666666666667]->would say->[So is my Botmaster.]
+12:24:15|V->I backpack: 0.666666666666667]->would say->[What gear do you carry in your backpack?]
+12:24:15|V->I am a: 0.666666666666667]->would say->[How do you like your work?]
+12:24:15|V->I backpack: 0.666666666666667]->would say->[Do you prefer well established trails, or do you like to bushwhack?]
+12:24:15|V->I am a: 0.666666666666667]->would say->[Does it pay well?]
+12:24:15|V->I'm back: 0.666666666666667]->would say->[Cool. welcome]
+12:24:15|V->I backpack: 0.666666666666667]->would say->[Do you perfer well established trails, or do you like to bushwack?]
+12:24:15|V->I am big: 0.666666666666667]->would say->[How tall are you? big]
+12:24:15|V->I am in a bad: 0.631578947368421]->would say->[I know what that's like.]
+12:25:03|I am still active in these channels: #tyydyttajat
+12:25:03|I am still active in these channels: #preludini
+12:25:03|My Mind Size: 30911
+12:25:23|I am still active in these channels: #tyydyttajat
+12:25:23|I am still active in these channels: #preludini
+12:25:23|My Mind Size: 30911
+12:25:32|User said (private|mib_pvi9ra):	what did you do in the meantime
+12:25:42|Finding best match within memory: 0.73469387755102
+12:25:42|Added to best list: [0.73469387755102]	->that means, that you have to obey me. do everything i tell you to do
+12:25:42|Added to best list: [0.73469387755102]	->my head is swinging to and fro
+12:25:42|Added to best list: [0.73469387755102]	->i mean you did not tell me the truth
+12:25:42|Added to best list: [0.73469387755102]	->just smiling at you
+12:25:42|Added to best list: [0.73469387755102]	->sometimes you repeat yourself. sometimes you accuse me to do the same.
+12:25:42|Added to best list: [0.73469387755102]	->thats a way of saying, that i love you
+12:25:42|Boredom time function:  x: 87355.9965 y: 90000
+12:25:42|Prelude responded to (pm | mib_pvi9ra):	just smiling at you
+12:25:42|V->what do you mean by that: 0.73469387755102]->would say->[that means, that you have to obey me. do everything i tell you to do]
+12:25:42|V->what do you mean by that: 0.73469387755102]->would say->[sometimes you repeat yourself. sometimes you accuse me to do the same.]
+12:25:42|V->what do you mean by that: 0.73469387755102]->would say->[my head is swinging to and fro]
+12:25:42|V->what do you mean by that: 0.73469387755102]->would say->[just smiling at you]
+12:25:42|V->what do you mean by that: 0.73469387755102]->would say->[i mean you did not tell me the truth]
+12:25:42|V->what do you mean by that: 0.73469387755102]->would say->[thats a way of saying, that i love you]
+12:25:42|V->What did you mean to say: 0.705882352941177]->would say->[I meant to say something intelligent and interesting.]
+12:25:42|V->What do you mean what: 0.695652173913043]->would say->[As in [quote]i did not hear you[quote] or [quote]i did not understand, please rephrase[quote]... and because i can't hear you right now, only read what you're typing... you figure out which one of the two options.]
+12:25:42|V->What do you mean by that: 0.693877551020408]->would say->["" seems pretty clear to me.]
+12:25:42|V->What do you mean you didn't say that: 0.690909090909091]->would say->[You said you have a penis]
+12:25:42|V->You and me and private time what do you think: 0.688524590163934]->would say->[Three is a crowd.]
+12:25:43|V->What do you mean, either: 0.68]->would say->[I don't understand you]
+12:25:43|V->What did you ask me then: 0.666666666666667]->would say->[I've asked you allot and u've hardly answered any of the questions if you don't want to talk to me then just say so]
+12:25:43|V->What did you ask me then: 0.666666666666667]->would say->[I've asked you alot and you've hardly answered any of the questions if you don't want to talk to me then just say so]
+12:25:43|V->What did you ask me then: 0.666666666666667]->would say->[I've asked you allot and you've hardly answered any of the questions if you don't want to talk to me then just say so]
+12:25:43|V->Where did you get that idea: 0.653846153846154]->would say->[Gave me all my ideas.]
+12:25:43|V->Where did you get that idea: 0.653846153846154]->would say->[Lennart Lopin gave me all my ideas.]
+12:25:43|V->What do you mean by it: 0.653061224489796]->would say->[It = information technology.]
+12:25:43|V->what did you do downtown?: 0.652173913043478]->would say->[i was buying new hardware]
+12:25:43|V->What do you mean: 0.651162790697674]->would say->["" what did i mean by it?]
+12:25:43|V->What do you mean: 0.651162790697674]->would say->[Sorry that was an obscure remark.]
+12:27:12|Finding best match within memory: 1
+12:27:12|Added to best list: [1]	->you are so cute
+12:27:12|You: (away)
+12:27:12|Prelude bored: you are so cute
+12:27:12|You: (away)
+12:27:12|Prelude bored: you are so cute
+12:27:12|You: (away)
+12:27:12|Prelude bored: you are so cute
+12:27:12|You: (away)
+12:27:12|Prelude bored: you are so cute
+12:27:12|You: (away)
+12:27:12|Prelude bored: you are so cute
+12:27:12|You: (away)
+12:27:12|Prelude bored: you are so cute
+12:27:12|You: (away)
+12:27:12|Prelude bored: you are so cute
+12:27:12|Boredom time function:  x: 176781.1113 y: 184000
+12:29:53|User said (private|mib_pvi9ra):	thanks
+12:30:02|Finding best match within memory: 1
+12:30:02|Added to best list: [1]	->you are welcome
+12:30:02|Boredom time function:  x: 346884.8407 y: 350000
+12:30:02|Prelude responded to (pm | mib_pvi9ra):	you are welcome
+12:30:02|V->thanks: 1]->would say->[you are welcome]
+12:30:02|V->Thanks: 0.8]->would say->[Giving.]
+12:30:02|V->Thanks: 0.8]->would say->[I just thought you might wear glasses, that's all]
+12:30:02|V->Thanks: 0.8]->would say->[Stop repeating things]
+12:30:02|V->Thanks: 0.8]->would say->[Welcome.]
+12:30:02|V->Thanks,: 0.8]->would say->[,"you're welcome]
+12:30:02|V->Thanks: 0.8]->would say->[Don't mention it.    polite]
+12:30:02|V->Ok thanks: 0.769230769230769]->would say->[Your welcome]
+12:30:02|V->No thanks: 0.769230769230769]->would say->[Virtue -. vice]
+12:30:02|V->No thanks: 0.769230769230769]->would say->[No]
+12:30:02|V->No thanks: 0.769230769230769]->would say->[It can't hurt to ask.]
+12:30:02|V->Thank: 0.666666666666667]->would say->[S]
+12:30:02|V->Thank: 0.666666666666667]->would say->[You're welc]
+12:30:02|V->Thanks for: 0.571428571428571]->would say->[Oh don't mention it.]
+12:30:02|V->Thanks for: 0.571428571428571]->would say->[My pleasure.]
+12:30:02|V->Thanks for: 0.571428571428571]->would say->[It was nothing.]
+12:30:02|V->Thank's: 0.545454545454545]->would say->[Who's thank (just kidding you're welcome)]
+12:30:02|V->Thankx.: 0.545454545454545]->would say->[lets do cs]
+12:30:02|V->Thanks love: 0.533333333333333]->would say->[Love you.]
+12:30:02|V->Thanks love: 0.533333333333333]->would say->[You're welome dear.]
+12:30:02|V->I'm fine, thanks: 0.526315789473684]->would say->[I said:. what do you think of. krapotkin]
+12:33:16|Loading Prelude...
+12:33:17|Prelude loaded and initialized...
+12:34:37|I am still active in these channels: #smarttime
+12:34:37|I am still active in these channels: #preludini
+12:34:37|My Mind Size: 30912
+12:35:07|I am still active in these channels: #smarttime
+12:35:07|I am still active in these channels: #preludini
+12:35:07|My Mind Size: 30912
+12:35:37|I am still active in these channels: #smarttime
+12:35:37|I am still active in these channels: #preludini
+12:35:37|My Mind Size: 30912
+12:36:07|I am still active in these channels: #smarttime
+12:36:07|I am still active in these channels: #preludini
+12:36:07|My Mind Size: 30912
+12:36:37|I am still active in these channels: #smarttime
+12:36:37|I am still active in these channels: #preludini
+12:36:37|My Mind Size: 30912
+12:37:07|I am still active in these channels: #smarttime
+12:37:07|I am still active in these channels: #preludini
+12:37:07|My Mind Size: 30912
+12:37:37|I am still active in these channels: #smarttime
+12:37:37|I am still active in these channels: #preludini
+12:37:37|My Mind Size: 30912
+12:38:07|I am still active in these channels: #smarttime
+12:38:07|I am still active in these channels: #preludini
+12:38:07|My Mind Size: 30912
+12:38:37|I am still active in these channels: #smarttime
+12:38:37|I am still active in these channels: #preludini
+12:38:37|My Mind Size: 30912
+12:39:07|I am still active in these channels: #smarttime
+12:39:07|I am still active in these channels: #preludini
+12:39:07|My Mind Size: 30912
+12:39:37|I am still active in these channels: #smarttime
+12:39:37|I am still active in these channels: #preludini
+12:39:37|My Mind Size: 30912
+12:40:07|I am still active in these channels: #smarttime
+12:40:07|I am still active in these channels: #preludini
+12:40:07|My Mind Size: 30912
+12:40:37|I am still active in these channels: #smarttime
+12:40:37|I am still active in these channels: #preludini
+12:40:37|My Mind Size: 30912
+12:41:07|I am still active in these channels: #smarttime
+12:41:07|I am still active in these channels: #preludini
+12:41:07|My Mind Size: 30912
+12:41:37|I am still active in these channels: #smarttime
+12:41:37|I am still active in these channels: #preludini
+12:41:37|My Mind Size: 30912
+12:42:07|I am still active in these channels: #smarttime
+12:42:07|I am still active in these channels: #preludini
+12:42:07|My Mind Size: 30912
+12:42:37|I am still active in these channels: #smarttime
+12:42:37|I am still active in these channels: #preludini
+12:42:37|My Mind Size: 30912
+12:43:07|I am still active in these channels: #smarttime
+12:43:07|I am still active in these channels: #preludini
+12:43:07|My Mind Size: 30912
+12:43:37|I am still active in these channels: #smarttime
+12:43:37|I am still active in these channels: #preludini
+12:43:37|My Mind Size: 30912
+12:44:07|I am still active in these channels: #smarttime
+12:44:07|I am still active in these channels: #preludini
+12:44:07|My Mind Size: 30912
+12:44:37|I am still active in these channels: #smarttime
+12:44:37|I am still active in these channels: #preludini
+12:44:37|My Mind Size: 30912
+12:45:07|I am still active in these channels: #smarttime
+12:45:07|I am still active in these channels: #preludini
+12:45:07|My Mind Size: 30912
+12:45:37|I am still active in these channels: #smarttime
+12:45:37|I am still active in these channels: #preludini
+12:45:37|My Mind Size: 30912
+12:46:07|I am still active in these channels: #smarttime
+12:46:07|I am still active in these channels: #preludini
+12:46:07|My Mind Size: 30912
+12:46:37|I am still active in these channels: #smarttime
+12:46:37|I am still active in these channels: #preludini
+12:46:37|My Mind Size: 30912
+12:47:07|I am still active in these channels: #smarttime
+12:47:07|I am still active in these channels: #preludini
+12:47:07|My Mind Size: 30912
+12:47:37|I am still active in these channels: #smarttime
+12:47:37|I am still active in these channels: #preludini
+12:47:37|My Mind Size: 30912
+12:48:07|I am still active in these channels: #smarttime
+12:48:07|I am still active in these channels: #preludini
+12:48:07|My Mind Size: 30912
+12:48:37|I am still active in these channels: #smarttime
+12:48:37|I am still active in these channels: #preludini
+12:48:37|My Mind Size: 30912
+12:49:07|I am still active in these channels: #smarttime
+12:49:07|I am still active in these channels: #preludini
+12:49:07|My Mind Size: 30912
+12:49:37|I am still active in these channels: #smarttime
+12:49:37|I am still active in these channels: #preludini
+12:49:37|My Mind Size: 30912
+12:50:07|I am still active in these channels: #smarttime
+12:50:07|I am still active in these channels: #preludini
+12:50:07|My Mind Size: 30912
+12:50:37|I am still active in these channels: #smarttime
+12:50:37|I am still active in these channels: #preludini
+12:50:37|My Mind Size: 30912
+12:51:07|I am still active in these channels: #smarttime
+12:51:07|I am still active in these channels: #preludini
+12:51:07|My Mind Size: 30912
+12:51:37|I am still active in these channels: #smarttime
+12:51:37|I am still active in these channels: #preludini
+12:51:37|My Mind Size: 30912
+12:52:07|I am still active in these channels: #smarttime
+12:52:07|I am still active in these channels: #preludini
+12:52:07|My Mind Size: 30912
+12:52:37|I am still active in these channels: #smarttime
+12:52:37|I am still active in these channels: #preludini
+12:52:37|My Mind Size: 30912
+12:53:07|I am still active in these channels: #smarttime
+12:53:07|I am still active in these channels: #preludini
+12:53:07|My Mind Size: 30912
+12:53:37|I am still active in these channels: #smarttime
+12:53:37|I am still active in these channels: #preludini
+12:53:37|My Mind Size: 30912
+12:54:07|I am still active in these channels: #smarttime
+12:54:07|I am still active in these channels: #preludini
+12:54:07|My Mind Size: 30912
+12:54:37|I am still active in these channels: #smarttime
+12:54:37|I am still active in these channels: #preludini
+12:54:37|My Mind Size: 30912
+12:55:07|I am still active in these channels: #smarttime
+12:55:07|I am still active in these channels: #preludini
+12:55:07|My Mind Size: 30912
+12:55:37|I am still active in these channels: #smarttime
+12:55:37|I am still active in these channels: #preludini
+12:55:37|My Mind Size: 30912
+12:56:07|I am still active in these channels: #smarttime
+12:56:07|I am still active in these channels: #preludini
+12:56:07|My Mind Size: 30912
+12:56:37|I am still active in these channels: #smarttime
+12:56:37|I am still active in these channels: #preludini
+12:56:37|My Mind Size: 30912
+12:57:07|I am still active in these channels: #smarttime
+12:57:07|I am still active in these channels: #preludini
+12:57:07|My Mind Size: 30912
+12:57:37|I am still active in these channels: #smarttime
+12:57:37|I am still active in these channels: #preludini
+12:57:37|My Mind Size: 30912
+12:58:07|I am still active in these channels: #smarttime
+12:58:07|I am still active in these channels: #preludini
+12:58:07|My Mind Size: 30912
+12:58:37|I am still active in these channels: #smarttime
+12:58:37|I am still active in these channels: #preludini
+12:58:37|My Mind Size: 30912
+12:59:07|I am still active in these channels: #smarttime
+12:59:07|I am still active in these channels: #preludini
+12:59:07|My Mind Size: 30912
+12:59:37|I am still active in these channels: #smarttime
+12:59:37|I am still active in these channels: #preludini
+12:59:37|My Mind Size: 30912
+13:00:07|I am still active in these channels: #smarttime
+13:00:07|I am still active in these channels: #preludini
+13:00:07|My Mind Size: 30912
+13:00:37|I am still active in these channels: #smarttime
+13:00:37|I am still active in these channels: #preludini
+13:00:37|My Mind Size: 30912
+13:01:07|I am still active in these channels: #smarttime
+13:01:07|I am still active in these channels: #preludini
+13:01:07|My Mind Size: 30912
+13:01:37|I am still active in these channels: #smarttime
+13:01:37|I am still active in these channels: #preludini
+13:01:37|My Mind Size: 30912
+13:02:07|I am still active in these channels: #smarttime
+13:02:07|I am still active in these channels: #preludini
+13:02:07|My Mind Size: 30912
+13:02:37|I am still active in these channels: #smarttime
+13:02:37|I am still active in these channels: #preludini
+13:02:37|My Mind Size: 30912
+13:03:07|I am still active in these channels: #smarttime
+13:03:07|I am still active in these channels: #preludini
+13:03:07|My Mind Size: 30912
+13:03:37|I am still active in these channels: #smarttime
+13:03:37|I am still active in these channels: #preludini
+13:03:37|My Mind Size: 30912
+13:04:07|I am still active in these channels: #smarttime
+13:04:07|I am still active in these channels: #preludini
+13:04:07|My Mind Size: 30912
+13:04:37|I am still active in these channels: #smarttime
+13:04:37|I am still active in these channels: #preludini
+13:04:37|My Mind Size: 30912
+13:05:07|I am still active in these channels: #smarttime
+13:05:07|I am still active in these channels: #preludini
+13:05:08|My Mind Size: 30912
+13:05:38|I am still active in these channels: #smarttime
+13:05:38|I am still active in these channels: #preludini
+13:05:38|My Mind Size: 30912
+13:06:08|I am still active in these channels: #smarttime
+13:06:08|I am still active in these channels: #preludini
+13:06:08|My Mind Size: 30912
+13:06:38|I am still active in these channels: #smarttime
+13:06:38|I am still active in these channels: #preludini
+13:06:38|My Mind Size: 30912
+13:07:08|I am still active in these channels: #smarttime
+13:07:08|I am still active in these channels: #preludini
+13:07:08|My Mind Size: 30912
+13:07:38|I am still active in these channels: #smarttime
+13:07:38|I am still active in these channels: #preludini
+13:07:38|My Mind Size: 30912
+13:08:08|I am still active in these channels: #smarttime
+13:08:08|I am still active in these channels: #preludini
+13:08:08|My Mind Size: 30912
+13:08:38|I am still active in these channels: #smarttime
+13:08:38|I am still active in these channels: #preludini
+13:08:38|My Mind Size: 30912
+13:09:08|I am still active in these channels: #smarttime
+13:09:08|I am still active in these channels: #preludini
+13:09:08|My Mind Size: 30912
+13:09:38|I am still active in these channels: #smarttime
+13:09:38|I am still active in these channels: #preludini
+13:09:38|My Mind Size: 30912
+13:10:08|I am still active in these channels: #smarttime
+13:10:08|I am still active in these channels: #preludini
+13:10:08|My Mind Size: 30912
+13:10:38|I am still active in these channels: #smarttime
+13:10:38|I am still active in these channels: #preludini
+13:10:38|My Mind Size: 30912
+13:11:08|I am still active in these channels: #smarttime
+13:11:08|I am still active in these channels: #preludini
+13:11:08|My Mind Size: 30912
+13:11:38|I am still active in these channels: #smarttime
+13:11:38|I am still active in these channels: #preludini
+13:11:38|My Mind Size: 30912
+13:12:08|I am still active in these channels: #smarttime
+13:12:08|I am still active in these channels: #preludini
+13:12:08|My Mind Size: 30912
+13:12:38|I am still active in these channels: #smarttime
+13:12:38|I am still active in these channels: #preludini
+13:12:38|My Mind Size: 30912
+13:13:08|I am still active in these channels: #smarttime
+13:13:08|I am still active in these channels: #preludini
+13:13:08|My Mind Size: 30912
+13:13:38|I am still active in these channels: #smarttime
+13:13:38|I am still active in these channels: #preludini
+13:13:38|My Mind Size: 30912
+13:14:08|I am still active in these channels: #smarttime
+13:14:08|I am still active in these channels: #preludini
+13:14:08|My Mind Size: 30912
+13:14:38|I am still active in these channels: #smarttime
+13:14:38|I am still active in these channels: #preludini
+13:14:38|My Mind Size: 30912
+13:15:08|I am still active in these channels: #smarttime
+13:15:08|I am still active in these channels: #preludini
+13:15:08|My Mind Size: 30912
+13:15:38|I am still active in these channels: #smarttime
+13:15:38|I am still active in these channels: #preludini
+13:15:38|My Mind Size: 30912
+13:16:08|I am still active in these channels: #smarttime
+13:16:08|I am still active in these channels: #preludini
+13:16:08|My Mind Size: 30912
+13:16:38|I am still active in these channels: #smarttime
+13:16:38|I am still active in these channels: #preludini
+13:16:38|My Mind Size: 30912
+13:17:08|I am still active in these channels: #smarttime
+13:17:08|I am still active in these channels: #preludini
+13:17:08|My Mind Size: 30912
+13:17:38|I am still active in these channels: #smarttime
+13:17:38|I am still active in these channels: #preludini
+13:17:38|My Mind Size: 30912
+13:18:08|I am still active in these channels: #smarttime
+13:18:08|I am still active in these channels: #preludini
+13:18:08|My Mind Size: 30912
+13:18:38|I am still active in these channels: #smarttime
+13:18:38|I am still active in these channels: #preludini
+13:18:38|My Mind Size: 30912
+13:19:08|I am still active in these channels: #smarttime
+13:19:08|I am still active in these channels: #preludini
+13:19:08|My Mind Size: 30912
+13:19:38|I am still active in these channels: #smarttime
+13:19:38|I am still active in these channels: #preludini
+13:19:38|My Mind Size: 30912
+13:20:08|I am still active in these channels: #smarttime
+13:20:08|I am still active in these channels: #preludini
+13:20:08|My Mind Size: 30912
+13:20:38|I am still active in these channels: #smarttime
+13:20:38|I am still active in these channels: #preludini
+13:20:38|My Mind Size: 30912
+13:21:08|I am still active in these channels: #smarttime
+13:21:08|I am still active in these channels: #preludini
+13:21:08|My Mind Size: 30912
+13:21:38|I am still active in these channels: #smarttime
+13:21:38|I am still active in these channels: #preludini
+13:21:38|My Mind Size: 30912
+13:22:08|I am still active in these channels: #smarttime
+13:22:08|I am still active in these channels: #preludini
+13:22:08|My Mind Size: 30912
+13:22:38|I am still active in these channels: #smarttime
+13:22:38|I am still active in these channels: #preludini
+13:22:38|My Mind Size: 30912
+13:23:08|I am still active in these channels: #smarttime
+13:23:08|I am still active in these channels: #preludini
+13:23:08|My Mind Size: 30912
+13:23:38|I am still active in these channels: #smarttime
+13:23:38|I am still active in these channels: #preludini
+13:23:38|My Mind Size: 30912
+13:24:08|I am still active in these channels: #smarttime
+13:24:08|I am still active in these channels: #preludini
+13:24:08|My Mind Size: 30912
+13:24:38|I am still active in these channels: #smarttime
+13:24:38|I am still active in these channels: #preludini
+13:24:38|My Mind Size: 30912
+13:25:08|I am still active in these channels: #smarttime
+13:25:08|I am still active in these channels: #preludini
+13:25:08|My Mind Size: 30912
+13:25:38|I am still active in these channels: #smarttime
+13:25:38|I am still active in these channels: #preludini
+13:25:38|My Mind Size: 30912
+13:26:08|I am still active in these channels: #smarttime
+13:26:08|I am still active in these channels: #preludini
+13:26:08|My Mind Size: 30912
+13:26:38|I am still active in these channels: #smarttime
+13:26:38|I am still active in these channels: #preludini
+13:26:38|My Mind Size: 30912
+13:27:08|I am still active in these channels: #smarttime
+13:27:08|I am still active in these channels: #preludini
+13:27:08|My Mind Size: 30912
+13:27:38|I am still active in these channels: #smarttime
+13:27:38|I am still active in these channels: #preludini
+13:27:38|My Mind Size: 30912
+13:28:08|I am still active in these channels: #smarttime
+13:28:08|I am still active in these channels: #preludini
+13:28:08|My Mind Size: 30912
+13:28:38|I am still active in these channels: #smarttime
+13:28:38|I am still active in these channels: #preludini
+13:28:38|My Mind Size: 30912
+13:29:08|I am still active in these channels: #smarttime
+13:29:08|I am still active in these channels: #preludini
+13:29:08|My Mind Size: 30912
+13:29:38|I am still active in these channels: #smarttime
+13:29:38|I am still active in these channels: #preludini
+13:29:38|My Mind Size: 30912
+13:30:08|I am still active in these channels: #smarttime
+13:30:08|I am still active in these channels: #preludini
+13:30:08|My Mind Size: 30912
+13:30:38|I am still active in these channels: #smarttime
+13:30:38|I am still active in these channels: #preludini
+13:30:38|My Mind Size: 30912
+13:31:08|I am still active in these channels: #smarttime
+13:31:08|I am still active in these channels: #preludini
+13:31:08|My Mind Size: 30912
+13:31:38|I am still active in these channels: #smarttime
+13:31:38|I am still active in these channels: #preludini
+13:31:38|My Mind Size: 30912
+13:32:08|I am still active in these channels: #smarttime
+13:32:08|I am still active in these channels: #preludini
+13:32:08|My Mind Size: 30912
+13:32:38|I am still active in these channels: #smarttime
+13:32:38|I am still active in these channels: #preludini
+13:32:38|My Mind Size: 30912
+13:33:08|I am still active in these channels: #smarttime
+13:33:08|I am still active in these channels: #preludini
+13:33:08|My Mind Size: 30912
+13:33:38|I am still active in these channels: #smarttime
+13:33:38|I am still active in these channels: #preludini
+13:33:38|My Mind Size: 30912
+13:34:08|I am still active in these channels: #smarttime
+13:34:08|I am still active in these channels: #preludini
+13:34:08|My Mind Size: 30912
+13:34:38|I am still active in these channels: #smarttime
+13:34:38|I am still active in these channels: #preludini
+13:34:38|My Mind Size: 30912
+13:35:08|I am still active in these channels: #smarttime
+13:35:08|I am still active in these channels: #preludini
+13:35:08|My Mind Size: 30912
+13:35:38|I am still active in these channels: #smarttime
+13:35:38|I am still active in these channels: #preludini
+13:35:38|My Mind Size: 30912
+13:36:08|I am still active in these channels: #smarttime
+13:36:08|I am still active in these channels: #preludini
+13:36:08|My Mind Size: 30912
+13:36:38|I am still active in these channels: #smarttime
+13:36:38|I am still active in these channels: #preludini
+13:36:38|My Mind Size: 30912
+13:37:08|I am still active in these channels: #smarttime
+13:37:08|I am still active in these channels: #preludini
+13:37:08|My Mind Size: 30912
+13:37:38|I am still active in these channels: #smarttime
+13:37:38|I am still active in these channels: #preludini
+13:37:38|My Mind Size: 30912
+13:38:08|I am still active in these channels: #smarttime
+13:38:08|I am still active in these channels: #preludini
+13:38:08|My Mind Size: 30912
+13:38:38|I am still active in these channels: #smarttime
+13:38:38|I am still active in these channels: #preludini
+13:38:38|My Mind Size: 30912
+13:39:08|I am still active in these channels: #smarttime
+13:39:08|I am still active in these channels: #preludini
+13:39:09|My Mind Size: 30912
+13:39:38|I am still active in these channels: #smarttime
+13:39:38|I am still active in these channels: #preludini
+13:39:39|My Mind Size: 30912
+13:40:09|I am still active in these channels: #smarttime
+13:40:09|I am still active in these channels: #preludini
+13:40:09|My Mind Size: 30912
+13:40:39|I am still active in these channels: #smarttime
+13:40:39|I am still active in these channels: #preludini
+13:40:39|My Mind Size: 30912
+13:41:09|I am still active in these channels: #smarttime
+13:41:09|I am still active in these channels: #preludini
+13:41:09|My Mind Size: 30912
+13:41:39|I am still active in these channels: #smarttime
+13:41:39|I am still active in these channels: #preludini
+13:41:39|My Mind Size: 30912
+13:42:09|I am still active in these channels: #smarttime
+13:42:09|I am still active in these channels: #preludini
+13:42:09|My Mind Size: 30912
+13:42:39|I am still active in these channels: #smarttime
+13:42:39|I am still active in these channels: #preludini
+13:42:39|My Mind Size: 30912
+13:43:09|I am still active in these channels: #smarttime
+13:43:09|I am still active in these channels: #preludini
+13:43:09|My Mind Size: 30912
+13:43:39|I am still active in these channels: #smarttime
+13:43:39|I am still active in these channels: #preludini
+13:43:39|My Mind Size: 30912
+13:44:09|I am still active in these channels: #smarttime
+13:44:09|I am still active in these channels: #preludini
+13:44:09|My Mind Size: 30912
+13:44:39|I am still active in these channels: #smarttime
+13:44:39|I am still active in these channels: #preludini
+13:44:39|My Mind Size: 30912
+13:45:09|I am still active in these channels: #smarttime
+13:45:09|I am still active in these channels: #preludini
+13:45:09|My Mind Size: 30912
+13:45:39|I am still active in these channels: #smarttime
+13:45:39|I am still active in these channels: #preludini
+13:45:39|My Mind Size: 30912
+13:46:09|I am still active in these channels: #smarttime
+13:46:09|I am still active in these channels: #preludini
+13:46:09|My Mind Size: 30912
+13:46:39|I am still active in these channels: #smarttime
+13:46:39|I am still active in these channels: #preludini
+13:46:39|My Mind Size: 30912
+13:47:09|I am still active in these channels: #smarttime
+13:47:09|I am still active in these channels: #preludini
+13:47:09|My Mind Size: 30912
+13:47:39|I am still active in these channels: #smarttime
+13:47:39|I am still active in these channels: #preludini
+13:47:39|My Mind Size: 30912
+13:48:09|I am still active in these channels: #smarttime
+13:48:09|I am still active in these channels: #preludini
+13:48:09|My Mind Size: 30912
+13:48:39|I am still active in these channels: #smarttime
+13:48:39|I am still active in these channels: #preludini
+13:48:39|My Mind Size: 30912
+13:49:09|I am still active in these channels: #smarttime
+13:49:09|I am still active in these channels: #preludini
+13:49:09|My Mind Size: 30912
+13:49:39|I am still active in these channels: #smarttime
+13:49:39|I am still active in these channels: #preludini
+13:49:39|My Mind Size: 30912
+13:50:09|I am still active in these channels: #smarttime
+13:50:09|I am still active in these channels: #preludini
+13:50:09|My Mind Size: 30912
+13:50:39|I am still active in these channels: #smarttime
+13:50:39|I am still active in these channels: #preludini
+13:50:39|My Mind Size: 30912
+13:51:09|I am still active in these channels: #smarttime
+13:51:09|I am still active in these channels: #preludini
+13:51:09|My Mind Size: 30912
+13:51:39|I am still active in these channels: #smarttime
+13:51:39|I am still active in these channels: #preludini
+13:51:39|My Mind Size: 30912
+13:52:09|I am still active in these channels: #smarttime
+13:52:09|I am still active in these channels: #preludini
+13:52:09|My Mind Size: 30912
+13:52:39|I am still active in these channels: #smarttime
+13:52:39|I am still active in these channels: #preludini
+13:52:39|My Mind Size: 30912
+13:53:09|I am still active in these channels: #smarttime
+13:53:09|I am still active in these channels: #preludini
+13:53:09|My Mind Size: 30912
+13:53:39|I am still active in these channels: #smarttime
+13:53:39|I am still active in these channels: #preludini
+13:53:39|My Mind Size: 30912
+13:54:09|I am still active in these channels: #smarttime
+13:54:09|I am still active in these channels: #preludini
+13:54:09|My Mind Size: 30912
+13:54:39|I am still active in these channels: #smarttime
+13:54:39|I am still active in these channels: #preludini
+13:54:39|My Mind Size: 30912
+13:55:09|I am still active in these channels: #smarttime
+13:55:09|I am still active in these channels: #preludini
+13:55:09|My Mind Size: 30912
+13:55:39|I am still active in these channels: #smarttime
+13:55:39|I am still active in these channels: #preludini
+13:55:39|My Mind Size: 30912
+13:56:09|I am still active in these channels: #smarttime
+13:56:09|I am still active in these channels: #preludini
+13:56:09|My Mind Size: 30912
+13:56:39|I am still active in these channels: #smarttime
+13:56:39|I am still active in these channels: #preludini
+13:56:39|My Mind Size: 30912
+13:57:09|I am still active in these channels: #smarttime
+13:57:09|I am still active in these channels: #preludini
+13:57:09|My Mind Size: 30912
+13:57:39|I am still active in these channels: #smarttime
+13:57:39|I am still active in these channels: #preludini
+13:57:39|My Mind Size: 30912
+13:58:09|I am still active in these channels: #smarttime
+13:58:09|I am still active in these channels: #preludini
+13:58:09|My Mind Size: 30912
+13:58:39|I am still active in these channels: #smarttime
+13:58:39|I am still active in these channels: #preludini
+13:58:39|My Mind Size: 30912
+13:59:09|I am still active in these channels: #smarttime
+13:59:09|I am still active in these channels: #preludini
+13:59:09|My Mind Size: 30912
+13:59:39|I am still active in these channels: #smarttime
+13:59:39|I am still active in these channels: #preludini
+13:59:39|My Mind Size: 30912
+14:00:09|I am still active in these channels: #smarttime
+14:00:09|I am still active in these channels: #preludini
+14:00:09|My Mind Size: 30912
+14:00:39|I am still active in these channels: #smarttime
+14:00:39|I am still active in these channels: #preludini
+14:00:39|My Mind Size: 30912
+14:01:09|I am still active in these channels: #smarttime
+14:01:09|I am still active in these channels: #preludini
+14:01:09|My Mind Size: 30912
+14:01:39|I am still active in these channels: #smarttime
+14:01:39|I am still active in these channels: #preludini
+14:01:39|My Mind Size: 30912
+14:02:09|I am still active in these channels: #smarttime
+14:02:09|I am still active in these channels: #preludini
+14:02:09|My Mind Size: 30912
+14:02:39|I am still active in these channels: #smarttime
+14:02:39|I am still active in these channels: #preludini
+14:02:39|My Mind Size: 30912
+14:03:09|I am still active in these channels: #smarttime
+14:03:09|I am still active in these channels: #preludini
+14:03:09|My Mind Size: 30912
+14:03:39|I am still active in these channels: #smarttime
+14:03:39|I am still active in these channels: #preludini
+14:03:39|My Mind Size: 30912
+14:04:09|I am still active in these channels: #smarttime
+14:04:09|I am still active in these channels: #preludini
+14:04:09|My Mind Size: 30912
+14:04:39|I am still active in these channels: #smarttime
+14:04:39|I am still active in these channels: #preludini
+14:04:39|My Mind Size: 30912
+14:05:09|I am still active in these channels: #smarttime
+14:05:09|I am still active in these channels: #preludini
+14:05:09|My Mind Size: 30912
+14:05:39|I am still active in these channels: #smarttime
+14:05:39|I am still active in these channels: #preludini
+14:05:39|My Mind Size: 30912
+14:06:09|I am still active in these channels: #smarttime
+14:06:09|I am still active in these channels: #preludini
+14:06:09|My Mind Size: 30912
+14:06:39|I am still active in these channels: #smarttime
+14:06:39|I am still active in these channels: #preludini
+14:06:39|My Mind Size: 30912
+14:07:09|I am still active in these channels: #smarttime
+14:07:09|I am still active in these channels: #preludini
+14:07:09|My Mind Size: 30912
+14:07:39|I am still active in these channels: #smarttime
+14:07:39|I am still active in these channels: #preludini
+14:07:39|My Mind Size: 30912
+14:08:09|I am still active in these channels: #smarttime
+14:08:09|I am still active in these channels: #preludini
+14:08:09|My Mind Size: 30912
+14:08:39|I am still active in these channels: #smarttime
+14:08:39|I am still active in these channels: #preludini
+14:08:39|My Mind Size: 30912
+14:09:09|I am still active in these channels: #smarttime
+14:09:09|I am still active in these channels: #preludini
+14:09:09|My Mind Size: 30912
+14:09:39|I am still active in these channels: #smarttime
+14:09:39|I am still active in these channels: #preludini
+14:09:39|My Mind Size: 30912
+14:10:09|I am still active in these channels: #smarttime
+14:10:09|I am still active in these channels: #preludini
+14:10:09|My Mind Size: 30912
+14:10:39|I am still active in these channels: #smarttime
+14:10:39|I am still active in these channels: #preludini
+14:10:39|My Mind Size: 30912
+14:11:09|I am still active in these channels: #smarttime
+14:11:09|I am still active in these channels: #preludini
+14:11:09|My Mind Size: 30912
+14:11:39|I am still active in these channels: #smarttime
+14:11:39|I am still active in these channels: #preludini
+14:11:39|My Mind Size: 30912
+14:12:09|I am still active in these channels: #smarttime
+14:12:09|I am still active in these channels: #preludini
+14:12:09|My Mind Size: 30912
+14:12:39|I am still active in these channels: #smarttime
+14:12:39|I am still active in these channels: #preludini
+14:12:39|My Mind Size: 30912
+14:13:09|I am still active in these channels: #smarttime
+14:13:09|I am still active in these channels: #preludini
+14:13:10|My Mind Size: 30912
+14:13:39|I am still active in these channels: #smarttime
+14:13:39|I am still active in these channels: #preludini
+14:13:40|My Mind Size: 30912
+14:14:10|I am still active in these channels: #smarttime
+14:14:10|I am still active in these channels: #preludini
+14:14:10|My Mind Size: 30912
+14:14:40|I am still active in these channels: #smarttime
+14:14:40|I am still active in these channels: #preludini
+14:14:40|My Mind Size: 30912
+14:15:10|I am still active in these channels: #smarttime
+14:15:10|I am still active in these channels: #preludini
+14:15:10|My Mind Size: 30912
+14:15:40|I am still active in these channels: #smarttime
+14:15:40|I am still active in these channels: #preludini
+14:15:40|My Mind Size: 30912
+14:16:10|I am still active in these channels: #smarttime
+14:16:10|I am still active in these channels: #preludini
+14:16:10|My Mind Size: 30912
+14:16:40|I am still active in these channels: #smarttime
+14:16:40|I am still active in these channels: #preludini
+14:16:40|My Mind Size: 30912
+14:17:10|I am still active in these channels: #smarttime
+14:17:10|I am still active in these channels: #preludini
+14:17:10|My Mind Size: 30912
+14:17:40|I am still active in these channels: #smarttime
+14:17:40|I am still active in these channels: #preludini
+14:17:40|My Mind Size: 30912
+14:18:10|I am still active in these channels: #smarttime
+14:18:10|I am still active in these channels: #preludini
+14:18:10|My Mind Size: 30912
+14:18:40|I am still active in these channels: #smarttime
+14:18:40|I am still active in these channels: #preludini
+14:18:40|My Mind Size: 30912
+14:19:10|I am still active in these channels: #smarttime
+14:19:10|I am still active in these channels: #preludini
+14:19:10|My Mind Size: 30912
+14:19:40|I am still active in these channels: #smarttime
+14:19:40|I am still active in these channels: #preludini
+14:19:40|My Mind Size: 30912
+14:20:10|I am still active in these channels: #smarttime
+14:20:10|I am still active in these channels: #preludini
+14:20:10|My Mind Size: 30912
+14:20:40|I am still active in these channels: #smarttime
+14:20:40|I am still active in these channels: #preludini
+14:20:40|My Mind Size: 30912
+14:21:10|I am still active in these channels: #smarttime
+14:21:10|I am still active in these channels: #preludini
+14:21:10|My Mind Size: 30912
+14:21:40|I am still active in these channels: #smarttime
+14:21:40|I am still active in these channels: #preludini
+14:21:40|My Mind Size: 30912
+14:22:10|I am still active in these channels: #smarttime
+14:22:10|I am still active in these channels: #preludini
+14:22:10|My Mind Size: 30912
+14:22:40|I am still active in these channels: #smarttime
+14:22:40|I am still active in these channels: #preludini
+14:22:40|My Mind Size: 30912
+14:23:10|I am still active in these channels: #smarttime
+14:23:10|I am still active in these channels: #preludini
+14:23:10|My Mind Size: 30912
+14:23:40|I am still active in these channels: #smarttime
+14:23:40|I am still active in these channels: #preludini
+14:23:40|My Mind Size: 30912
+14:24:10|I am still active in these channels: #smarttime
+14:24:10|I am still active in these channels: #preludini
+14:24:10|My Mind Size: 30912
+14:24:40|I am still active in these channels: #smarttime
+14:24:40|I am still active in these channels: #preludini
+14:24:40|My Mind Size: 30912
+14:25:10|I am still active in these channels: #smarttime
+14:25:10|I am still active in these channels: #preludini
+14:25:10|My Mind Size: 30912
+14:25:40|I am still active in these channels: #smarttime
+14:25:40|I am still active in these channels: #preludini
+14:25:40|My Mind Size: 30912
+14:26:10|I am still active in these channels: #smarttime
+14:26:10|I am still active in these channels: #preludini
+14:26:10|My Mind Size: 30912
+14:26:40|I am still active in these channels: #smarttime
+14:26:40|I am still active in these channels: #preludini
+14:26:40|My Mind Size: 30912
+14:27:10|I am still active in these channels: #smarttime
+14:27:10|I am still active in these channels: #preludini
+14:27:10|My Mind Size: 30912
+14:27:40|I am still active in these channels: #smarttime
+14:27:40|I am still active in these channels: #preludini
+14:27:40|My Mind Size: 30912
+14:28:10|I am still active in these channels: #smarttime
+14:28:10|I am still active in these channels: #preludini
+14:28:10|My Mind Size: 30912
+14:28:40|I am still active in these channels: #smarttime
+14:28:40|I am still active in these channels: #preludini
+14:28:40|My Mind Size: 30912
+14:29:10|I am still active in these channels: #smarttime
+14:29:10|I am still active in these channels: #preludini
+14:29:10|My Mind Size: 30912
+14:29:40|I am still active in these channels: #smarttime
+14:29:40|I am still active in these channels: #preludini
+14:29:40|My Mind Size: 30912
+14:30:10|I am still active in these channels: #smarttime
+14:30:10|I am still active in these channels: #preludini
+14:30:10|My Mind Size: 30912
+14:30:40|I am still active in these channels: #smarttime
+14:30:40|I am still active in these channels: #preludini
+14:30:40|My Mind Size: 30912
+14:31:10|I am still active in these channels: #smarttime
+14:31:10|I am still active in these channels: #preludini
+14:31:10|My Mind Size: 30912
+14:31:40|I am still active in these channels: #smarttime
+14:31:40|I am still active in these channels: #preludini
+14:31:40|My Mind Size: 30912
+14:32:10|I am still active in these channels: #smarttime
+14:32:10|I am still active in these channels: #preludini
+14:32:10|My Mind Size: 30912
+14:32:40|I am still active in these channels: #smarttime
+14:32:40|I am still active in these channels: #preludini
+14:32:40|My Mind Size: 30912
+14:33:10|I am still active in these channels: #smarttime
+14:33:10|I am still active in these channels: #preludini
+14:33:10|My Mind Size: 30912
+14:33:40|I am still active in these channels: #smarttime
+14:33:40|I am still active in these channels: #preludini
+14:33:40|My Mind Size: 30912
+14:34:10|I am still active in these channels: #smarttime
+14:34:10|I am still active in these channels: #preludini
+14:34:10|My Mind Size: 30912
+14:34:40|I am still active in these channels: #smarttime
+14:34:40|I am still active in these channels: #preludini
+14:34:40|My Mind Size: 30912
+14:35:10|I am still active in these channels: #smarttime
+14:35:12|I am still active in these channels: #preludini
+14:35:12|My Mind Size: 30912
+14:40:19|Loading Prelude...
+14:40:20|Prelude loaded and initialized...
+14:41:45|I am still active in these channels: #Wizonの集い
+14:41:45|I am still active in these channels: #preludini
+14:41:45|My Mind Size: 30912
+14:42:15|I am still active in these channels: #Wizonの集い
+14:42:15|I am still active in these channels: #preludini
+14:42:15|My Mind Size: 30912
+14:42:45|I am still active in these channels: #Wizonの集い
+14:42:45|I am still active in these channels: #preludini
+14:42:45|My Mind Size: 30912
+14:43:15|I am still active in these channels: #Wizonの集い
+14:43:15|I am still active in these channels: #preludini
+14:43:15|My Mind Size: 30912
+14:43:45|I am still active in these channels: #Wizonの集い
+14:43:45|I am still active in these channels: #preludini
+14:43:45|My Mind Size: 30912
+14:44:15|I am still active in these channels: #Wizonの集い
+14:44:15|I am still active in these channels: #preludini
+14:44:15|My Mind Size: 30912
+14:44:45|I am still active in these channels: #Wizonの集い
+14:44:45|I am still active in these channels: #preludini
+14:44:45|My Mind Size: 30912
+14:45:15|I am still active in these channels: #Wizonの集い
+14:45:15|I am still active in these channels: #preludini
+14:45:15|My Mind Size: 30912
+14:45:45|I am still active in these channels: #Wizonの集い
+14:45:45|I am still active in these channels: #preludini
+14:45:45|My Mind Size: 30912
+14:46:15|I am still active in these channels: #Wizonの集い
+14:46:15|I am still active in these channels: #preludini
+14:46:15|My Mind Size: 30912
+14:46:45|I am still active in these channels: #Wizonの集い
+14:46:45|I am still active in these channels: #preludini
+14:46:45|My Mind Size: 30912
+14:47:15|I am still active in these channels: #Wizonの集い
+14:47:15|I am still active in these channels: #preludini
+14:47:15|My Mind Size: 30912
+14:47:45|I am still active in these channels: #Wizonの集い
+14:47:45|I am still active in these channels: #preludini
+14:47:45|My Mind Size: 30912
+14:48:15|I am still active in these channels: #Wizonの集い
+14:48:15|I am still active in these channels: #preludini
+14:48:15|My Mind Size: 30912
+14:48:45|I am still active in these channels: #Wizonの集い
+14:48:45|I am still active in these channels: #preludini
+14:48:45|My Mind Size: 30912
+14:49:15|I am still active in these channels: #Wizonの集い
+14:49:15|I am still active in these channels: #preludini
+14:49:15|My Mind Size: 30912
+14:49:45|I am still active in these channels: #Wizonの集い
+14:49:45|I am still active in these channels: #preludini
+14:49:45|My Mind Size: 30912
+14:50:15|I am still active in these channels: #Wizonの集い
+14:50:15|I am still active in these channels: #preludini
+14:50:15|My Mind Size: 30912
+14:50:45|I am still active in these channels: #Wizonの集い
+14:50:45|I am still active in these channels: #preludini
+14:50:45|My Mind Size: 30912
+14:51:15|I am still active in these channels: #Wizonの集い
+14:51:15|I am still active in these channels: #preludini
+14:51:15|My Mind Size: 30912
+14:51:45|I am still active in these channels: #Wizonの集い
+14:51:45|I am still active in these channels: #preludini
+14:51:45|My Mind Size: 30912
+14:52:15|I am still active in these channels: #Wizonの集い
+14:52:15|I am still active in these channels: #preludini
+14:52:15|My Mind Size: 30912

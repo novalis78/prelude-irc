@@ -124,6 +124,7 @@ namespace PreludeIRC
                 pi = new PreLudeInterface();
                 //define path to mind file
                 pi.loadedMind = "mind.mdu";
+                pi.proactiveMode = true;
                 pi.avoidLearnByRepeating = true;
                 pi.initializedAssociater = Mind.MatchingAlgorithm.Dice;
                 //start your engine ...
@@ -296,7 +297,9 @@ namespace PreludeIRC
                         
                         logger.Info("Prelude responded to (pm | " + e.Data.Nick + "):\t" + a);
                         lastTimeISaidSomething = DateTime.Now;
-
+                        pi.showMindMemory(20);
+                        pi.OnBoredomResponse += new PreLudeInterface.MyEventHandler(pi_OnBoredomResponse);
+                        
                         //now make sure we save it..
                         pi.forcedSaveMindFile();
                         if (relayChat)
@@ -308,8 +311,8 @@ namespace PreludeIRC
                         {
                             Random random = new Random();
                             idleTime = random.Next(15000, 30000);
-                            timer.Interval = idleTime;
-                            autoSpeakInput = a;
+                           timer.Interval = idleTime;
+                            //autoSpeakInput = a;
                             timer.Start();
                         }
                     }
@@ -336,6 +339,16 @@ namespace PreludeIRC
                         irc.SendMessage(SendType.Message, e.Data.Channel, "@" + TargetUser + ": " + a);
                     }
                 }
+            }
+        }
+
+        static void pi_OnBoredomResponse(object source, HandleBoredom e)
+        {
+            if (latest != null)
+            {
+                irc.SendMessage(SendType.Message, latest.Data.Nick, e.GetInfo());
+                logger.Trace("You: (away)");
+                logger.Trace("Prelude bored: " + e.GetInfo());
             }
         }
 

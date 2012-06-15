@@ -23,7 +23,6 @@ C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bi
 C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Release\NLog.dll
 C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Release\PreludeEngine.dll
 C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Release\AForge.Math.dll
-C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Release\IPlugin.dll
 C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Release\Interop.SpeechLib.dll
 C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Release\PreludeEngine.pdb
 C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\bin\Release\AForge.Math.xml

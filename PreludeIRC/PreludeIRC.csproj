@@ -39,9 +39,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\NLog.dll</HintPath>
     </Reference>
-    <Reference Include="PreludeEngine, Version=1.2.7.27455, Culture=neutral, processorArchitecture=x86">
+    <Reference Include="PreludeEngine, Version=1.2.7.24579, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\PreludeEngine.dll</HintPath>
+      <HintPath>..\PreludeEngine.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
