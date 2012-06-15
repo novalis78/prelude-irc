@@ -14,11 +14,16 @@ using Meebey.SmartIrc4net;
 using System.Timers;
 using PreludeEngine;
 using NLog;
+using System.IO;
+using AMS.Profile;
 
 namespace PreludeIRC
 {
     class lircBot
     {
+        public static IrcClient irc = null;
+        public static IrcClient irc_test = null;
+        private static Profile profile = null;
         private static PreLudeInterface pi = null;
         private static bool allowPrivateMessages = true;
         private static bool allowPublicMessages = false;
@@ -37,130 +42,238 @@ namespace PreludeIRC
         private static List<string> AllChannels = new List<string>();
         private static DateTime lastTimeISaidSomething;
         private static Logger logger = LogManager.GetCurrentClassLogger();
+        private static int reconnectCountdown = 0;
+        private static string[]  serverlist = new string[] { "irc.dal.net" };
+        private static int port = 6667;
+        private static string channel = "#sexo";
+        private static string nick = "sexGirlFlower";
+        private static string real = "PLEIRC";
 
         public static void Main(string[] args)
         {
-            Console.WriteLine("Alternatively start program with parameters: ");
-            Console.WriteLine("preludeIrc.exe server port #channelname");
-            Console.WriteLine("");
-            Thread.CurrentThread.Name = "Main";
 
-            irc.SendDelay = 500;
-            irc.ActiveChannelSyncing = true;
-            irc.OnChannelMessage += new IrcEventHandler(OnChannelMessage);
-            irc.OnQueryMessage += new IrcEventHandler(OnQueryMessage);
-            irc.OnBan += new BanEventHandler(OnBanMessage);
+            //this method is just for some tests
+            //TestConnectionStability();
+            //return;
+            
+            
+            int cycle_cnt = 0;
+            while (true)
+            {
+                cycle_cnt++;
+                //Console.Clear();
+                Console.WriteLine("Cycle: " + cycle_cnt);
+                Thread.CurrentThread.Name = "Main";
 
-            irc.OnError += new ErrorEventHandler(OnError);
-            irc.OnPart += new PartEventHandler(irc_OnPart);
-            irc.OnRawMessage += new IrcEventHandler(OnRawMessage);
-            if (proactiveMode)
-            {
-                timer = new System.Timers.Timer();
-                timer.Elapsed += new System.Timers.ElapsedEventHandler(autoAnswering);
-            }
-            sl = new SortedList();
-            string[] serverlist;
-            serverlist = new string[] { "irc.dal.net" };
-            int port = 6667;
-            string channel = "#sexo";
-            string nick = "sexGirlFlower";
-            string real = "PLEIRC";
-            if (args.Length > 2)
-            {
-                serverlist[0] = args[0];
-                port = Convert.ToInt32(args[1]);
-                channel = args[2];
-            }
-            else
-            {
-                Console.WriteLine("Missing parameters on program start. Start this program with params 'server' 'port' '#channelname'");
-            }
-            Console.WriteLine("**********************************************************");
-            Console.WriteLine("These are my settings: ");
-            Console.WriteLine("Trying to connect to " + serverlist[0] + " on port " +
-                              port + " - joining channel: " + channel);
-            Console.WriteLine("My nickname is: " + nick + " and my real name is: " + real);
-            Console.WriteLine("**********************************************************");
-            try
-            {
-                irc.AutoRetry = true;
-                irc.AutoReconnect = true;
-                // here we try to connect to the server and exceptions get handled
-                irc.Connect(serverlist, port);
-            }
-            catch (ConnectionException e)
-            {
-                // something went wrong, the reason will be shown
-                logger.Trace("couldn't connect! Reason: " + e.Message);
-                //Exit();
-            }
+                #region Settings
+                string startupPath = Path.GetDirectoryName(System.Diagnostics.Process.GetCurrentProcess().MainModule.FileName);
+                if (File.Exists(startupPath + "\\settings.ini"))
+                    profile = new Ini(startupPath + "\\settings.ini");
+                else
+                {
+                    logger.Trace("Did not find" + startupPath);
 
-            try
-            {
-                // here we logon and register our nickname and so on 
-                irc.OnRawMessage += new IrcEventHandler(irc_OnRawMessage);	
-                irc.Login(nick, real);
+                }
+                channel = (string)profile.GetValue("Main", "Channel");
+                nick = (string)profile.GetValue("Main", "Nick");
+                real = (string)profile.GetValue("Main", "Real");
+                #endregion
+
+                #region IRC Setup
+                irc = new IrcClient();
+                irc.SendDelay = 500;
+                irc.ActiveChannelSyncing = true;
+                irc.OnChannelMessage += new IrcEventHandler(OnChannelMessage);
+                irc.OnQueryMessage += new IrcEventHandler(OnQueryMessage);
+                irc.OnBan += new BanEventHandler(OnBanMessage);
+
+                irc.OnError += new Meebey.SmartIrc4net.ErrorEventHandler(OnError);
+                irc.OnPart += new PartEventHandler(irc_OnPart);
+                irc.OnRawMessage += new IrcEventHandler(OnRawMessage);
+                if (proactiveMode)
+                {
+                    timer = new System.Timers.Timer();
+                    timer.Elapsed += new System.Timers.ElapsedEventHandler(autoAnswering);
+                }
+                #endregion
                 
-                //load all channels
-                
-                irc.RfcList("");
+                sl = new SortedList();
+           
 
-                Dictionary<string, int> chann = new  Dictionary<string, int>();
-                
-                
-                
-                // join the channel
-                irc.RfcJoin(channel);
+                Console.WriteLine("**********************************************************");
+                Console.WriteLine("These are my settings: ");
+                Console.WriteLine("Trying to connect to " + serverlist[0] + " on port " + port + " - joining channel: " + channel);
+                Console.WriteLine("My nickname is: " + nick + " and my real name is: " + real);
+                Console.WriteLine("**********************************************************");
+                try
+                {
+                    irc.AutoRetry = true;
+                    irc.AutoReconnect = true;
+                    irc.Connect(serverlist, port);
+                }
+                catch (ConnectionException e)
+                {
+                    logger.Trace("couldn't connect! Reason: " + e.Message);
+                }
 
-                // here we send just 3 different types of messages, 3 times for
-                // testing the delay and flood protection (messagebuffer work)
-           //irc.SendMessage(SendType.Message, channel, "hi @ all");
-                //irc.SendMessage(SendType.Action, channel, "thinks this is cool "+i.ToString());
-                //irc.SendMessage(SendType.Notice, channel, "SmartIrc4net rocks "+i.ToString());
+                try
+                {
+                    // here we logon and register our nickname and so on 
+                    irc.OnRawMessage += new IrcEventHandler(irc_OnRawMessage);
+                    irc.Login(nick, real);
 
-                //initialize interface
-                logger.Trace("Loading Prelude...");
-                pi = new PreLudeInterface();
-                //define path to mind file
-                pi.loadedMind = "mind.mdu";
-                pi.avoidLearnByRepeating = true;
-                pi.initializedAssociater = Mind.MatchingAlgorithm.Dice;
-                //start your engine ...
-                pi.initializeEngine();
-                logger.Trace("Prelude loaded and initialized...");
+                    //load all channels
+                    irc.RfcList("");
 
-                // spawn a new thread to read the stdin of the console, this we use
-                // for reading IRC commands from the keyboard while the IRC connection
-                // stays in its own thread
-                new Thread(new ThreadStart(ReadCommands)).Start();
+                    Dictionary<string, int> chann = new Dictionary<string, int>();
 
-                // here we tell the IRC API to go into a receive mode, all events
-                // will be triggered by _this_ thread (main thread in this case)
-                // Listen() blocks by default, you can also use ListenOnce() if you
-                // need that does one IRC operation and then returns, so you need then 
-                // an own loop 
-                irc.Listen();
+                    // join the channel
+                    irc.RfcJoin(channel);
+                    irc.OnChannelAction += new ActionEventHandler(irc_OnChannelAction);
 
-                // when Listen() returns our IRC session is over, to be sure we call
-                // disconnect manually
-                irc.Disconnect();
+                    #region Prelude Setup
+                    //initialize interface
+                    logger.Trace("Loading Prelude...");
+                    pi = new PreLudeInterface();
+                    //define path to mind file
+                    pi.loadedMind = "mind.mdu";
+                    pi.avoidLearnByRepeating = true;
+                    pi.initializedAssociater = Mind.MatchingAlgorithm.Dice;
+                    //start your engine ...
+                    pi.initializeEngine();
+                    logger.Trace("Prelude loaded and initialized...");
+                    #endregion
+
+                    // spawn a new thread to read the stdin of the console, this we use
+                    // for reading IRC commands from the keyboard while the IRC connection
+                    // stays in its own thread
+                    new Thread(new ThreadStart(ReadCommands)).Start();
+                    irc.Listen();
+                    // when Listen() returns our IRC session is over, to be sure we call
+                    // disconnect manually
+                    irc.Disconnect();
+                }
+                catch (ConnectionException)
+                {
+                    logger.Trace("Connection exception");
+                    pi.stopPreludeEngine();
+                }
+                catch (Exception e)
+                {
+                    logger.Trace("Error occurred! Message: " + e.Message);
+                    logger.Trace("Exception: " + e.StackTrace);
+                    pi.stopPreludeEngine();
+
+                }
+
+                logger.Trace("Going to sleep");
+                System.Threading.Thread.Sleep(5 * 60000);
+                logger.Trace("===========================================");
             }
-            catch (ConnectionException)
+        }
+
+
+        #region IRC TEST METHODS
+        /// <summary>
+        /// just testing the IRC chat connection stability...
+        /// </summary>
+        private static void TestConnectionStability()
+        {
+            while (true)
             {
-                // this exception is handled becaused Disconnect() can throw a not
-                // connected exception
-                logger.Trace("Connection exception");
-                pi.stopPreludeEngine();
-                //Exit();
+                try
+                {
+                    irc_test = new IrcClient();
+                    irc_test.AutoRetry = true;
+                    irc_test.AutoReconnect = true;
+                    irc_test.OnChannelMessage += new IrcEventHandler(irc_test_OnChannelMessage);
+                    irc_test.OnRawMessage += new IrcEventHandler(irc_test_OnRawMessage);
+                    // here we try to connect to the server and exceptions get handled
+                    irc_test.Connect(serverlist, port);
+                }
+                catch (ConnectionException e)
+                {
+                    // something went wrong, the reason will be shown
+                    logger.Trace("couldn't connect! Reason: " + e.Message);
+                    //Exit();
+                }
+
+                try
+                {
+                    // here we logon and register our nickname and so on 
+                    irc_test.Login(nick, real);
+
+                    // join the channel
+                    irc_test.RfcJoin(channel);
+
+
+                    // here we tell the IRC API to go into a receive mode, all events
+                    // will be triggered by _this_ thread (main thread in this case)
+                    // Listen() blocks by default, you can also use ListenOnce() if you
+                    // need that does one IRC operation and then returns, so you need then 
+                    // an own loop 
+                    irc_test.Listen();
+
+                    // when Listen() returns our IRC session is over, to be sure we call
+                    // disconnect manually
+                    irc_test.Disconnect();
+                }
+                catch (ConnectionException e)
+                {
+                    // this exception is handled becaused Disconnect() can throw a not
+                    // connected exception
+                    logger.Trace("Connection exception: " + e.Message);
+                    //Exit();
+                }
+                catch (Exception e)
+                {
+                    // this should not happen by just in case we handle it nicely
+                    logger.Trace("Error occurred! Message: " + e.Message);
+                    logger.Trace("Exception: " + e.StackTrace);
+                    //Exit();
+                }
+
+                logger.Trace("Going to sleep");
+                System.Threading.Thread.Sleep(5*60000);
+                logger.Trace("===========================================");
             }
-            catch (Exception e)
+        }
+
+        static void irc_test_OnRawMessage(object sender, IrcEventArgs e)
+        {
+            logger.Trace(e.Data.Message);
+            if (e.Data.Message.Contains("This server was"))
             {
-                // this should not happen by just in case we handle it nicely
-                logger.Trace("Error occurred! Message: " + e.Message);
-                logger.Trace("Exception: " + e.StackTrace);
-                pi.stopPreludeEngine();
-                //Exit();
+                if(irc_test.IsConnected)
+                    irc_test.Disconnect();
+            }
+        }
+
+        static void irc_test_OnChannelMessage(object sender, IrcEventArgs e)
+        {
+            logger.Trace(e.Data.Message);
+        }
+        #endregion
+
+        static void irc_OnChannelAction(object sender, ActionEventArgs e)
+        {
+            if (e.ActionMessage == "joined")
+            {
+                Channel c = irc.GetChannel("");
+                Hashtable users = c.Users;
+                Random n = new Random();
+                List<string> l = new List<string>();
+                foreach(KeyValuePair<string, string> p in users)
+                {
+                    l.Add(p.Key);
+                }
+                string user = l[n.Next(l.Count)];
+                if(!sl.ContainsKey(user))
+                {
+                    irc.RfcPrivmsg(TargetUser, "hi there!");
+                    allowPrivateMessages = true;
+                    sl.Add(user, "");
+                }
             }
         }
 
@@ -171,7 +284,12 @@ namespace PreludeIRC
 
         static void irc_OnRawMessage(object sender, IrcEventArgs e)
         {
-            
+
+            if (!String.IsNullOrEmpty(e.Data.Message) && e.Data.Message.Contains("not in any channel anymore"))
+            {
+                if (irc.IsConnected)
+                    irc.Disconnect();
+            }
             if (e.Data.ReplyCode == Meebey.SmartIrc4net.ReplyCode.List)
             {
                 if(!AllChannels.Contains(e.Data.RawMessage))
@@ -198,7 +316,7 @@ namespace PreludeIRC
         } 
 
 
-        public static IrcClient irc = new IrcClient();
+       
 
         public static void OnQueryMessage(object sender, IrcEventArgs e)
         {
@@ -210,7 +328,7 @@ namespace PreludeIRC
             delegateMessageToPrelude(e);
         }
 
-        public static void OnError(object sender, ErrorEventArgs e)
+        public static void OnError(object sender, Meebey.SmartIrc4net.ErrorEventArgs e)
         {
             System.Console.WriteLine("Error: " + e.ErrorMessage);
             pi.stopPreludeEngine();
@@ -293,7 +411,15 @@ namespace PreludeIRC
                                 timer.Stop();
                         }
                         //got something:
-                        logger.Info("User said (private|" + e.Data.Nick + "):\t" + ind);
+                        if (ind.Contains("♥") || ind.ToLower().Contains("== Question") || ind.ToLower().Contains("hint:") || ind.ToLower().Contains("times up") || e.Data.Nick.ToLower().Contains("radio"))
+                        {
+                            SwitchChannel();
+                            return;
+                        }
+
+                        string userInput = "User said (private|" + e.Data.Nick + "):\t" + ind;
+                        appendUserLog(e.Data.Nick, userInput);
+                        logger.Info(userInput);
                         
                         //now wait a bit
                         Random rand = new Random();
@@ -302,8 +428,10 @@ namespace PreludeIRC
                         //now answer
                         a = pi.chatWithPrelude(ind);
                         irc.SendMessage(SendType.Message, e.Data.Nick, a);
-                        
-                        logger.Info("Prelude responded to (pm | " + e.Data.Nick + "):\t" + a);
+
+                        string preludeOutput = "Prelude responded to (pm | " + e.Data.Nick + "):\t" + a;
+                        appendUserLog(e.Data.Nick, preludeOutput);
+                        logger.Info(preludeOutput);
                         lastTimeISaidSomething = DateTime.Now;
 
                         //now make sure we save it..
@@ -345,6 +473,26 @@ namespace PreludeIRC
                         irc.SendMessage(SendType.Message, e.Data.Channel, "@" + TargetUser + ": " + a);
                     }
                 }
+            }
+        }
+
+        private static void appendUserLog(string p, string message)
+        {
+            if (!File.Exists(p + ".txt"))
+            {
+                FileStream aFile = new FileStream(p + ".txt", FileMode.Create, FileAccess.Write);
+                StreamWriter sw = new StreamWriter(aFile);
+                sw.WriteLine(message);
+                sw.Close();
+                aFile.Close();
+            }
+            else
+            {
+                FileStream aFile = new FileStream(p + ".txt", FileMode.Append, FileAccess.Write);
+                StreamWriter sw = new StreamWriter(aFile);
+                sw.WriteLine(message);
+                sw.Close();
+                aFile.Close();
             }
         }
 
@@ -611,6 +759,36 @@ namespace PreludeIRC
                     if (incs.Length <= 0)
                     {
                         logger.Trace("not in any channel anymore");
+                        reconnectCountdown++;
+                        if (reconnectCountdown > 5)
+                        {
+                            //irc.Disconnect();
+                            //irc.Reconnect();
+                            System.Threading.Thread.Sleep(5000);
+                            try
+                            {
+                                irc.Connect(serverlist, port);
+                                reconnectCountdown = 0;
+                            }
+                            catch (System.Exception ex)
+                            {
+                                if (ex.Message.ToLower().Contains("already connected to"))
+                                {
+                                    reconnectCountdown = 0;
+                                    irc.Disconnect();
+                                }
+                                logger.Trace(ex.Message);
+                            }
+                        }
+                        logger.Trace("My Mind Size: " + pi.countMindMemory());
+                        try
+                        {
+                            ; //pi.forcedSaveMindFile();
+                        }
+                        catch (System.Exception ex)
+                        {
+                            logger.Trace(ex.Message);
+                        }
                         SwitchChannel();
                         
                     }
@@ -618,6 +796,7 @@ namespace PreludeIRC
                     {
                         foreach (string a in incs)
                         {
+                            reconnectCountdown = 0;
                             logger.Trace("I am still active in these channels: " + a);
                             DateTime rightnow = DateTime.Now;
                             TimeSpan diff = rightnow - lastTimeISaidSomething;
@@ -628,6 +807,25 @@ namespace PreludeIRC
                                 logger.Trace("Switching channels...has been too long");
                                 SwitchChannel();
                                 lastTimeISaidSomething = DateTime.Now; //reset..otherwise we will switch all the time if nobody is talking to us
+                            }
+                            if (true)
+                            {
+                                Channel c = irc.GetChannel(a);
+                                Hashtable users = c.Users;
+                                Random n = new Random();
+                                List<string> l = new List<string>();
+                                foreach (DictionaryEntry u in users)
+                                {
+                                    l.Add(u.Key.ToString());
+                                }
+                                string user = l[n.Next(l.Count)];
+                                if (!sl.ContainsKey(user) && user != "sexGirlFlower")
+                                {
+                                    irc.RfcPrivmsg(user, "hi there!");
+                                    logger.Trace("prelude said hi to " + user);
+                                    allowPrivateMessages = true;
+                                    sl.Add(user, "");
+                                }
                             }
                             
                         }

@@ -1,0 +1,7 @@
+User said (private|co_1990):	hi
+Prelude responded to (pm | co_1990):	blue
+User said (private|co_1990):	ari
+Prelude responded to (pm | co_1990):	The city of love. paris
+User said (private|co_1990):	malang
+Prelude responded to (pm | co_1990):	What's your favorite part of england?
+User said (private|co_1990):	whats ur nae/

@@ -1,0 +1,6 @@
+User said (private|durich):	hola
+Prelude responded to (pm | durich):	Howdy!
+User said (private|durich):	vey good
+Prelude responded to (pm | durich):	That sounds very eh, good
+User said (private|durich):	wat is your name
+Prelude responded to (pm | durich):	I told you my name

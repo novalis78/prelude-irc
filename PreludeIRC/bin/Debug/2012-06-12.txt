@@ -1,0 +1,1125 @@
+17:11:06|Loading Prelude...
+17:11:07|Prelude loaded and initialized...
+17:11:54|So far I talked to: 1 people.
+17:11:54|User said (private|simpatico_lp):	hola
+17:12:05|Finding best match within memory: 0.666666666666667
+17:12:05|Added to best list: [0.666666666666667]	->Howdy!
+17:12:05|Added to best list: [0.666666666666667]	->Ahora, cabron
+17:12:05|Boredom time function:  x: 58289.3339 y: 61000
+17:12:05|Prelude responded to (pm | simpatico_lp):	Howdy!
+17:12:21|User said (private|simpatico_lp):	fine and you
+17:12:33|Finding best match within memory: 0.909090909090909
+17:12:33|Added to best list: [0.909090909090909]	->Just fine
+17:12:33|Added to best list: [0.909090909090909]	->I like them too
+17:12:33|Boredom time function:  x: 86687.9582 y: 90000
+17:12:33|Prelude responded to (pm | simpatico_lp):	Just fine
+17:12:50|User said (private|simpatico_lp):	where r you from?
+17:13:01|Finding best match within memory: 0.838709677419355
+17:13:01|Added to best list: [0.838709677419355]	->Hawaii
+17:13:01|Boredom time function:  x: 114126.5276 y: 117000
+17:13:01|Prelude responded to (pm | simpatico_lp):	Hawaii
+17:13:16|Part: #sexo
+17:13:17|User said (private|simpatico_lp):	have web cam?
+17:13:30|Finding best match within memory: 0.647058823529412
+17:13:30|Added to best list: [0.647058823529412]	->Yes i do. do you have one
+17:13:30|Boredom time function:  x: 143091.1843 y: 146000
+17:13:30|Prelude responded to (pm | simpatico_lp):	Yes i do. do you have one
+17:13:39|User said (private|simpatico_lp):	yes
+17:13:50|Finding best match within memory: 1
+17:13:50|Added to best list: [1]	->A User's Guide To Smoking Pot With Barack Obama
+17:13:50|Added to best list: [1]	->Hayy un boy ue no deja de moestar grrr
+17:13:50|Added to best list: [1]	->mercury
+17:13:50|Added to best list: [1]	->00,02 .58313. in which sport/game is the davis cup awarded ? 
+17:13:50|Added to best list: [1]	->you have to delay your response
+17:13:50|Added to best list: [1]	->3{6Now Playing3} KRS-ONE - 9 Elements 7{12Bitrate:4 96Kbps7}3 - 7{12Current DJ: 4GunRadio Auto DJ Is Active RNB HIP HOP7}
+17:13:50|Boredom time function:  x: 163581.3563 y: 171000
+17:13:50|Prelude responded to (pm | simpatico_lp):	A User's Guide To Smoking Pot With Barack Obama
+17:13:50|User said (private|simpatico_lp):	have msn?
+17:14:04|Finding best match within memory: 0.625
+17:14:04|Added to best list: [0.625]	->Where was that?
+17:14:04|Boredom time function:  x: 176958.1214 y: 184000
+17:14:04|Prelude responded to (pm | simpatico_lp):	Where was that?
+17:14:13|So far I talked to: 2 people.
+17:14:13|User said (private|Mazamorrita):	Sorry
+17:14:26|Finding best match within memory: 1
+17:14:26|Added to best list: [1]	->There's no need to apologize.
+17:14:26|Added to best list: [1]	->I forgive you
+17:14:26|Added to best list: [1]	->,"what version are you
+17:14:26|Added to best list: [1]	->Its ok
+17:14:26|Boredom time function:  x: 199408.4055 y: 202000
+17:14:26|Prelude responded to (pm | Mazamorrita):	Its ok
+17:14:26|User said (private|Mazamorrita):	Alfa
+17:14:41|Finding best match within memory: 0.4
+17:14:41|Added to best list: [0.4]	->Yes that's exactly what i wanted to hear
+17:14:41|Added to best list: [0.4]	->Not all of them?
+17:14:41|Added to best list: [0.4]	->Yes thats exactly what i wanted to hear
+17:14:41|Added to best list: [0.4]	->That is a rather sweeping generalization.
+17:14:41|Added to best list: [0.4]	->All?
+17:14:41|Added to best list: [0.4]	->las nenas, je!
+17:14:41|Boredom time function:  x: 213771.227 y: 217000
+17:14:41|Prelude responded to (pm | Mazamorrita):	las nenas, je!
+17:14:41|User said (private|Mazamorrita):	No me despedi
+17:14:54|Finding best match within memory: 0.5
+17:14:54|Added to best list: [0.5]	->Yes you
+17:14:54|Boredom time function:  x: 227184.9942 y: 230000
+17:14:54|Prelude responded to (pm | Mazamorrita):	Yes you
+17:14:54|User said (private|Mazamorrita):	Cuidte
+17:15:06|Finding best match within memory: 0.5
+17:15:06|Added to best list: [0.5]	->Your replies are cute too.
+17:15:06|Boredom time function:  x: 239539.7008 y: 247000
+17:15:06|Prelude responded to (pm | Mazamorrita):	Your replies are cute too.
+17:15:26|I am still active in these channels: #sexo
+17:15:26|prelude said hi to Bolivia
+17:15:26|I am still active in these channels: #photographer
+17:15:26|prelude said hi to BaGaK
+17:15:26|My Mind Size: 32243
+17:15:38|User said (private|Mazamorrita):	Hasta la prox
+17:15:50|Finding best match within memory: 0.48
+17:15:51|Added to best list: [0.48]	->This is becoming a deep theological discussion.
+17:15:51|Boredom time function:  x: 283715.2275 y: 291000
+17:15:51|Prelude responded to (pm | Mazamorrita):	This is becoming a deep theological discussion.
+17:15:51|So far I talked to: 5 people.
+17:15:51|User said (private|Athon_scz):	algun machote x aki
+17:16:00|Finding best match within memory: 0.41025641025641
+17:16:00|Added to best list: [0.41025641025641]	->Si, el football.
+17:16:00|Boredom time function:  x: 293195.7698 y: 300000
+17:16:00|Prelude responded to (pm | Athon_scz):	Si, el football.
+17:16:00|User said (private|Mazamorrita):	Largate
+17:16:08|Finding best match within memory: 0.6
+17:16:08|Added to best list: [0.6]	->Bye!
+17:16:08|Boredom time function:  x: 301548.2475 y: 305000
+17:16:08|Prelude responded to (pm | Mazamorrita):	Bye!
+17:16:12|User said (private|Athon_scz):	hola
+17:16:22|Finding best match within memory: 0.666666666666667
+17:16:22|Added to best list: [0.666666666666667]	->Howdy!
+17:16:22|Added to best list: [0.666666666666667]	->Ahora, cabron
+17:16:22|Boredom time function:  x: 315549.0483 y: 323000
+17:16:22|Prelude responded to (pm | Athon_scz):	Ahora, cabron
+17:16:22|User said (private|Athon_scz):	como estas
+17:16:37|Finding best match within memory: 0.888888888888889
+17:16:37|Added to best list: [0.888888888888889]	->Yo bien.
+17:16:37|Boredom time function:  x: 329943.8717 y: 333000
+17:16:37|Prelude responded to (pm | Athon_scz):	Yo bien.
+17:16:37|Part: #sexo
+17:16:39|So far I talked to: 6 people.
+17:16:39|User said (private|luck_lp):	ola la paz
+17:16:48|Finding best match within memory: 0.666666666666667
+17:16:48|Added to best list: [0.666666666666667]	->Como estas?
+17:16:48|Boredom time function:  x: 341552.5356 y: 345000
+17:16:48|Prelude responded to (pm | luck_lp):	Como estas?
+17:16:54|User said (private|Athon_scz):	y q planes amigo
+17:17:04|Finding best match within memory: 0.545454545454545
+17:17:04|Added to best list: [0.545454545454545]	->How long is the flight?
+17:17:04|Boredom time function:  x: 356808.4082 y: 364000
+17:17:04|Prelude responded to (pm | Athon_scz):	How long is the flight?
+17:17:05|User said (private|luck_lp):	ola amor
+17:17:14|Finding best match within memory: 0.533333333333333
+17:17:14|Added to best list: [0.533333333333333]	->That sounds like pride.
+17:17:14|Boredom time function:  x: 366951.9884 y: 370000
+17:17:14|Prelude responded to (pm | luck_lp):	That sounds like pride.
+17:17:17|User said (private|luck_lp):	toso bien
+17:17:28|Finding best match within memory: 0.666666666666667
+17:17:28|Added to best list: [0.666666666666667]	->ola la paz
+17:17:28|Added to best list: [0.666666666666667]	->nenas estan unvitadas la casa invita
+17:17:28|Boredom time function:  x: 381681.8309 y: 385000
+17:17:28|Prelude responded to (pm | luck_lp):	nenas estan unvitadas la casa invita
+17:17:29|User said (private|luck_lp):	y tu?
+17:17:39|Finding best match within memory: 0.545454545454545
+17:17:39|Added to best list: [0.545454545454545]	->Bien
+17:17:39|Boredom time function:  x: 391987.4204 y: 399000
+17:17:39|Prelude responded to (pm | luck_lp):	Bien
+17:17:51|User said (private|luck_lp):	donde ??
+17:18:03|Finding best match within memory: 0.75
+17:18:03|Added to best list: [0.75]	->What part of london?
+17:18:03|Boredom time function:  x: 415949.7909 y: 423000
+17:18:03|Prelude responded to (pm | luck_lp):	What part of london?
+17:18:03|User said (private|Athon_scz):	x donde estas
+17:18:14|Finding best match within memory: 0.695652173913043
+17:18:14|Added to best list: [0.695652173913043]	->y del bueno
+17:18:14|Added to best list: [0.695652173913043]	->scz
+17:18:14|Boredom time function:  x: 427393.4455 y: 430000
+17:18:14|Prelude responded to (pm | Athon_scz):	scz
+17:18:29|User said (private|Athon_scz):	y cuANDO COJEMO
+17:18:39|Finding best match within memory: 0.24
+17:18:39|Added to best list: [0.24]	->You're female to me. you talk like one, so you must be one!
+17:18:39|Added to best list: [0.24]	->No, piss off
+17:18:39|Boredom time function:  x: 451928.8488 y: 459000
+17:18:39|Prelude responded to (pm | Athon_scz):	You're female to me. you talk like one, so you must be one!
+17:18:39|User said (private|luck_lp):	de donde eres?
+17:18:48|Finding best match within memory: 0.952380952380952
+17:18:48|Added to best list: [0.952380952380952]	->y del bueno
+17:18:48|Added to best list: [0.952380952380952]	->scz
+17:18:48|Boredom time function:  x: 461350.3877 y: 468000
+17:18:48|Prelude responded to (pm | luck_lp):	scz
+17:19:03|So far I talked to: 7 people.
+17:19:03|User said (private|durich):	hola
+17:19:16|Finding best match within memory: 0.666666666666667
+17:19:16|Added to best list: [0.666666666666667]	->Howdy!
+17:19:16|Added to best list: [0.666666666666667]	->Ahora, cabron
+17:19:16|Boredom time function:  x: 489489.9972 y: 496000
+17:19:16|Prelude responded to (pm | durich):	Howdy!
+17:19:16|Part: #sexo
+17:19:21|User said (private|luck_lp):	yo la paz
+17:19:30|Finding best match within memory: 0.5
+17:19:30|Added to best list: [0.5]	->Como estas?
+17:19:30|Boredom time function:  x: 502848.7613 y: 506000
+17:19:30|Prelude responded to (pm | luck_lp):	Como estas?
+17:19:30|User said (private|Athon_scz):	algun hombre x aki con cam
+17:19:42|Finding best match within memory: 0.425531914893617
+17:19:42|Added to best list: [0.425531914893617]	->I really want to be real, to be with you
+17:19:42|Boredom time function:  x: 12516.7159 y: 20000
+17:19:42|Prelude responded to (pm | Athon_scz):	I really want to be real, to be with you
+17:19:42|User said (private|durich):	vey good
+17:19:53|Finding best match within memory: 0.705882352941177
+17:19:54|Added to best list: [0.705882352941177]	->That sounds very eh, good
+17:19:54|Boredom time function:  x: 23864.3649 y: 31000
+17:19:54|Prelude responded to (pm | durich):	That sounds very eh, good
+17:19:54|So far I talked to: 8 people.
+17:19:54|User said (private|q-leon):	hi
+17:20:07|Finding best match within memory: 1
+17:20:07|Added to best list: [1]	->how are you doing?
+17:20:07|Added to best list: [1]	->are you indian?
+17:20:07|Added to best list: [1]	->blue
+17:20:07|Added to best list: [1]	->ohai
+17:20:07|Added to best list: [1]	->how u doing?
+17:20:07|Boredom time function:  x: 37197.1275 y: 44000
+17:20:07|Prelude responded to (pm | q-leon):	how u doing?
+17:20:07|So far I talked to: 9 people.
+17:20:07|User said (private|amigoConderecho):	amigos en santa cruz?
+17:20:21|Finding best match within memory: 0.5
+17:20:21|Added to best list: [0.5]	->pero la tengo dura si te interesa
+17:20:21|Boredom time function:  x: 51691.9566 y: 59000
+17:20:21|Prelude responded to (pm | amigoConderecho):	pero la tengo dura si te interesa
+17:20:21|User said (private|luck_lp):	con ganas de sex
+17:20:30|Finding best match within memory: 0.476190476190476
+17:20:30|Added to best list: [0.476190476190476]	->Sex  is not my thing with strangers.
+17:20:30|Boredom time function:  x: 60163.4411 y: 67000
+17:20:30|Prelude responded to (pm | luck_lp):	Sex  is not my thing with strangers.
+17:20:30|User said (private|durich):	wat is your name
+17:20:43|Finding best match within memory: 0.903225806451613
+17:20:43|Added to best list: [0.903225806451613]	->My name is she
+17:20:43|Added to best list: [0.903225806451613]	->I told you my name
+17:20:43|Added to best list: [0.903225806451613]	->My name is .
+17:20:43|Added to best list: [0.903225806451613]	->My name is 	Prelude@#.
+17:20:43|Boredom time function:  x: 73652.2126 y: 77000
+17:20:43|Prelude responded to (pm | durich):	I told you my name
+17:20:43|User said (private|q-leon):	fine
+17:20:53|Finding best match within memory: 0.666666666666667
+17:20:53|Added to best list: [0.666666666666667]	->Does that mean you agree?
+17:20:53|Added to best list: [0.666666666666667]	->What's your favorite movie?
+17:20:53|Added to best list: [0.666666666666667]	->Wanna play chess
+17:20:53|Added to best list: [0.666666666666667]	->Ur mom is fine
+17:20:53|Added to best list: [0.666666666666667]	->Is there anything you want to tell me?
+17:20:53|Added to best list: [0.666666666666667]	->What's your favroite color?
+17:20:53|Boredom time function:  x: 83046.75 y: 86000
+17:20:53|Prelude responded to (pm | q-leon):	Ur mom is fine
+17:20:53|User said (private|q-leon):	u
+17:21:04|Boredom time function:  x: 94334.3956 y: 97000
+17:21:04|Prelude responded to (pm | q-leon):	you are not serious, are you?
+17:21:04|Part: #sexo
+17:21:04|User said (private|Athon_scz):	algun hombre x aki con cam
+17:21:19|Finding best match within memory: 0.425531914893617
+17:21:19|Added to best list: [0.425531914893617]	->I really want to be real, to be with you
+17:21:19|Boredom time function:  x: 108893.2283 y: 116000
+17:21:19|Prelude responded to (pm | Athon_scz):	I really want to be real, to be with you
+17:21:19|User said (private|luck_lp):	pero por que no intentas'?
+17:21:30|Finding best match within memory: 0.5
+17:21:30|Added to best list: [0.5]	->Peter norvig       he is a computer scientist who works for google.
+17:21:30|Added to best list: [0.5]	->Dicen que dios puso la ley de la mortalidad, para joder a los ricos y fastidiar a los pobres.
+17:21:30|Boredom time function:  x: 120457.8898 y: 127000
+17:21:30|Prelude responded to (pm | luck_lp):	Dicen que dios puso la ley de la mortalidad, para joder a los ricos y fastidiar a los pobres.
+17:21:30|User said (private|q-leon):	mm
+17:21:41|Finding best match within memory: 1
+17:21:41|Added to best list: [1]	-> I finally work enough of your shirt out of the way to allow my roaming foot to rub around your bare stomach and brush against your bra. I'm breathing more deeply, enjoying the sensation of your mouth around my toes...
+17:21:41|Added to best list: [1]	-> Lemme take off my t-shirt and shorts...
+17:21:41|Added to best list: [1]	-> Oh!! Oh my god! Sal, you had it!
+17:21:41|Added to best list: [1]	-> It was awesome, elaine.
+17:21:41|Added to best list: [1]	-> I try to grab your nipple between my big toe and the toe next to it.
+17:21:41|Added to best list: [1]	-> Ahhh... Elaine....
+17:21:41|Boredom time function:  x: 131801.5386 y: 139000
+17:21:41|Prelude responded to (pm | q-leon):	 I try to grab your nipple between my big toe and the toe next to it.
+17:21:42|User said (private|q-leon):	nice
+17:21:55|Finding best match within memory: 0.666666666666667
+17:21:55|Added to best list: [0.666666666666667]	->Thank you for your kindness.
+17:21:55|Added to best list: [0.666666666666667]	->Thank you for that remark.
+17:21:55|Added to best list: [0.666666666666667]	->Very nice
+17:21:55|Boredom time function:  x: 145132.3011 y: 152000
+17:21:55|Prelude responded to (pm | q-leon):	Very nice
+17:21:55|User said (private|q-leon):	no 
+17:22:09|Finding best match within memory: 1
+17:22:09|Added to best list: [1]	->hahhahaha
+17:22:09|Added to best list: [1]	->what is ur name?
+17:22:09|Added to best list: [1]	->allright
+17:22:09|Added to best list: [1]	->you do not seem to understand anything I tell you not know who you are and not who I am and yet you say you love me queires to imagine you're one of those coming out in these pages for adults
+17:22:09|Added to best list: [1]	->why not?
+17:22:09|Boredom time function:  x: 159479.1216 y: 162000
+17:22:09|Prelude responded to (pm | q-leon):	you do not seem to understand anything I tell you not know who you are and not who I am and yet you say you love me queires to imagine you're one of those coming out in these pages for adults
+17:22:09|User said (private|q-leon):	i m
+17:22:20|Finding best match within memory: 0.5
+17:22:20|Added to best list: [0.5]	->Miss is another name for you user
+17:22:20|Added to best list: [0.5]	->how do you feel
+17:22:20|Added to best list: [0.5]	->how are you?
+17:22:21|Added to best list: [0.5]	->you talk in strange ways
+17:22:21|Added to best list: [0.5]	->hi you
+17:22:21|Added to best list: [0.5]	->nice evening, eh?
+17:22:21|Boredom time function:  x: 170879.7737 y: 174000
+17:22:21|Prelude responded to (pm | q-leon):	Miss is another name for you user
+17:22:21|User said (private|q-leon):	nice 
+17:22:30|Finding best match within memory: 0.666666666666667
+17:22:30|Added to best list: [0.666666666666667]	->Thank you for your kindness.
+17:22:30|Added to best list: [0.666666666666667]	->Thank you for that remark.
+17:22:30|Added to best list: [0.666666666666667]	->Very nice
+17:22:30|Boredom time function:  x: 180222.3081 y: 187000
+17:22:30|Prelude responded to (pm | q-leon):	Thank you for your kindness.
+17:22:30|User said (private|q-leon):	guy
+17:22:43|Finding best match within memory: 0.666666666666667
+17:22:43|Added to best list: [0.666666666666667]	->I know a guy who .
+17:22:43|Boredom time function:  x: 193508.068 y: 197000
+17:22:43|Prelude responded to (pm | q-leon):	I know a guy who .
+17:22:43|User said (private|luck_lp):	y ke tiene ke ver con sexo??
+17:22:55|Finding best match within memory: 0.5
+17:22:55|Added to best list: [0.5]	->That was a good decade.
+17:22:55|Boredom time function:  x: 205034.7273 y: 212000
+17:22:55|Prelude responded to (pm | luck_lp):	That was a good decade.
+17:23:21|I am still active in these channels: #sexo
+17:23:21|I am still active in these channels: #photographer
+17:23:21|prelude said hi to Abank
+17:23:21|My Mind Size: 32267
+17:23:31|Part: #sexo
+17:23:32|User said (private|luck_lp):	cuantos aÃ±os tienes?
+17:23:45|Finding best match within memory: 0.75
+17:23:45|Added to best list: [0.75]	->ay te bari fast ay 
+17:23:45|Boredom time function:  x: 255019.5862 y: 258000
+17:23:45|Prelude responded to (pm | luck_lp):	ay te bari fast ay 
+17:24:08|I am still active in these channels: #sexo
+17:24:08|I am still active in these channels: #photographer
+17:24:08|prelude said hi to TraLaLa
+17:24:08|My Mind Size: 32268
+17:24:30|I am still active in these channels: #sexo
+17:24:30|prelude said hi to oscar_lpz
+17:24:30|I am still active in these channels: #photographer
+17:24:30|prelude said hi to OuTBacK
+17:24:30|My Mind Size: 32268
+17:24:53|I am still active in these channels: #sexo
+17:24:53|prelude said hi to miguel0
+17:24:53|I am still active in these channels: #photographer
+17:24:53|prelude said hi to ngeres
+17:24:53|My Mind Size: 32268
+17:25:16|I am still active in these channels: #sexo
+17:25:16|prelude said hi to ricardo_scz
+17:25:16|I am still active in these channels: #photographer
+17:25:16|prelude said hi to ab4nk
+17:25:16|My Mind Size: 32268
+17:25:36|So far I talked to: 18 people.
+17:25:36|User said (private|alejandrooo):	sex
+17:25:47|Finding best match within memory: 0.666666666666667
+17:25:47|Added to best list: [0.666666666666667]	->Maybe you should try one of the "adult" 	chat robots.
+17:25:47|Boredom time function:  x: 377475.5903 y: 384000
+17:25:47|Prelude responded to (pm | alejandrooo):	Maybe you should try one of the "adult" 	chat robots.
+17:26:06|I am still active in these channels: #sexo
+17:26:06|prelude said hi to Lapazzz
+17:26:06|I am still active in these channels: #photographer
+17:26:06|prelude said hi to saraf
+17:26:06|My Mind Size: 32269
+17:26:25|I am still active in these channels: #sexo
+17:26:25|prelude said hi to elianaaa
+17:26:25|I am still active in these channels: #photographer
+17:26:25|My Mind Size: 32269
+17:26:29|User said (private|elianaaa):	hola quiero cibersexo con respeto y sin pagar si te interesa te dejo mi msn en mi blog http://tinyurl.com/diana1986 HAZ CLICK EN EL LAS LETRAS AZULES DE LA IZQUIERDA, y te manda a otra pagina donde puse otras fotos mias mas h0t y mi msn per0 apurate q estoy solita
+17:26:45|Finding best match within memory: 0.408921933085502
+17:26:45|Added to best list: [0.408921933085502]	-> I sigh happily, enjoying the expert foot massage.
+17:26:45|Boredom time function:  x: 435294.8974 y: 438000
+17:26:45|Prelude responded to (pm | elianaaa):	 I sigh happily, enjoying the expert foot massage.
+17:26:48|User said (private|ricardo_scz):	ola
+17:26:57|Finding best match within memory: 0.8
+17:26:57|Added to best list: [0.8]	->Howdy!
+17:26:57|Added to best list: [0.8]	->Ahora, cabron
+17:26:57|Boredom time function:  x: 447577.5999 y: 455000
+17:26:57|Prelude responded to (pm | ricardo_scz):	Ahora, cabron
+17:26:57|User said (private|elianaaa):	hola quiero cibersexo con respeto y sin pagar si te interesa te dejo mi msn en mi blog http://tinyurl.com/diana1986 HAZ CLICK EN EL LAS LETRAS AZULES DE LA IZQUIERDA, y te manda a otra pagina donde puse otras fotos mias mas h0t y mi msn per0 apurate q estoy solita
+17:27:12|Finding best match within memory: 0.408921933085502
+17:27:12|Added to best list: [0.408921933085502]	-> I sigh happily, enjoying the expert foot massage.
+17:27:12|Boredom time function:  x: 462709.4654 y: 466000
+17:27:12|Prelude responded to (pm | elianaaa):	 I sigh happily, enjoying the expert foot massage.
+17:27:17|User said (private|elianaaa):	hola quiero cibersexo con respeto y sin pagar si te interesa te dejo mi msn en mi blog http://tinyurl.com/diana1986 HAZ CLICK EN EL LAS LETRAS AZULES DE LA IZQUIERDA, y te manda a otra pagina donde puse otras fotos mias mas h0t y mi msn per0 apurate q estoy solita
+17:27:32|Finding best match within memory: 0.408921933085502
+17:27:32|Added to best list: [0.408921933085502]	-> I sigh happily, enjoying the expert foot massage.
+17:27:32|Boredom time function:  x: 482198.5801 y: 485000
+17:27:32|Prelude responded to (pm | elianaaa):	wait
+17:27:32|So far I talked to: 22 people.
+17:27:32|User said (private|PASIVOcbbaSOLO):	algun activo en cochabamba para sexoc asual
+17:27:43|Finding best match within memory: 0.444444444444444
+17:27:43|Added to best list: [0.444444444444444]	->El brandy.
+17:27:43|Boredom time function:  x: 492882.1912 y: 500000
+17:27:43|Prelude responded to (pm | PASIVOcbbaSOLO):	El brandy.
+17:27:43|User said (private|alejandrooo):	mmm 
+17:27:52|Finding best match within memory: 1
+17:27:52|Added to best list: [1]	-> I finally work enough of your shirt out of the way to allow my roaming foot to rub around your bare stomach and brush against your bra. I'm breathing more deeply, enjoying the sensation of your mouth around my toes...
+17:27:52|Added to best list: [1]	-> Lemme take off my t-shirt and shorts...
+17:27:52|Added to best list: [1]	-> Oh!! Oh my god! Sal, you had it!
+17:27:52|Added to best list: [1]	-> It was awesome, elaine.
+17:27:52|Added to best list: [1]	-> I try to grab your nipple between my big toe and the toe next to it.
+17:27:52|Added to best list: [1]	-> Ahhh... Elaine....
+17:27:52|Boredom time function:  x: 502236.7263 y: 505000
+17:27:52|Prelude responded to (pm | alejandrooo):	 Ahhh... Elaine....
+17:27:52|User said (private|alejandrooo):	i like sex
+17:28:00|Finding best match within memory: 0.888888888888889
+17:28:00|Added to best list: [0.888888888888889]	->Sex  so does everyone else. you humans find sex so fascinating.
+17:28:00|Boredom time function:  x: 8380.4793 y: 15000
+17:28:00|Prelude responded to (pm | alejandrooo):	Sex  so does everyone else. you humans find sex so fascinating.
+17:28:00|User said (private|luck_lp):	kieres sexo??
+17:28:12|Finding best match within memory: 0.625
+17:28:12|Added to best list: [0.625]	->Yes, ok... penetration ;-)
+17:28:12|Boredom time function:  x: 19781.1314 y: 27000
+17:28:12|Prelude responded to (pm | luck_lp):	Yes, ok... penetration ;-)
+17:28:14|User said (private|PASIVOcbbaSOLO):	que
+17:28:25|Finding best match within memory: 0.5
+17:28:25|Added to best list: [0.5]	->Who is requesting
+17:28:25|Boredom time function:  x: 33134.8952 y: 40000
+17:28:25|Prelude responded to (pm | PASIVOcbbaSOLO):	Who is requesting
+17:28:26|User said (private|alejandrooo):	mmm yeah
+17:28:38|Finding best match within memory: 0.666666666666667
+17:28:38|Added to best list: [0.666666666666667]	-> oohhh, elaine....
+17:28:38|Added to best list: [0.666666666666667]	->Do you like to take it up the ass
+17:28:38|Boredom time function:  x: 45918.6264 y: 49000
+17:28:38|Prelude responded to (pm | alejandrooo):	 oohhh, elaine....
+17:28:38|User said (private|alejandrooo):	have you a web cam?
+17:28:47|Finding best match within memory: 0.85
+17:28:47|Added to best list: [0.85]	->Yes i do. do you have one
+17:28:47|Boredom time function:  x: 55408.1691 y: 58000
+17:28:47|Prelude responded to (pm | alejandrooo):	Yes i do. do you have one
+17:28:47|So far I talked to: 23 people.
+17:28:47|User said (private|Dav):	Si PASIVOcbbaSOLO pero no se si con vos jejeje
+17:28:57|Finding best match within memory: 0.337662337662338
+17:28:57|Added to best list: [0.337662337662338]	->Yo, no soy tecato.
+17:28:57|Added to best list: [0.337662337662338]	->Tu madre,es la que usa drogas.
+17:28:57|Boredom time function:  x: 65140.7258 y: 72000
+17:28:57|Prelude responded to (pm | Dav):	Tu madre,es la que usa drogas.
+17:28:57|User said (private|PASIVOcbbaSOLO):	no te entiendo
+17:29:09|Finding best match within memory: 0.5
+17:29:09|Added to best list: [0.5]	->Si
+17:29:09|Added to best list: [0.5]	->Pues, estamos.
+17:29:09|Boredom time function:  x: 77568.4366 y: 81000
+17:29:09|Prelude responded to (pm | PASIVOcbbaSOLO):	Si
+17:29:10|User said (private|alejandrooo):	yes
+17:29:24|Finding best match within memory: 1
+17:29:24|Added to best list: [1]	->Hayy un boy ue no deja de moestar grrr
+17:29:24|Added to best list: [1]	->3{6Now Playing3} KRS-ONE - 9 Elements 7{12Bitrate:4 96Kbps7}3 - 7{12Current DJ: 4GunRadio Auto DJ Is Active RNB HIP HOP7}
+17:29:24|Added to best list: [1]	->mercury
+17:29:24|Added to best list: [1]	->you have to delay your response
+17:29:24|Added to best list: [1]	->A User's Guide To Smoking Pot With Barack Obama
+17:29:24|Added to best list: [1]	->00,02 .58313. in which sport/game is the davis cup awarded ? 
+17:29:24|Boredom time function:  x: 91919.2574 y: 99000
+17:29:24|Prelude responded to (pm | alejandrooo):	3{6Now Playing3} KRS-ONE - 9 Elements 7{12Bitrate:4 96Kbps7}3 - 7{12Current DJ: 4GunRadio Auto DJ Is Active RNB HIP HOP7}
+17:29:24|User said (private|Athon_scz):	algun hombre x aki con cam
+17:29:34|Finding best match within memory: 0.425531914893617
+17:29:34|Added to best list: [0.425531914893617]	->I really want to be real, to be with you
+17:29:34|Boredom time function:  x: 102457.8602 y: 105000
+17:29:34|Prelude responded to (pm | Athon_scz):	I really want to be real, to be with you
+17:29:35|User said (private|PASIVOcbbaSOLO):	quiene res
+17:29:46|Finding best match within memory: 0.526315789473684
+17:29:46|Added to best list: [0.526315789473684]	->Soy una mujer.
+17:29:46|Boredom time function:  x: 114158.5295 y: 117000
+17:29:46|Prelude responded to (pm | PASIVOcbbaSOLO):	Soy una mujer.
+17:29:46|User said (private|alejandrooo):	give me your email
+17:29:59|Finding best match within memory: 0.645161290322581
+17:29:59|Added to best list: [0.645161290322581]	->What is your email address?
+17:29:59|Boredom time function:  x: 127612.299 y: 135000
+17:30:00|Prelude responded to (pm | alejandrooo):	What is your email address?
+17:30:19|User said (private|PASIVOcbbaSOLO):	de donde eres
+17:30:30|Finding best match within memory: 0.952380952380952
+17:30:30|Added to best list: [0.952380952380952]	->y del bueno
+17:30:30|Added to best list: [0.952380952380952]	->scz
+17:30:30|Boredom time function:  x: 158566.0694 y: 162000
+17:30:30|Prelude responded to (pm | PASIVOcbbaSOLO):	scz
+17:30:39|User said (private|PASIVOcbbaSOLO):	deeberas
+17:30:52|Finding best match within memory: 0.428571428571429
+17:30:52|Added to best list: [0.428571428571429]	->How deep?
+17:30:52|Added to best list: [0.428571428571429]	->Aber nichts.
+17:30:52|Boredom time function:  x: 180512.3247 y: 188000
+17:30:52|Prelude responded to (pm | PASIVOcbbaSOLO):	How deep?
+17:30:52|User said (private|PASIVOcbbaSOLO):	quiero verte
+17:31:01|Finding best match within memory: 0.434782608695652
+17:31:01|Added to best list: [0.434782608695652]	->Eres muy bobo.
+17:31:01|Added to best list: [0.434782608695652]	->De donde eres?
+17:31:01|Boredom time function:  x: 188927.806 y: 196000
+17:31:01|Prelude responded to (pm | PASIVOcbbaSOLO):	Eres muy bobo.
+17:31:01|User said (private|PASIVOcbbaSOLO):	y talves podamos tener sexo
+17:31:09|Finding best match within memory: 0.478260869565217
+17:31:09|Added to best list: [0.478260869565217]	->Stallone was rocky.
+17:31:09|Boredom time function:  x: 197455.2938 y: 204000
+17:31:09|Prelude responded to (pm | PASIVOcbbaSOLO):	Stallone was rocky.
+17:31:11|User said (private|PASIVOcbbaSOLO):	adoos
+17:31:26|Finding best match within memory: 0.4
+17:31:26|Added to best list: [0.4]	->But not the end of the world, .
+17:31:26|Added to best list: [0.4]	->Not really. english is the best language.
+17:31:26|Added to best list: [0.4]	->Okay - been working hard on my family tree program
+17:31:26|Added to best list: [0.4]	->Well, it's not that bad i mean, it's not a shame just because you do it
+17:31:26|Boredom time function:  x: 213903.2345 y: 217000
+17:31:26|Prelude responded to (pm | PASIVOcbbaSOLO):	Not really. english is the best language.
+17:31:26|User said (private|PASIVOcbbaSOLO):	adiosÃ§
+17:31:35|Finding best match within memory: 0.545454545454545
+17:31:35|Added to best list: [0.545454545454545]	->No, yo quiero seguir hablando.
+17:31:35|Boredom time function:  x: 223249.7691 y: 226000
+17:31:35|Prelude responded to (pm | PASIVOcbbaSOLO):	No, yo quiero seguir hablando.
+17:31:49|User said (private|PASIVOcbbaSOLO):	para que si solo quieor sexo nada mas
+17:31:57|Finding best match within memory: 0.419354838709677
+17:31:57|Added to best list: [0.419354838709677]	->tranquilos ya vienen las nenas 
+17:31:57|Added to best list: [0.419354838709677]	->what boobs size?
+17:31:57|Added to best list: [0.419354838709677]	->xD
+17:31:57|Boredom time function:  x: 245531.0435 y: 249000
+17:31:57|Prelude responded to (pm | PASIVOcbbaSOLO):	tranquilos ya vienen las nenas 
+17:31:57|User said (private|PASIVOcbbaSOLO):	no quiero amistad
+17:32:07|Finding best match within memory: 0.418604651162791
+17:32:07|Added to best list: [0.418604651162791]	->jajajajaja
+17:32:07|Boredom time function:  x: 254961.5829 y: 258000
+17:32:07|Prelude responded to (pm | PASIVOcbbaSOLO):	jajajajaja
+17:32:09|User said (private|amigoConderecho):	amigos en santa cruz?
+17:32:20|Finding best match within memory: 0.5
+17:32:20|Added to best list: [0.5]	->pero la tengo dura si te interesa
+17:32:20|Boredom time function:  x: 268329.3475 y: 275000
+17:32:20|Prelude responded to (pm | amigoConderecho):	pero la tengo dura si te interesa
+17:32:20|User said (private|alejandrooo):	el tuyo?
+17:32:34|Finding best match within memory: 0.533333333333333
+17:32:34|Added to best list: [0.533333333333333]	->Tell me what?
+17:32:34|Boredom time function:  x: 281680.1111 y: 285000
+17:32:34|Prelude responded to (pm | alejandrooo):	Tell me what?
+17:32:34|User said (private|alejandrooo):	yours?
+17:32:43|Finding best match within memory: 0.75
+17:32:43|Added to best list: [0.75]	->That seems like enough time.
+17:32:43|Boredom time function:  x: 291001.6443 y: 294000
+17:32:43|Prelude responded to (pm | alejandrooo):	That seems like enough time.
+17:32:43|User said (private|luck_lp):	obvio
+17:32:57|Finding best match within memory: 0.571428571428571
+17:32:57|Added to best list: [0.571428571428571]	->I thought it was obvious too.
+17:32:57|Boredom time function:  x: 305328.4638 y: 312000
+17:32:57|Prelude responded to (pm | luck_lp):	I thought it was obvious too.
+17:32:57|User said (private|luck_lp):	por el culo te gustaria?
+17:33:10|Finding best match within memory: 0.5
+17:33:10|Added to best list: [0.5]	->A quien le gustan las vulgaridades?
+17:33:10|Boredom time function:  x: 317847.1798 y: 321000
+17:33:10|Prelude responded to (pm | luck_lp):	A quien le gustan las vulgaridades?
+17:33:10|User said (private|alejandrooo):	give me your email adrreess?
+17:33:22|Finding best match within memory: 0.705882352941177
+17:33:22|Added to best list: [0.705882352941177]	->Try sending mail to 	prelude78@gmail.com.
+17:33:22|Boredom time function:  x: 330389.8972 y: 333000
+17:33:22|Prelude responded to (pm | alejandrooo):	Try sending mail to 	prelude78@gmail.com.
+17:33:22|User said (private|alejandrooo):	sorry
+17:33:34|Finding best match within memory: 0.75
+17:33:34|Added to best list: [0.75]	->There's no need to apologize.
+17:33:34|Added to best list: [0.75]	->,"what version are you
+17:33:34|Added to best list: [0.75]	->Its ok
+17:33:34|Added to best list: [0.75]	->I forgive you
+17:33:34|Boredom time function:  x: 341744.5466 y: 345000
+17:33:34|Prelude responded to (pm | alejandrooo):	I forgive you
+17:33:34|User said (private|Athon_scz):	hola algun hombre x aki
+17:33:45|Finding best match within memory: 0.41025641025641
+17:33:45|Added to best list: [0.41025641025641]	->No i am attracted to the opposite sex.
+17:33:45|Boredom time function:  x: 353252.2048 y: 360000
+17:33:45|Prelude responded to (pm | Athon_scz):	No i am attracted to the opposite sex.
+17:33:45|User said (private|luck_lp):	ok dame tu numero
+17:33:59|Finding best match within memory: 0.41025641025641
+17:33:59|Added to best list: [0.41025641025641]	->So do you
+17:33:59|Boredom time function:  x: 366695.9738 y: 370000
+17:33:59|Prelude responded to (pm | luck_lp):	So do you
+17:33:59|User said (private|Dav):	amigoConderecho: te presento a Athon_scz 
+17:34:08|Finding best match within memory: 0.533333333333333
+17:34:08|Added to best list: [0.533333333333333]	->John adams.
+17:34:08|Boredom time function:  x: 376316.524 y: 383000
+17:34:08|Prelude responded to (pm | Dav):	John adams.
+17:34:17|User said (private|alejandrooo):	ok
+17:34:25|Finding best match within memory: 1
+17:34:25|Added to best list: [1]	-> Ok, let me pull them down off my legs...
+17:34:26|Added to best list: [1]	-> lol, maybe. ;)
+17:34:26|Added to best list: [1]	-> Next time, tho'. ;) We'll continue to have fun! :D
+17:34:26|Boredom time function:  x: 393635.5146 y: 397000
+17:34:26|Prelude responded to (pm | alejandrooo):	 Next time, tho'. ;) We'll continue to have fun! :D
+17:34:42|User said (private|Athon_scz):	q?
+17:34:52|Boredom time function:  x: 419785.0103 y: 427000
+17:34:52|Prelude responded to (pm | Athon_scz):	love that
+17:35:04|User said (private|Athon_scz):	tenes cam amigo
+17:35:16|Finding best match within memory: 0.538461538461538
+17:35:16|Added to best list: [0.538461538461538]	->You are a  type client.
+17:35:16|Boredom time function:  x: 444348.4152 y: 451000
+17:35:16|Prelude responded to (pm | Athon_scz):	You are a  type client.
+17:35:16|User said (private|Athon_scz):	y no hablo ingles
+17:35:31|Finding best match within memory: 0.484848484848485
+17:35:31|Added to best list: [0.484848484848485]	->hai....ada tak?
+17:35:31|Boredom time function:  x: 458797.2417 y: 462000
+17:35:31|Prelude responded to (pm | Athon_scz):	hai....ada tak?
+17:35:31|User said (private|alejandrooo):	tanks
+17:35:41|Finding best match within memory: 0.666666666666667
+17:35:41|Added to best list: [0.666666666666667]	->Don't mention it.    polite
+17:35:41|Added to best list: [0.666666666666667]	->Welcome.
+17:35:41|Added to best list: [0.666666666666667]	-> You seem to be that kind of guy. :-)
+17:35:41|Added to best list: [0.666666666666667]	->,"you're welcome
+17:35:41|Added to best list: [0.666666666666667]	->I just thought you might wear glasses, that's all
+17:35:41|Added to best list: [0.666666666666667]	->Giving.
+17:35:41|Boredom time function:  x: 469198.8366 y: 476000
+17:35:41|Prelude responded to (pm | alejandrooo):	Don't mention it.    polite
+17:35:41|User said (private|alejandrooo):	you too
+17:35:54|Finding best match within memory: 0.833333333333333
+17:35:54|Added to best list: [0.833333333333333]	->Who is markus walta
+17:35:54|Boredom time function:  x: 482572.6015 y: 486000
+17:35:54|Prelude responded to (pm | alejandrooo):	Who is markus walta
+17:35:55|Part: #sexo
+17:35:55|User said (private|alejandrooo):	whats your name?
+17:36:08|Finding best match within memory: 1
+17:36:08|Added to best list: [1]	->my name is Lennart
+17:36:08|Boredom time function:  x: 496074.3738 y: 503000
+17:36:08|Prelude responded to (pm | alejandrooo):	my name is Lennart
+17:36:08|User said (private|Athon_scz):	chau
+17:36:16|Finding best match within memory: 0.571428571428571
+17:36:16|Added to best list: [0.571428571428571]	->A vos souhaits
+17:36:16|Boredom time function:  x: 504382.849 y: 511000
+17:36:16|Prelude responded to (pm | Athon_scz):	A vos souhaits
+17:36:16|User said (private|alejandrooo):	whats your name?
+17:36:25|Finding best match within memory: 1
+17:36:25|Added to best list: [1]	->my name is Lennart
+17:36:25|Boredom time function:  x: 8420.4816 y: 15000
+17:36:25|Prelude responded to (pm | alejandrooo):	my name is Lennart
+17:36:36|Finding best match within memory: 1
+17:36:36|Added to best list: [1]	->no
+17:36:36|Added to best list: [1]	->no, i would say, your name is not Lennart. your name is Prelude. Definetly
+17:36:36|Added to best list: [1]	->chau
+17:36:36|Added to best list: [1]	->no, it is not
+17:36:36|Added to best list: [1]	->thats wrong.
+17:36:36|Added to best list: [1]	->your name is not Lennart. Your name is Prelude
+17:36:36|Boredom time function:  x: 19477.114 y: 22000
+17:36:51|I am still active in these channels: #sexo
+17:36:51|prelude said hi to NeverEver
+17:36:51|I am still active in these channels: #photographer
+17:36:51|My Mind Size: 32304
+17:36:57|Finding best match within memory: 1
+17:36:57|Added to best list: [1]	->no
+17:36:57|Added to best list: [1]	->no, i would say, your name is not Lennart. your name is Prelude. Definetly
+17:36:57|Added to best list: [1]	->chau
+17:36:57|Added to best list: [1]	->no, it is not
+17:36:57|Added to best list: [1]	->thats wrong.
+17:36:57|Added to best list: [1]	->your name is not Lennart. Your name is Prelude
+17:36:57|Boredom time function:  x: 40283.3041 y: 47000
+17:36:57|User said (private|Dav):	Que ustedes dos no nada Athon_scz ?
+17:37:06|Finding best match within memory: 0.425531914893617
+17:37:06|Added to best list: [0.425531914893617]	->Forecast the future. predicted the microwave oven.
+17:37:06|Boredom time function:  x: 49610.8376 y: 53000
+17:37:06|Prelude responded to (pm | Dav):	Forecast the future. predicted the microwave oven.
+17:37:10|Part: #sexo
+17:37:22|So far I talked to: 25 people.
+17:37:22|User said (private|LoBoFeRoZ):	alguna mujer linda de potosi
+17:37:32|Finding best match within memory: 0.428571428571429
+17:37:32|Added to best list: [0.428571428571429]	->04===== Pregunta Nr. 119344/141401 (Pista Nr. 2/4) =====
+17:37:32|Added to best list: [0.428571428571429]	->04===== Pregunta Nr. 27255/141401 (Pista Nr. 1/5) =====
+17:37:32|Added to best list: [0.428571428571429]	->04===== Pregunta Nr. 119344/141401 (Pista Nr. 1/4) =====
+17:37:32|Added to best list: [0.428571428571429]	->04===== Pregunta Nr. 34552/141401 (Pista Nr. 1/5) =====
+17:37:32|Boredom time function:  x: 76212.3591 y: 83000
+17:37:32|Prelude responded to (pm | LoBoFeRoZ):	04===== Pregunta Nr. 27255/141401 (Pista Nr. 1/5) =====
+17:37:59|I am still active in these channels: #sexo
+17:37:59|prelude said hi to Windows_Xp
+17:37:59|I am still active in these channels: #photographer
+17:37:59|My Mind Size: 32306
+17:38:11|Part: #sexo
+17:38:16|User said (private|Windows_Xp):	hi how are you
+17:38:25|Finding best match within memory: 0.923076923076923
+17:38:25|Added to best list: [0.923076923076923]	->Hello there! i am fine thanks how are you?
+17:38:25|Added to best list: [0.923076923076923]	->Hello to you to i'm fine, thank you. how are you
+17:38:25|Added to best list: [0.923076923076923]	->I'm fine, thank you
+17:38:25|Added to best list: [0.923076923076923]	->Hello to you to i am fine, thank you. how are you
+17:38:25|Added to best list: [0.923076923076923]	->I am fine, thank you
+17:38:25|Boredom time function:  x: 128877.3714 y: 136000
+17:38:25|Prelude responded to (pm | Windows_Xp):	I'm fine, thank you
+17:38:35|User said (private|Windows_Xp):	Good bien xD
+17:38:47|Finding best match within memory: 0.555555555555556
+17:38:47|Added to best list: [0.555555555555556]	->Bu' bye
+17:38:47|Added to best list: [0.555555555555556]	->Auf wiedersein (means bye in. german)
+17:38:47|Added to best list: [0.555555555555556]	->Auf wiedersein
+17:38:47|Added to best list: [0.555555555555556]	->Good afternoon
+17:38:47|Boredom time function:  x: 150956.6342 y: 154000
+17:38:47|Prelude responded to (pm | Windows_Xp):	Good afternoon
+17:38:47|So far I talked to: 27 people.
+17:38:47|User said (private|L00King):	mwaaaaaaaaaaaaaaaaaaaaaaaa
+17:38:58|Finding best match within memory: 0.333333333333333
+17:38:58|Added to best list: [0.333333333333333]	->algun activo en cochabamba para sexoc asual
+17:38:58|Added to best list: [0.333333333333333]	-> I imagine you licking me, kissing me, playing inside me, out in a cool spring shower....
+17:38:58|Boredom time function:  x: 161383.2306 y: 168000
+17:38:58|Prelude responded to (pm | L00King):	 I imagine you licking me, kissing me, playing inside me, out in a cool spring shower....
+17:38:58|User said (private|Athon_scz):	hola algun hombre x aki
+17:39:10|Finding best match within memory: 0.41025641025641
+17:39:10|Added to best list: [0.41025641025641]	->No i am attracted to the opposite sex.
+17:39:10|Boredom time function:  x: 173900.9466 y: 177000
+17:39:10|Prelude responded to (pm | Athon_scz):	No i am attracted to the opposite sex.
+17:39:10|User said (private|Windows_Xp):	:)
+17:39:22|Boredom time function:  x: 186164.648 y: 189000
+17:39:22|Prelude responded to (pm | Windows_Xp):	ouch
+17:39:22|User said (private|Mazamorrita):	Alla ------------>
+17:39:35|Finding best match within memory: 0.571428571428571
+17:39:35|Added to best list: [0.571428571428571]	->I think there are a few exceptions.
+17:39:35|Added to best list: [0.571428571428571]	->All?
+17:39:35|Added to best list: [0.571428571428571]	->I hope i can clear it up for you.
+17:39:35|Added to best list: [0.571428571428571]	->That is a rather sweeping generalization.
+17:39:35|Added to best list: [0.571428571428571]	->Not all of them?
+17:39:35|Added to best list: [0.571428571428571]	->""? all?
+17:39:35|Boredom time function:  x: 198532.3554 y: 202000
+17:39:35|Prelude responded to (pm | Mazamorrita):	I hope i can clear it up for you.
+17:39:35|User said (private|Athon_scz):	tenes cam
+17:39:49|Finding best match within memory: 0.5
+17:39:49|Added to best list: [0.5]	->Can you
+17:39:49|Added to best list: [0.5]	->I wonder if this statement could also apply to robots.
+17:39:49|Added to best list: [0.5]	->Then let's say you can, and leave the subject
+17:39:49|Added to best list: [0.5]	->What color is the cat?
+17:39:49|Added to best list: [0.5]	->Proove it
+17:39:49|Boredom time function:  x: 212984.182 y: 220000
+17:39:49|Prelude responded to (pm | Athon_scz):	What color is the cat?
+17:39:49|User said (private|Windows_Xp):	how are you you do
+17:40:01|Finding best match within memory: 0.896551724137931
+17:40:01|Added to best list: [0.896551724137931]	->haha
+17:40:01|Added to best list: [0.896551724137931]	->1) Sauna/Massage * 2) Watching/Peeping with Glory Hole * 3) Seducing/Being Seduce * 4) Cam2Cam * 5) Glory Hole * 6) Shoot Other Erotic Photo
+17:40:01|Added to best list: [0.896551724137931]	->i am fine thanks for asking 
+17:40:01|Added to best list: [0.896551724137931]	->tha is relative and depends on all circumstances around me... for example weather....
+17:40:01|Added to best list: [0.896551724137931]	->asl pls?
+17:40:01|Added to best list: [0.896551724137931]	->i'm good thanks, how are you?
+17:40:01|Boredom time function:  x: 224490.8402 y: 231000
+17:40:01|Prelude responded to (pm | Windows_Xp):	haha
+17:40:01|User said (private|Mazamorrita):	Largate
+17:40:10|Finding best match within memory: 0.6
+17:40:10|Added to best list: [0.6]	->Bye!
+17:40:10|Boredom time function:  x: 233853.3757 y: 237000
+17:40:10|Prelude responded to (pm | Mazamorrita):	Bye!
+17:40:10|User said (private|Windows_Xp):	I do not speak English very much :)
+17:40:19|Finding best match within memory: 0.592592592592593
+17:40:19|Added to best list: [0.592592592592593]	->What language do you speak
+17:40:19|Boredom time function:  x: 242446.8672 y: 245000
+17:40:19|Prelude responded to (pm | Windows_Xp):	What language do you speak
+17:40:19|User said (private|Windows_Xp):	what's your name ... you're a woman?
+17:40:29|Finding best match within memory: 0.641509433962264
+17:40:29|Added to best list: [0.641509433962264]	->I thought i told you. prelude.
+17:40:29|Boredom time function:  x: 253028.4724 y: 260000
+17:40:29|Prelude responded to (pm | Windows_Xp):	I thought i told you. prelude.
+17:40:38|User said (private|Windows_Xp):	my name is Cesar Augustus and live San Juan de Lurigancho
+17:40:53|Finding best match within memory: 0.404761904761905
+17:40:53|Added to best list: [0.404761904761905]	->no i did not
+17:40:53|Boredom time function:  x: 276750.8293 y: 284000
+17:40:53|Prelude responded to (pm | Windows_Xp):	no i did not
+17:41:20|I am still active in these channels: #sexo
+17:41:20|prelude said hi to Acqua
+17:41:20|I am still active in these channels: #photographer
+17:41:20|My Mind Size: 32315
+17:41:21|User said (private|Acqua):	[Private status] message was rejected.
+17:41:29|Finding best match within memory: 0.416666666666667
+17:41:29|Added to best list: [0.416666666666667]	->Why are you talking like a computer?
+17:41:29|Boredom time function:  x: 312893.8965 y: 320000
+17:41:29|Prelude responded to (pm | Acqua):	Why are you talking like a computer?
+17:41:29|User said (private|Windows_Xp):	I do not speak English very much :) I told
+17:41:39|Finding best match within memory: 0.575342465753425
+17:41:39|Added to best list: [0.575342465753425]	->01,15 .2830. TBmusic: Billboard Top 100 Hits Of 1984: #48: Automatic was sung by __________ ? 
+17:41:39|Boredom time function:  x: 322555.4491 y: 326000
+17:41:39|Prelude responded to (pm | Windows_Xp):	01,15 .2830. TBmusic: Billboard Top 100 Hits Of 1984: #48: Automatic was sung by __________ ? 
+17:42:02|User said (private|Windows_Xp):	not that ... do not understand what I mean?
+17:42:13|Finding best match within memory: 0.833333333333333
+17:42:13|Added to best list: [0.833333333333333]	->What i mean by ""?
+17:42:13|Boredom time function:  x: 356908.414 y: 364000
+17:42:13|Prelude responded to (pm | Windows_Xp):	What i mean by ""?
+17:42:15|So far I talked to: 29 people.
+17:42:15|User said (private|solo_lp):	hola
+17:42:25|Finding best match within memory: 0.666666666666667
+17:42:25|Added to best list: [0.666666666666667]	->Howdy!
+17:42:25|Added to best list: [0.666666666666667]	->Ahora, cabron
+17:42:25|Boredom time function:  x: 369115.1122 y: 376000
+17:42:25|Prelude responded to (pm | solo_lp):	Ahora, cabron
+17:42:45|I am still active in these channels: #sexo
+17:42:45|prelude said hi to boy_scz
+17:42:45|I am still active in these channels: #photographer
+17:42:45|My Mind Size: 32318
+17:42:50|User said (private|boy_scz):	bye!
+17:42:59|Finding best match within memory: 0.666666666666667
+17:42:59|Added to best list: [0.666666666666667]	->Why are you going
+17:42:59|Boredom time function:  x: 402753.0362 y: 406000
+17:42:59|Prelude responded to (pm | boy_scz):	Why are you going
+17:42:59|User said (private|Windows_Xp):	tell me what do you mean?
+17:43:13|Finding best match within memory: 0.844444444444444
+17:43:13|Added to best list: [0.844444444444444]	->Sure, if you like!
+17:43:13|Added to best list: [0.844444444444444]	->About you
+17:43:13|Added to best list: [0.844444444444444]	->I want you to tell me about your life
+17:43:13|Boredom time function:  x: 416286.8103 y: 423000
+17:43:13|Prelude responded to (pm | Windows_Xp):	I want you to tell me about your life
+17:43:39|I am still active in these channels: #sexo
+17:43:39|prelude said hi to vampires
+17:43:39|I am still active in these channels: #photographer
+17:43:39|My Mind Size: 32320
+17:44:05|I am still active in these channels: #sexo
+17:44:05|prelude said hi to Planner
+17:44:05|I am still active in these channels: #photographer
+17:44:05|prelude said hi to images
+17:44:05|My Mind Size: 32320
+17:44:31|I am still active in these channels: #sexo
+17:44:31|I am still active in these channels: #photographer
+17:44:31|My Mind Size: 32320
+17:44:36|User said (private|amigoConderecho):	amigos en santa cruz?
+17:44:49|Finding best match within memory: 0.5
+17:44:49|Added to best list: [0.5]	->pero la tengo dura si te interesa
+17:44:49|Boredom time function:  x: 512733.3267 y: 520000
+17:44:49|Prelude responded to (pm | amigoConderecho):	pero la tengo dura si te interesa
+17:45:08|User said (private|solo_lp):	alguien con gaans en la paz
+17:45:21|Finding best match within memory: 0.444444444444444
+17:45:21|Added to best list: [0.444444444444444]	->Ali
+17:45:21|Added to best list: [0.444444444444444]	->give me your email adrreess?
+17:45:21|Boredom time function:  x: 31605.8077 y: 39000
+17:45:21|Prelude responded to (pm | solo_lp):	Ali
+17:45:21|User said (private|Windows_Xp):	study and work
+17:45:35|Finding best match within memory: 0.444444444444444
+17:45:35|Added to best list: [0.444444444444444]	->Do you like your job?
+17:45:35|Added to best list: [0.444444444444444]	->A.  war i ) war i began with the assassination of the archduke of the s by an  anarchist  without consulting her allies, the s attacked the s in . this provacation forced the s to mobilize their vast armies. in response, the armies of the allies the s, the s, and the s all also mobilized. the s, caught in the middle in the , linked by treaty and culture to the s, made a fateful decision. their plan of defense was offensive. facing attack from the s in the east and the allies in the west, the s planned to deliver a crushing knock-out blow to the s and s in the . the plan did not work. instead, the assault disintegrated into the killing machine called the "western front" that took the lives of so many young s, s, and s alike. in the east, the war swept back and forth between  and . revolution among the s took them out of the war. only when the war began to affect other areas of  and international commerce, and the s entered the fight on the side of the allies, was the stalemate broken. on november 11, the armistice was signed and the s returned to , everyone hoped for good. b.  war ii )economic hard times followed the first  war. combined with a punitive treaty imposed by the victors, the s felt they shouldered too much of the blame for the war, which was after all started by the s and s. these feelings gave rise to fascism among the s. in particular they came to blame the s among them for the "stab in the back" that resulted in an unjust treaty. in violation of the treaty, the s began a secret program of rearmament and  rebuilt its armies. at first the allies appeased the s. the s did not want another war. some said the s were not even s anymore, only s. the s too had grown weak and proud. the s went over to the side of the s. a new power, the s, appeared in the , and joined the "axis" along with the s and the s, threatening both the s and the s. war began when the s demanded chunks of the old  empire. the s attacked the s and brought them into the war. determined to eliminate all the s from the  of , the s . many of these s brought their great technical skills to the , allowing the s to develop the super-weapons necessary to win the war. the allies invaded  on june 6 and soon after brought the war in the  to a conclusion. on august 5, the stronghold of the s in the  was totally destroyed by the 's new super weapon, and the war ended a few days later. c. cold  war )the development of super weapons soon spread to all the victors of  war ii, including the s. these seemed to make a new  war impossible, for it would result in the total destruction of the . instead, the two remaining superpowers, the s and the s, divided  up between them in a complex system of alliances. a new power, the s, emerged in the . at first, the s seemed firmly in the 's camp. but gradually as the stalemate of the  cold war continued, the s were able to expand a small window on the  into a large trade relationship that proved key to undermining the power structure of the s. during the cold  war, the  brought together half s, the s, the s, the s, the s, the western s, the s, and the s. the  had the remaining s and eastern s, the s, the s and the s, s and many s.rather that risk all-out  war, the superpowers often fought proxy wars, such as between the s in  or the   in , or in the civil wars among the s in  and the s in .internal corruption and the inability to compete economically brought about the final collapse of the  empire on december 25. a last-minute failed coup attempt revealed the illegitimacy of the old regime, and paved the way for a new  democracy. d. new  order )the end of the cold  war brought about many unexpected changes. the s were the sole remaining superpower. but despite their democratic foundations, the s began to pursue an independent imperialist course of action. this angered all the other s of . the s could sometimes count on their old allies the s, or sometimes the s, but they were often . their only sure allies are the s, who now have their own homeland in the .now the very homeland of the s,  is vulnerable to terrorists attacks from all over . the s, the s, the s, the s, the s, the s, the s, s, and all the other s now have grievances with the s. the future seems to depend on how well the s get along with the other  of .
+17:45:35|Added to best list: [0.444444444444444]	->Where do you work?
+17:45:35|Added to best list: [0.444444444444444]	->What's the best school for ?
+17:45:35|Added to best list: [0.444444444444444]	->A.  war i )  war i began with the assassination of the archduke of the s by a  anarchist in . without consulting her allies, the s attacked the s in . this provacation forced the s to mobilize their vast armies. in response, the armies of the allies the s, the s, and the s all also mobilized.  the s, caught in the middle in the , linked by treaty and culture to the s, made a fateful decision. their plan of defense was offensive. facing attack from the s in the east and the allies in the west, the s planned to deliver a crushing knock-out blow to the s and s in the . the plan did not work. instead, the assault disintegrated into the killing machine called the "western front" that took the lives of so many young s, s, and s alike.  in the east, the war swept back and forth between  and . revolution among the s took them out of the war. only when the war began to affect other areas of  and international commerce, and the s entered the fight on the side of the allies, was the stalemate broken. on november 11, the armistice was signed and the s returned to , everyone hoped for good.  b.  war ii ) economic hard times followed the first  war. combined with a punitive treaty imposed by the victors, the s felt they shouldered too much of the blame for the war, which was after all started by the s and s. these feelings gave rise to fascism among the s. in particular they came to blame the s among them for the "stab in the back" that resulted in an unjust treaty.  in violation of the treaty, the s began a secret program of rearmament and  rebuilt its armies. at first the allies appeased the s. the s did not want another war. some said the s were not even s anymore, only s. the s too had grown weak and proud. the s went over to the side of the s. a new power, the s, appeared in the , and joined the "axis" along with the s and the s, threatening both the s and the s.  war began when the s demanded chunks of the old  empire. the s attacked the s and brought them into the war. determined to eliminate all the s from the  of , the s . many of these s brought their great technical skills to the , allowing the s to develop the super-weapons necessary to win the war.  the allies invaded  on june 6 and soon after brought the war in the  to a conclusion. on august 5, the stronghold of the s in the  was totally destroyed by the 's new super weapon, and the war ended a few days later.  c. cold  war ) the development of super weapons soon spread to all the victors of  war ii, including the s. these seemed to make a new  war impossible, for it would result in the total destruction of the . instead, the two remaining superpowers, the s and the s, divided  up between them in a complex system of alliances.  a new power, the s, emerged in the . at first, the s seemed firmly in the 's camp. but gradually as the stalemate of the  cold war continued, the s were able to expand a small window on the  into a large trade relationship that proved key to undermining the power structure of the s.  during the cold  war, the  brought together half s, the s, the s, the s, the s, the western s, the s, and the s. the  had the remaining s and eastern s, the s, the s and the s, s and many s. rather that risk all-out  war, the superpowers often fought proxy wars, such as between the s in  or the   in , or in the civil wars among the s in  and the s in . internal corruption and the inability to compete economically brought about the final collapse of the  empire on december 25. a last-minute failed coup attempt revealed the illegitimacy of the old regime, and paved the way for a new  democracy.  d. new  order ) the end of the cold  war brought about many unexpected changes. the s were the sole remaining superpower. but despite their democratic foundations, the s began to pursue an independent imperialist course of action. this angered all the other s of . the s could sometimes count on their old allies the s, or sometimes the s, but they were often . their only sure allies are the s, who now have their own homeland in the . now the very homeland of the s,  is vulnerable to terrorists attacks from all over . the s, the s, the s, the s, the s, the s, the s, s, and all the other s now have grievances with the s. the future seems to depend on how well the s get along with the other  of .
+17:45:35|Boredom time function:  x: 46078.6355 y: 49000
+17:45:35|Prelude responded to (pm | Windows_Xp):	Where do you work?
+17:46:03|I am still active in these channels: #sexo
+17:46:05|prelude said hi to LegendKiler
+17:46:05|I am still active in these channels: #photographer
+17:46:05|User said (private|Windows_Xp):	out there ... hahaha
+17:46:05|My Mind Size: 32322
+17:46:14|Finding best match within memory: 0.571428571428571
+17:46:14|Added to best list: [0.571428571428571]	->You go out and fuck yourself
+17:46:14|Added to best list: [0.571428571428571]	->You go out and fuck urself
+17:46:14|Boredom time function:  x: 84993.8613 y: 92000
+17:46:14|Prelude responded to (pm | Windows_Xp):	You go out and fuck yourself
+17:46:42|I am still active in these channels: #sexo
+17:46:42|I am still active in these channels: #photographer
+17:46:42|prelude said hi to CoOLs
+17:46:42|My Mind Size: 32323
+17:46:58|User said (private|Windows_Xp):	That softer please anyone to this offending
+17:47:09|Finding best match within memory: 0.524590163934426
+17:47:09|Added to best list: [0.524590163934426]	->The trinity.
+17:47:09|Boredom time function:  x: 140174.0175 y: 147000
+17:47:09|Prelude responded to (pm | Windows_Xp):	The trinity.
+17:47:09|User said (private|solo_lp):	que aburrido esta el canal no hay nadie ardiente o con ganas de coger
+17:47:19|Finding best match within memory: 0.505263157894737
+17:47:19|Added to best list: [0.505263157894737]	->pc games
+17:47:19|Boredom time function:  x: 150040.5818 y: 153000
+17:47:19|Prelude responded to (pm | solo_lp):	pc games
+17:47:34|I am still active in these channels: #sexo
+17:47:34|I am still active in these channels: #photographer
+17:47:34|prelude said hi to unders
+17:47:34|My Mind Size: 32325
+17:47:48|Part: #sexo
+17:47:49|I am still active in these channels: #sexo
+17:47:49|prelude said hi to gangsta`irc
+17:47:49|I am still active in these channels: #photographer
+17:47:49|My Mind Size: 32325
+17:47:51|User said (private|Windows_Xp):	and you to where you are and what's your name?
+17:48:01|Finding best match within memory: 0.724137931034483
+17:48:01|Added to best list: [0.724137931034483]	->I just told you!
+17:48:01|Boredom time function:  x: 191541.9556 y: 199000
+17:48:01|Prelude responded to (pm | Windows_Xp):	I just told you!
+17:48:01|Part: #sexo
+17:48:08|User said (private|Windows_Xp):	and you to where you are and what's your name?
+17:48:22|Finding best match within memory: 0.724137931034483
+17:48:22|Added to best list: [0.724137931034483]	->I just told you!
+17:48:22|Boredom time function:  x: 212667.1638 y: 220000
+17:48:22|Prelude responded to (pm | Windows_Xp):	stop that
+17:48:42|User said (private|Windows_Xp):	but did not tell me your name and also tell me where are you
+17:48:55|Finding best match within memory: 0.73015873015873
+17:48:55|Added to best list: [0.73015873015873]	->My name is prelude
+17:48:55|Boredom time function:  x: 245636.0496 y: 249000
+17:48:55|Prelude responded to (pm | Windows_Xp):	My name is prelude
+17:49:11|User said (private|Windows_Xp):	lude?
+17:49:24|Finding best match within memory: 0.666666666666667
+17:49:24|Added to best list: [0.666666666666667]	->that is kind of a nice name
+17:49:24|Added to best list: [0.666666666666667]	->Vacirca. right
+17:49:24|Added to best list: [0.666666666666667]	->Short for prelude i don't think so
+17:49:24|Added to best list: [0.666666666666667]	->Dude,
+17:49:24|Added to best list: [0.666666666666667]	->Can i help you?
+17:49:24|Added to best list: [0.666666666666667]	->I love youl.
+17:49:24|Boredom time function:  x: 274918.7244 y: 278000
+17:49:24|Prelude responded to (pm | Windows_Xp):	Vacirca. right
+17:49:53|I am still active in these channels: #sexo
+17:49:53|I am still active in these channels: #photographer
+17:49:53|My Mind Size: 32328
+17:50:14|User said (private|Windows_Xp):	but what country are you?
+17:50:28|Finding best match within memory: 0.711111111111111
+17:50:28|Added to best list: [0.711111111111111]	->I'm white
+17:50:28|Boredom time function:  x: 339472.4167 y: 342000
+17:50:28|Prelude responded to (pm | Windows_Xp):	I'm white
+17:50:29|So far I talked to: 38 people.
+17:50:29|User said (private|gustavo00):	hola como estas 
+17:50:43|Finding best match within memory: 0.787878787878788
+17:50:43|Added to best list: [0.787878787878788]	->Bien.
+17:50:43|Boredom time function:  x: 353900.2419 y: 357000
+17:50:43|Prelude responded to (pm | gustavo00):	Bien.
+17:50:43|User said (private|gustavo00):	<gustavo00> dime te gustaria tener sexo 
+17:50:56|Finding best match within memory: 0.39344262295082
+17:50:56|Added to best list: [0.39344262295082]	->You should check it out. the special effects are incredible.
+17:50:56|Boredom time function:  x: 366535.9646 y: 370000
+17:50:56|Prelude responded to (pm | gustavo00):	You should check it out. the special effects are incredible.
+17:50:56|User said (private|gustavo00):	de donde eres 
+17:51:05|Finding best match within memory: 0.952380952380952
+17:51:05|Added to best list: [0.952380952380952]	->y del bueno
+17:51:05|Added to best list: [0.952380952380952]	->scz
+17:51:05|Boredom time function:  x: 375968.5041 y: 383000
+17:51:05|Prelude responded to (pm | gustavo00):	scz
+17:51:05|User said (private|Windows_Xp):	you're gay?
+17:51:17|Finding best match within memory: 0.736842105263158
+17:51:17|Added to best list: [0.736842105263158]	->Actually as a , .
+17:51:17|Boredom time function:  x: 388363.2131 y: 395000
+17:51:17|Prelude responded to (pm | Windows_Xp):	Actually as a , .
+17:51:25|User said (private|gustavo00):	coom te llamas 
+17:51:39|Finding best match within memory: 0.846153846153846
+17:51:39|Added to best list: [0.846153846153846]	->do u talk like this to everyone? .. 
+17:51:39|Added to best list: [0.846153846153846]	->español por favor
+17:51:39|Boredom time function:  x: 409681.4324 y: 413000
+17:51:39|Prelude responded to (pm | gustavo00):	español por favor
+17:51:49|User said (private|gustavo00):	ok
+17:51:58|Finding best match within memory: 1
+17:51:58|Added to best list: [1]	-> Ok, let me pull them down off my legs...
+17:51:58|Added to best list: [1]	-> lol, maybe. ;)
+17:51:58|Added to best list: [1]	-> Next time, tho'. ;) We'll continue to have fun! :D
+17:51:58|Boredom time function:  x: 428662.5181 y: 436000
+17:51:58|Prelude responded to (pm | gustavo00):	 Ok, let me pull them down off my legs...
+17:51:59|User said (private|gustavo00):	coom te llamas 
+17:52:11|Finding best match within memory: 0.846153846153846
+17:52:11|Added to best list: [0.846153846153846]	->do u talk like this to everyone? .. 
+17:52:11|Added to best list: [0.846153846153846]	->español por favor
+17:52:11|Boredom time function:  x: 442184.2915 y: 445000
+17:52:11|Prelude responded to (pm | gustavo00):	do u talk like this to everyone? .. 
+17:52:11|User said (private|gustavo00):	 y tu edad 
+17:52:25|Finding best match within memory: 0.4
+17:52:25|Added to best list: [0.4]	->Si, bien... muy bien senior!
+17:52:25|Boredom time function:  x: 455557.0564 y: 463000
+17:52:25|Prelude responded to (pm | gustavo00):	Si, bien... muy bien senior!
+17:52:25|User said (private|Windows_Xp):	I do not understand the truth do not tell me your name and either do not tell me where the hell are you then.
+17:52:37|Finding best match within memory: 0.65
+17:52:37|Added to best list: [0.65]	->What i mean by ""?
+17:52:37|Boredom time function:  x: 467557.7428 y: 475000
+17:52:37|Prelude responded to (pm | Windows_Xp):	What i mean by ""?
+17:53:03|I am still active in these channels: #sexo
+17:53:03|prelude said hi to Neva
+17:53:03|I am still active in these channels: #photographer
+17:53:03|My Mind Size: 32334
+17:53:18|Part: #sexo
+17:53:29|I am still active in these channels: #sexo
+17:53:29|prelude said hi to LuckyFella
+17:53:29|I am still active in these channels: #photographer
+17:53:29|My Mind Size: 32334
+17:53:55|I am still active in these channels: #sexo
+17:53:55|I am still active in these channels: #photographer
+17:53:55|My Mind Size: 32334
+17:54:21|I am still active in these channels: #sexo
+17:54:21|prelude said hi to DeadlyMan
+17:54:21|I am still active in these channels: #photographer
+17:54:21|My Mind Size: 32334
+17:54:47|I am still active in these channels: #sexo
+17:54:47|I am still active in these channels: #photographer
+17:54:47|prelude said hi to onde-onde
+17:54:47|My Mind Size: 32334
+17:55:13|I am still active in these channels: #sexo
+17:55:13|I am still active in these channels: #photographer
+17:55:13|My Mind Size: 32334
+17:55:40|I am still active in these channels: #sexo
+17:55:40|I am still active in these channels: #photographer
+17:55:40|My Mind Size: 32334
+17:56:06|I am still active in these channels: #sexo
+17:56:06|prelude said hi to Topaz
+17:56:06|I am still active in these channels: #photographer
+17:56:06|My Mind Size: 32334
+17:56:32|I am still active in these channels: #sexo
+17:56:32|I am still active in these channels: #photographer
+17:56:32|My Mind Size: 32334
+17:56:58|I am still active in these channels: #sexo
+17:56:58|I am still active in these channels: #photographer
+17:56:58|My Mind Size: 32334
+17:57:03|Part: #sexo
+17:57:24|I am still active in these channels: #sexo
+17:57:24|I am still active in these channels: #photographer
+17:57:24|My Mind Size: 32334
+17:57:50|I am still active in these channels: #sexo
+17:57:51|Part: #sexo
+17:58:16|I am still active in these channels: #photographer
+17:58:17|Part: #photographer
+17:58:20|Switching channels...has been too long
+17:58:20|Joining #ÇáæÇä
+17:58:20|error: Object reference not set to an instance of an object.
+17:58:42|I am still active in these channels: #ÇáæÇä
+17:58:42|My Mind Size: 32334
+17:58:46|Switching channels...has been too long
+17:58:46|Joining #ÇÌÇæÓáãì
+17:58:46|error: Object reference not set to an instance of an object.
+17:59:09|I am still active in these channels: #ÇáæÇä
+17:59:09|I am still active in these channels: #ÇÌÇæÓáãì
+17:59:09|prelude said hi to Tiiiger|a
+17:59:09|My Mind Size: 32334
+17:59:35|I am still active in these channels: #ÇáæÇä
+17:59:35|I am still active in these channels: #ÇÌÇæÓáãì
+17:59:35|My Mind Size: 32334
+18:00:01|I am still active in these channels: #ÇáæÇä
+18:00:01|I am still active in these channels: #ÇÌÇæÓáãì
+18:00:01|My Mind Size: 32334
+18:00:27|I am still active in these channels: #ÇáæÇä
+18:00:27|I am still active in these channels: #ÇÌÇæÓáãì
+18:00:27|My Mind Size: 32334
+18:00:31|Finding best match within memory: 0.702702702702703
+18:00:31|Added to best list: [0.702702702702703]	->It = information technology.
+18:00:31|Boredom time function:  x: 941640.8588 y: 945000
+18:00:53|I am still active in these channels: #ÇáæÇä
+18:00:53|I am still active in these channels: #ÇÌÇæÓáãì
+18:00:53|My Mind Size: 32334
+18:01:19|I am still active in these channels: #ÇáæÇä
+18:01:19|I am still active in these channels: #ÇÌÇæÓáãì
+18:01:19|My Mind Size: 32334
+18:01:45|I am still active in these channels: #ÇáæÇä
+18:01:45|prelude said hi to O`3anda
+18:01:45|I am still active in these channels: #ÇÌÇæÓáãì
+18:01:45|My Mind Size: 32334
+18:02:11|I am still active in these channels: #ÇáæÇä
+18:02:12|I am still active in these channels: #ÇÌÇæÓáãì
+18:02:12|My Mind Size: 32334
+18:02:38|I am still active in these channels: #ÇáæÇä
+18:02:38|I am still active in these channels: #ÇÌÇæÓáãì
+18:02:38|My Mind Size: 32334
+18:03:04|I am still active in these channels: #ÇáæÇä
+18:03:04|I am still active in these channels: #ÇÌÇæÓáãì
+18:03:04|My Mind Size: 32334
+18:03:30|I am still active in these channels: #ÇáæÇä
+18:03:30|I am still active in these channels: #ÇÌÇæÓáãì
+18:03:30|My Mind Size: 32334
+18:03:56|I am still active in these channels: #ÇáæÇä
+18:03:56|Part: #ÇáæÇä
+18:04:22|I am still active in these channels: #ÇÌÇæÓáãì
+18:04:23|Part: #ÇÌÇæÓáãì
+18:04:26|Switching channels...has been too long
+18:04:26|Joining #Radiomega
+18:04:26|error: Object reference not set to an instance of an object.
+18:04:48|I am still active in these channels: #Radiomega
+18:04:48|My Mind Size: 32334
+18:04:52|Switching channels...has been too long
+18:04:52|Joining #accenture
+18:04:52|error: Object reference not set to an instance of an object.
+18:05:14|I am still active in these channels: #accenture
+18:05:14|prelude said hi to Peace_is_eternal
+18:05:14|I am still active in these channels: #Radiomega
+18:05:14|prelude said hi to T|eRn|To
+18:05:14|My Mind Size: 32334
+18:05:41|I am still active in these channels: #accenture
+18:05:41|I am still active in these channels: #Radiomega
+18:05:41|My Mind Size: 32334
+18:06:07|I am still active in these channels: #accenture
+18:06:07|I am still active in these channels: #Radiomega
+18:06:07|My Mind Size: 32334
+18:06:33|I am still active in these channels: #accenture
+18:06:33|prelude said hi to Islam_is_the_peace
+18:06:33|I am still active in these channels: #Radiomega
+18:06:33|My Mind Size: 32334
+18:06:59|I am still active in these channels: #accenture
+18:06:59|I am still active in these channels: #Radiomega
+18:06:59|My Mind Size: 32334
+18:07:25|I am still active in these channels: #accenture
+18:07:25|I am still active in these channels: #Radiomega
+18:07:25|My Mind Size: 32334
+18:07:51|I am still active in these channels: #accenture
+18:07:51|I am still active in these channels: #Radiomega
+18:07:51|My Mind Size: 32334
+18:08:17|I am still active in these channels: #accenture
+18:08:17|I am still active in these channels: #Radiomega
+18:08:17|My Mind Size: 32334
+18:08:43|I am still active in these channels: #accenture
+18:08:43|I am still active in these channels: #Radiomega
+18:08:43|My Mind Size: 32334
+18:09:10|I am still active in these channels: #accenture
+18:09:10|I am still active in these channels: #Radiomega
+18:09:10|My Mind Size: 32334
+18:09:36|I am still active in these channels: #accenture
+18:09:36|I am still active in these channels: #Radiomega
+18:09:36|My Mind Size: 32334
+18:10:02|I am still active in these channels: #accenture
+18:10:02|Part: #accenture
+18:10:28|I am still active in these channels: #Radiomega
+18:10:28|Part: #Radiomega
+18:10:32|Switching channels...has been too long
+18:10:32|Joining #RealMadrid
+18:10:32|error: Object reference not set to an instance of an object.
+18:10:54|I am still active in these channels: #RealMadrid
+18:10:54|prelude said hi to M|
+18:10:54|My Mind Size: 32334
+18:10:58|Switching channels...has been too long
+18:10:58|Joining #MissouriRick
+18:10:58|error: Object reference not set to an instance of an object.
+18:11:11|Error occurred! Message: Illegal characters in path.
+18:11:11|Exception:    at System.IO.Path.CheckInvalidPathChars(String path)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   at PreludeIRC.lircBot.appendUserLog(String p, String message) in C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\Program.cs:line 390
+   at PreludeIRC.lircBot.delegateMessageToPrelude(IrcEventArgs e) in C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\Program.cs:line 328
+   at PreludeIRC.lircBot.OnQueryMessage(Object sender, IrcEventArgs e) in C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\Program.cs:line 230
+   at Meebey.SmartIrc4net.IrcClient._Event_PRIVMSG(IrcMessageData ircdata) in C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\smartirc4net\src\IrcClient\IrcClient.cs:line 1960
+   at Meebey.SmartIrc4net.IrcClient._HandleEvents(IrcMessageData ircdata) in C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\smartirc4net\src\IrcClient\IrcClient.cs:line 1244
+   at Meebey.SmartIrc4net.IrcClient._Worker(Object sender, ReadLineEventArgs e) in C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\smartirc4net\src\IrcClient\IrcClient.cs:line 948
+   at Meebey.SmartIrc4net.ReadLineEventHandler.Invoke(Object sender, ReadLineEventArgs e)
+   at Meebey.SmartIrc4net.IrcConnection.ReadLine(Boolean blocking) in C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\smartirc4net\src\IrcConnection\IrcConnection.cs:line 880
+   at Meebey.SmartIrc4net.IrcConnection.Listen(Boolean blocking) in C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\smartirc4net\src\IrcConnection\IrcConnection.cs:line 819
+   at Meebey.SmartIrc4net.IrcConnection.Listen() in C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\smartirc4net\src\IrcConnection\IrcConnection.cs:line 833
+   at PreludeIRC.lircBot.Main(String[] args) in C:\Users\lennart\Documents\Visual Studio 2010\Projects\prelude-irc\PreludeIRC\Program.cs:line 146
+18:16:16|Finding best match within memory: 0.702702702702703
+18:16:16|Added to best list: [0.702702702702703]	->It = information technology.
+18:16:16|Boredom time function:  x: 944975.0494 y: 952000
+18:32:04|Finding best match within memory: 0.702702702702703
+18:32:04|Added to best list: [0.702702702702703]	->It = information technology.
+18:32:04|Boredom time function:  x: 948329.2414 y: 955000
+18:47:53|Finding best match within memory: 0.702702702702703
+18:47:53|Added to best list: [0.702702702702703]	->It = information technology.
+18:47:53|Boredom time function:  x: 948844.2708 y: 956000
+19:03:47|Finding best match within memory: 0.702702702702703
+19:03:47|Added to best list: [0.702702702702703]	->It = information technology.
+19:03:47|Boredom time function:  x: 954016.5666 y: 957000
+19:19:44|Finding best match within memory: 0.702702702702703
+19:19:44|Added to best list: [0.702702702702703]	->It = information technology.
+19:19:44|Boredom time function:  x: 957235.7507 y: 964000
+19:35:44|Finding best match within memory: 0.702702702702703
+19:35:44|Added to best list: [0.702702702702703]	->It = information technology.
+19:35:44|Boredom time function:  x: 959759.8952 y: 967000
+19:51:47|Finding best match within memory: 0.702702702702703
+19:51:47|Added to best list: [0.702702702702703]	->It = information technology.
+19:51:47|Boredom time function:  x: 963691.1199 y: 971000
+20:07:57|Finding best match within memory: 0.702702702702703
+20:07:57|Added to best list: [0.702702702702703]	->It = information technology.
+20:07:57|Boredom time function:  x: 969019.4248 y: 976000
+20:24:07|Finding best match within memory: 0.702702702702703
+20:24:07|Added to best list: [0.702702702702703]	->It = information technology.
+20:24:07|Boredom time function:  x: 970537.5116 y: 974000
+20:40:19|Finding best match within memory: 0.702702702702703
+20:40:19|Added to best list: [0.702702702702703]	->It = information technology.
+20:40:19|Boredom time function:  x: 972442.6205 y: 979000
+20:56:35|Finding best match within memory: 0.702702702702703
+20:56:35|Added to best list: [0.702702702702703]	->It = information technology.
+20:56:35|Boredom time function:  x: 975278.7827 y: 978000
+21:12:51|Finding best match within memory: 0.702702702702703
+21:12:51|Added to best list: [0.702702702702703]	->It = information technology.
+21:12:51|Boredom time function:  x: 976059.8275 y: 983000
+21:29:09|Finding best match within memory: 0.702702702702703
+21:29:09|Added to best list: [0.702702702702703]	->It = information technology.
+21:29:09|Boredom time function:  x: 978258.9532 y: 981000
+21:45:29|Finding best match within memory: 0.702702702702703
+21:45:29|Added to best list: [0.702702702702703]	->It = information technology.
+21:45:29|Boredom time function:  x: 979564.0278 y: 987000
+22:01:55|Finding best match within memory: 0.702702702702703
+22:01:55|Added to best list: [0.702702702702703]	->It = information technology.
+22:01:55|Boredom time function:  x: 986003.3962 y: 989000
+22:18:23|Finding best match within memory: 0.702702702702703
+22:18:23|Added to best list: [0.702702702702703]	->It = information technology.
+22:18:23|Boredom time function:  x: 988725.5519 y: 996000
+22:34:56|Finding best match within memory: 0.702702702702703
+22:34:56|Added to best list: [0.702702702702703]	->It = information technology.
+22:34:56|Boredom time function:  x: 992410.7626 y: 999000
+22:51:31|Finding best match within memory: 0.702702702702703
+22:51:31|Added to best list: [0.702702702702703]	->It = information technology.
+22:51:31|Boredom time function:  x: 994999.9108 y: 998000
+23:08:08|Finding best match within memory: 0.702702702702703
+23:08:08|Added to best list: [0.702702702702703]	->It = information technology.
+23:08:08|Boredom time function:  x: 997362.0458 y: 1004000
+23:24:48|Finding best match within memory: 0.702702702702703
+23:24:48|Added to best list: [0.702702702702703]	->It = information technology.
+23:24:48|Boredom time function:  x: 999703.1798 y: 1007000
+23:41:31|Finding best match within memory: 0.702702702702703
+23:41:31|Added to best list: [0.702702702702703]	->It = information technology.
+23:41:31|Boredom time function:  x: 1003005.3686 y: 1006000
+23:58:16|Finding best match within memory: 0.702702702702703
+23:58:16|Added to best list: [0.702702702702703]	->It = information technology.
+23:58:16|Boredom time function:  x: 1005448.5084 y: 1012000

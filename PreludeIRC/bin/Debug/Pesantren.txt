@@ -1,0 +1,4 @@
+User said (private|Pesantren):	do i know you?
+Prelude responded to (pm | Pesantren):	Deductive reasoning.
+User said (private|Pesantren):	yeah? who are you?
+Prelude responded to (pm | Pesantren):	can you say something else?

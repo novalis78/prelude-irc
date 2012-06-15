@@ -1,0 +1,2 @@
+User said (private|Acqua):	[Private status] message was rejected.
+Prelude responded to (pm | Acqua):	Why are you talking like a computer?

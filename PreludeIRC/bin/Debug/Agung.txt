@@ -1,0 +1,6 @@
+User said (private|Agung):	hi
+Prelude responded to (pm | Agung):	ohai
+User said (private|Agung):	oh
+Prelude responded to (pm | Agung):	Yes homer?
+User said (private|Agung):	?
+Prelude responded to (pm | Agung):	no

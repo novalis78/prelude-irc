@@ -1,0 +1,8 @@
+User said (private|Leek):	hey
+Prelude responded to (pm | Leek):	your just a robot
+User said (private|Leek):	Hi!
+Prelude responded to (pm | Leek):	Hi there.
+User said (private|Leek):	Heelo?
+Prelude responded to (pm | Leek):	I like sarah brightman.
+User said (private|Leek):	Hello?
+Prelude responded to (pm | Leek):	Hello what is
